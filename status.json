@@ -1,0 +1,2510 @@
+{
+ "fetched_at": "2026-10-09T21:20:34.743601+00:00",
+ "baseten": {
+  "page": {
+   "id": "8dp3vkb2h71c",
+   "name": "Baseten",
+   "url": "https://status.baseten.co",
+   "time_zone": "America/Los_Angeles",
+   "updated_at": "2026-10-09T14:09:57.647-07:00"
+  },
+  "incidents": [
+   {
+    "id": "l1mzwqp0f840",
+    "name": "DeepSeek v4.1 outage on Model APIs. Dedicated Inference is not affected",
+    "status": "resolved",
+    "created_at": "2026-10-05T21:35:00.000-07:00",
+    "updated_at": "2026-10-06T21:20:24.961-07:00",
+    "monitoring_at": null,
+    "resolved_at": "2026-10-05T21:48:00.000-07:00",
+    "impact": "major",
+    "shortlink": "https://stspg.io/kv0bh77nrrdr",
+    "started_at": "2026-10-05T21:35:00.000-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "z5d49vk1q74l",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "l1mzwqp0f840",
+      "created_at": "2026-10-06T21:18:59.757-07:00",
+      "updated_at": "2026-10-06T21:20:16.438-07:00",
+      "display_at": "2026-10-05T21:48:00.000-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "partial_outage",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "cr7bd5d0lsxj",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "l1mzwqp0f840",
+      "created_at": "2026-10-06T21:18:42.172-07:00",
+      "updated_at": "2026-10-06T21:20:15.396-07:00",
+      "display_at": "2026-10-05T21:35:00.000-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "wlycmbh325fh",
+      "name": "Model APIs",
+      "status": "operational",
+      "created_at": "2025-05-20T20:13:09.902-07:00",
+      "updated_at": "2026-10-06T21:18:59.719-07:00",
+      "position": 2,
+      "description": null,
+      "showcase": true,
+      "start_date": "2025-05-20",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": "[]"
+   },
+   {
+    "id": "x05nr42j8whd",
+    "name": "Elevated 500s in Single us-central Region",
+    "status": "resolved",
+    "created_at": "2026-09-29T01:12:14.577-07:00",
+    "updated_at": "2026-09-29T01:15:48.532-07:00",
+    "monitoring_at": "2026-09-29T12:52:23.000-07:00",
+    "resolved_at": "2026-09-29T12:57:20.000-07:00",
+    "impact": "major",
+    "shortlink": "https://stspg.io/8b0kljx3pcnv",
+    "started_at": "2026-09-29T12:44:14.000-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "glg0n6fwqwlg",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "x05nr42j8whd",
+      "created_at": "2026-09-29T01:15:20.280-07:00",
+      "updated_at": "2026-09-29T01:15:48.506-07:00",
+      "display_at": "2026-09-29T12:57:20.000-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "partial_outage",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "x895pq4c0gy7",
+      "status": "monitoring",
+      "body": "A fix has been implemented and we're monitoring the results.",
+      "incident_id": "x05nr42j8whd",
+      "created_at": "2026-09-29T01:14:23.986-07:00",
+      "updated_at": "2026-09-29T01:15:05.166-07:00",
+      "display_at": "2026-09-29T12:52:23.000-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "partial_outage",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "lztr41mnjxwy",
+      "status": "identified",
+      "body": "The issue has been identified and we're looking into a fix.",
+      "incident_id": "x05nr42j8whd",
+      "created_at": "2026-09-29T01:12:14.716-07:00",
+      "updated_at": "2026-09-29T01:12:34.310-07:00",
+      "display_at": "2026-09-29T12:44:14.000-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": "[]"
+   },
+   {
+    "id": "dfmq82b0t69x",
+    "name": "Metrics degradation in UI and API. **Inference not affected**",
+    "status": "resolved",
+    "created_at": "2026-09-28T18:07:54.112-07:00",
+    "updated_at": "2026-09-28T18:28:56.550-07:00",
+    "monitoring_at": null,
+    "resolved_at": "2026-09-28T18:28:56.527-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/883zgz27m3yn",
+    "started_at": "2026-09-28T18:07:54.104-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "h8csrqp2713c",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "dfmq82b0t69x",
+      "created_at": "2026-09-28T18:28:56.527-07:00",
+      "updated_at": "2026-09-28T18:28:56.527-07:00",
+      "display_at": "2026-09-28T18:28:56.527-07:00",
+      "affected_components": [
+       {
+        "code": "0hmz7b8lt5q0",
+        "name": "Model Management API",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       },
+       {
+        "code": "sz27hf23dpff",
+        "name": "Web Application",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "fmm1j0mrts4r",
+      "status": "investigating",
+      "body": "We are continuing to investigate this issue.",
+      "incident_id": "dfmq82b0t69x",
+      "created_at": "2026-09-28T18:09:35.941-07:00",
+      "updated_at": "2026-09-28T18:09:35.941-07:00",
+      "display_at": "2026-09-28T18:09:35.941-07:00",
+      "affected_components": [
+       {
+        "code": "0hmz7b8lt5q0",
+        "name": "Model Management API",
+        "old_status": "under_maintenance",
+        "new_status": "degraded_performance"
+       },
+       {
+        "code": "sz27hf23dpff",
+        "name": "Web Application",
+        "old_status": "under_maintenance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "6b1bq13db33w",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "dfmq82b0t69x",
+      "created_at": "2026-09-28T18:07:54.175-07:00",
+      "updated_at": "2026-09-28T18:07:54.175-07:00",
+      "display_at": "2026-09-28T18:07:54.175-07:00",
+      "affected_components": [
+       {
+        "code": "0hmz7b8lt5q0",
+        "name": "Model Management API",
+        "old_status": "under_maintenance",
+        "new_status": "under_maintenance"
+       },
+       {
+        "code": "sz27hf23dpff",
+        "name": "Web Application",
+        "old_status": "under_maintenance",
+        "new_status": "under_maintenance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "0hmz7b8lt5q0",
+      "name": "Model Management API",
+      "status": "operational",
+      "created_at": "2022-01-18T08:34:34.201-08:00",
+      "updated_at": "2026-09-28T18:28:56.468-07:00",
+      "position": 4,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     },
+     {
+      "id": "sz27hf23dpff",
+      "name": "Web Application",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:15.407-08:00",
+      "updated_at": "2026-09-28T18:28:56.491-07:00",
+      "position": 5,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "rj514rfwk1y4",
+    "name": "Intermittent 5xx for a subset of models in 1 US Central cluster",
+    "status": "resolved",
+    "created_at": "2026-09-24T11:35:13.000-07:00",
+    "updated_at": "2026-09-24T12:57:39.586-07:00",
+    "monitoring_at": null,
+    "resolved_at": "2026-09-24T12:57:39.569-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/2yvpl6y9sw33",
+    "started_at": "2026-09-24T11:35:13.000-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "1vvgch86xfpc",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "rj514rfwk1y4",
+      "created_at": "2026-09-24T12:57:39.569-07:00",
+      "updated_at": "2026-09-24T12:57:39.569-07:00",
+      "display_at": "2026-09-24T12:57:39.569-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "1ztv37y11hfs",
+      "status": "investigating",
+      "body": "0.15% of requests on this cluster resulted in a 5xx error, confined to two 2-3 min spikes. The team is continuing to investigate.",
+      "incident_id": "rj514rfwk1y4",
+      "created_at": "2026-09-24T12:50:57.266-07:00",
+      "updated_at": "2026-09-24T12:50:57.266-07:00",
+      "display_at": "2026-09-24T12:50:57.266-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "ht5jhjwkjh3v",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "rj514rfwk1y4",
+      "created_at": "2026-09-24T12:09:13.422-07:00",
+      "updated_at": "2026-09-24T12:09:42.829-07:00",
+      "display_at": "2026-09-24T11:35:13.000-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "48qpxdqzvmd2",
+    "name": "Elevated inference 500s for a subset of models deployed in 1 US-East cluster",
+    "status": "resolved",
+    "created_at": "2026-09-24T00:23:41.000-07:00",
+    "updated_at": "2026-09-24T01:32:07.302-07:00",
+    "monitoring_at": "2026-09-24T00:48:41.252-07:00",
+    "resolved_at": "2026-09-24T01:06:05.000-07:00",
+    "impact": "major",
+    "shortlink": "https://stspg.io/l4t4ggz466gx",
+    "started_at": "2026-09-24T00:23:41.000-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "hn0sdr0xq974",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "48qpxdqzvmd2",
+      "created_at": "2026-09-24T01:30:05.821-07:00",
+      "updated_at": "2026-09-24T01:32:07.288-07:00",
+      "display_at": "2026-09-24T01:06:05.000-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "wfj2wb5z2h63",
+      "status": "monitoring",
+      "body": "We are continuing to monitor for any further issues.",
+      "incident_id": "48qpxdqzvmd2",
+      "created_at": "2026-09-24T01:05:56.520-07:00",
+      "updated_at": "2026-09-24T01:05:56.520-07:00",
+      "display_at": "2026-09-24T01:05:56.520-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "qd1qt67jps35",
+      "status": "monitoring",
+      "body": "A fix has been implemented and we are monitoring the results.",
+      "incident_id": "48qpxdqzvmd2",
+      "created_at": "2026-09-24T00:48:41.252-07:00",
+      "updated_at": "2026-09-24T00:48:41.252-07:00",
+      "display_at": "2026-09-24T00:48:41.252-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "partial_outage",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "xt5xy0qrfvh1",
+      "status": "identified",
+      "body": "The issue has been identified and a fix is being implemented.",
+      "incident_id": "48qpxdqzvmd2",
+      "created_at": "2026-09-24T00:43:41.945-07:00",
+      "updated_at": "2026-09-24T01:31:56.337-07:00",
+      "display_at": "2026-09-24T00:23:41.000-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "2kfcxy48kxg8",
+    "name": "Elevated inference 500s for a subset of models deployed in GCP central1",
+    "status": "resolved",
+    "created_at": "2026-09-21T11:34:26.571-07:00",
+    "updated_at": "2026-09-21T11:41:15.625-07:00",
+    "monitoring_at": "2026-09-21T11:38:06.740-07:00",
+    "resolved_at": "2026-09-21T11:41:15.611-07:00",
+    "impact": "major",
+    "shortlink": "https://stspg.io/c7k9fhmmyz7d",
+    "started_at": "2026-09-21T11:34:26.565-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "nzmcf9dhw774",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "2kfcxy48kxg8",
+      "created_at": "2026-09-21T11:41:15.611-07:00",
+      "updated_at": "2026-09-21T11:41:15.611-07:00",
+      "display_at": "2026-09-21T11:41:15.611-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "ydq6100qfw11",
+      "status": "monitoring",
+      "body": "A fix has been implemented and we are monitoring the results.",
+      "incident_id": "2kfcxy48kxg8",
+      "created_at": "2026-09-21T11:38:06.740-07:00",
+      "updated_at": "2026-09-21T11:38:06.740-07:00",
+      "display_at": "2026-09-21T11:38:06.740-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "partial_outage",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "ksjx6s2msmy4",
+      "status": "identified",
+      "body": "The issue has been identified and a fix is being implemented.",
+      "incident_id": "2kfcxy48kxg8",
+      "created_at": "2026-09-21T11:34:26.647-07:00",
+      "updated_at": "2026-09-21T11:34:26.647-07:00",
+      "display_at": "2026-09-21T11:34:26.647-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "vx531h6pyd67",
+    "name": "Metrics degradation in UI and API. **Inference not affected**",
+    "status": "resolved",
+    "created_at": "2026-09-21T06:31:41.000-07:00",
+    "updated_at": "2026-09-21T08:02:20.208-07:00",
+    "monitoring_at": null,
+    "resolved_at": "2026-09-21T06:42:51.000-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/hf65rkn12pq7",
+    "started_at": "2026-09-21T06:31:41.000-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "g1vssk80rlym",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "vx531h6pyd67",
+      "created_at": "2026-09-21T08:01:51.103-07:00",
+      "updated_at": "2026-09-21T08:02:20.194-07:00",
+      "display_at": "2026-09-21T06:42:51.000-07:00",
+      "affected_components": [
+       {
+        "code": "0hmz7b8lt5q0",
+        "name": "Model Management API",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "xt2trb6qnrts",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "vx531h6pyd67",
+      "created_at": "2026-09-21T08:01:41.287-07:00",
+      "updated_at": "2026-09-21T08:02:08.703-07:00",
+      "display_at": "2026-09-21T06:31:41.000-07:00",
+      "affected_components": [
+       {
+        "code": "0hmz7b8lt5q0",
+        "name": "Model Management API",
+        "old_status": "operational",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "0hmz7b8lt5q0",
+      "name": "Model Management API",
+      "status": "operational",
+      "created_at": "2022-01-18T08:34:34.201-08:00",
+      "updated_at": "2026-09-28T18:28:56.468-07:00",
+      "position": 4,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "53lh9mv05wmt",
+    "name": "Kimi K3 Model API outage",
+    "status": "resolved",
+    "created_at": "2026-09-20T00:19:01.254-07:00",
+    "updated_at": "2026-09-20T01:13:44.255-07:00",
+    "monitoring_at": "2026-09-20T01:04:39.661-07:00",
+    "resolved_at": "2026-09-20T01:13:44.236-07:00",
+    "impact": "major",
+    "shortlink": "https://stspg.io/h2pvtp3x3np1",
+    "started_at": "2026-09-20T00:19:01.245-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "vygrm77rv9s2",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "53lh9mv05wmt",
+      "created_at": "2026-09-20T01:13:44.236-07:00",
+      "updated_at": "2026-09-20T01:13:44.236-07:00",
+      "display_at": "2026-09-20T01:13:44.236-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "7m2r7npf4sxw",
+      "status": "monitoring",
+      "body": "A fix has been implemented and we are monitoring the results.",
+      "incident_id": "53lh9mv05wmt",
+      "created_at": "2026-09-20T01:04:39.661-07:00",
+      "updated_at": "2026-09-20T01:04:39.661-07:00",
+      "display_at": "2026-09-20T01:04:39.661-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "6p9ffht6mzgx",
+      "status": "identified",
+      "body": "Calls to the US-hosted endpoint are resulting in errors. A fix is in progress.",
+      "incident_id": "53lh9mv05wmt",
+      "created_at": "2026-09-20T00:59:08.512-07:00",
+      "updated_at": "2026-09-20T00:59:08.512-07:00",
+      "display_at": "2026-09-20T00:59:08.512-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "partial_outage",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "vdh8mzxhvddx",
+      "status": "identified",
+      "body": "~20% of calls are resulting in errors. A fix is in progress.",
+      "incident_id": "53lh9mv05wmt",
+      "created_at": "2026-09-20T00:30:12.347-07:00",
+      "updated_at": "2026-09-20T00:30:12.347-07:00",
+      "display_at": "2026-09-20T00:30:12.347-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "partial_outage",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "tynz5gmh2wk5",
+      "status": "identified",
+      "body": "The issue has been identified and a fix is being implemented.",
+      "incident_id": "53lh9mv05wmt",
+      "created_at": "2026-09-20T00:19:01.344-07:00",
+      "updated_at": "2026-09-20T00:19:01.344-07:00",
+      "display_at": "2026-09-20T00:19:01.344-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "wlycmbh325fh",
+      "name": "Model APIs",
+      "status": "operational",
+      "created_at": "2025-05-20T20:13:09.902-07:00",
+      "updated_at": "2026-10-06T21:18:59.719-07:00",
+      "position": 2,
+      "description": null,
+      "showcase": true,
+      "start_date": "2025-05-20",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "hpfyy75qvv4x",
+    "name": "Elevated errors for models in a single India-based cluster",
+    "status": "resolved",
+    "created_at": "2026-09-14T18:22:38.723-07:00",
+    "updated_at": "2026-09-14T19:07:38.244-07:00",
+    "monitoring_at": "2026-09-14T18:39:27.592-07:00",
+    "resolved_at": "2026-09-14T19:07:38.227-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/zgqtvb6hfnjb",
+    "started_at": "2026-09-14T18:22:38.717-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "1tpsn15th7qt",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "hpfyy75qvv4x",
+      "created_at": "2026-09-14T19:07:38.227-07:00",
+      "updated_at": "2026-09-14T19:07:38.227-07:00",
+      "display_at": "2026-09-14T19:07:38.227-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "1m1n2768yfk9",
+      "status": "monitoring",
+      "body": "A fix has been implemented and we are monitoring the results.",
+      "incident_id": "hpfyy75qvv4x",
+      "created_at": "2026-09-14T18:39:27.592-07:00",
+      "updated_at": "2026-09-14T18:39:27.592-07:00",
+      "display_at": "2026-09-14T18:39:27.592-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "3nk2zthzlglh",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "hpfyy75qvv4x",
+      "created_at": "2026-09-14T18:22:38.784-07:00",
+      "updated_at": "2026-09-14T18:22:38.784-07:00",
+      "display_at": "2026-09-14T18:22:38.784-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "bmxpy6vzgc6y",
+    "name": "Partial outage on Kimi K3 model API inference (non-US only)",
+    "status": "resolved",
+    "created_at": "2026-09-14T09:21:34.000-07:00",
+    "updated_at": "2026-09-14T10:03:20.088-07:00",
+    "monitoring_at": null,
+    "resolved_at": "2026-09-14T10:03:20.068-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/wmt6p7fnt7z0",
+    "started_at": "2026-09-14T09:21:34.000-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "n0fpf9jy5lyn",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "bmxpy6vzgc6y",
+      "created_at": "2026-09-14T10:03:20.068-07:00",
+      "updated_at": "2026-09-14T10:03:20.068-07:00",
+      "display_at": "2026-09-14T10:03:20.068-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "partial_outage",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "25h5gp83wk82",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "bmxpy6vzgc6y",
+      "created_at": "2026-09-14T09:51:34.111-07:00",
+      "updated_at": "2026-09-14T09:53:26.473-07:00",
+      "display_at": "2026-09-14T09:21:34.000-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "wlycmbh325fh",
+      "name": "Model APIs",
+      "status": "operational",
+      "created_at": "2025-05-20T20:13:09.902-07:00",
+      "updated_at": "2026-10-06T21:18:59.719-07:00",
+      "position": 2,
+      "description": null,
+      "showcase": true,
+      "start_date": "2025-05-20",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "5khtpsscbx6x",
+    "name": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
+    "status": "resolved",
+    "created_at": "2026-09-09T10:42:43.524-07:00",
+    "updated_at": "2026-09-09T10:52:20.843-07:00",
+    "monitoring_at": "2026-09-09T10:45:56.620-07:00",
+    "resolved_at": "2026-09-09T10:49:06.000-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/rsb0980gvck0",
+    "started_at": "2026-09-09T10:42:43.516-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "gyhptl474r6h",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "5khtpsscbx6x",
+      "created_at": "2026-09-09T10:52:06.963-07:00",
+      "updated_at": "2026-09-09T10:52:20.828-07:00",
+      "display_at": "2026-09-09T10:49:06.000-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "partial_outage",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "zq4yfbvflt9r",
+      "status": "monitoring",
+      "body": "A fix has been implemented and we are monitoring the results.",
+      "incident_id": "5khtpsscbx6x",
+      "created_at": "2026-09-09T10:45:56.620-07:00",
+      "updated_at": "2026-09-09T10:45:56.620-07:00",
+      "display_at": "2026-09-09T10:45:56.620-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "partial_outage",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "84n5jcygjgb2",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "5khtpsscbx6x",
+      "created_at": "2026-09-09T10:42:43.598-07:00",
+      "updated_at": "2026-09-09T10:42:43.598-07:00",
+      "display_at": "2026-09-09T10:42:43.598-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "wlycmbh325fh",
+      "name": "Model APIs",
+      "status": "operational",
+      "created_at": "2025-05-20T20:13:09.902-07:00",
+      "updated_at": "2026-10-06T21:18:59.719-07:00",
+      "position": 2,
+      "description": null,
+      "showcase": true,
+      "start_date": "2025-05-20",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "kr8c3ywnv4fy",
+    "name": "Elevated inference 500s for models in a single US-based cluster",
+    "status": "resolved",
+    "created_at": "2026-08-30T23:38:34.707-07:00",
+    "updated_at": "2026-08-31T00:02:44.548-07:00",
+    "monitoring_at": "2026-08-30T23:57:28.419-07:00",
+    "resolved_at": "2026-08-31T00:02:44.526-07:00",
+    "impact": "major",
+    "shortlink": "https://stspg.io/6xkc1z9fb2zv",
+    "started_at": "2026-08-30T23:38:34.700-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "vhw1vnxxgwgk",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "kr8c3ywnv4fy",
+      "created_at": "2026-08-31T00:02:44.526-07:00",
+      "updated_at": "2026-08-31T00:02:44.526-07:00",
+      "display_at": "2026-08-31T00:02:44.526-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "xgnrcz408sqz",
+      "status": "monitoring",
+      "body": "Fix is in place and traffic is back.",
+      "incident_id": "kr8c3ywnv4fy",
+      "created_at": "2026-08-30T23:57:28.419-07:00",
+      "updated_at": "2026-08-30T23:57:28.419-07:00",
+      "display_at": "2026-08-30T23:57:28.419-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "partial_outage",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "1400l858xc87",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "kr8c3ywnv4fy",
+      "created_at": "2026-08-30T23:38:34.776-07:00",
+      "updated_at": "2026-08-30T23:38:34.776-07:00",
+      "display_at": "2026-08-30T23:38:34.776-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "partial_outage"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "16yvs0p0tf25",
+    "name": "Elevated errors for models in a single US cluster due to provider outage",
+    "status": "resolved",
+    "created_at": "2026-08-27T14:17:41.411-07:00",
+    "updated_at": "2026-08-27T14:31:55.232-07:00",
+    "monitoring_at": "2026-08-27T14:23:50.657-07:00",
+    "resolved_at": "2026-08-27T14:31:55.212-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/cvgp6n8x7v8p",
+    "started_at": "2026-08-27T14:17:41.401-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "btsrjgwmsmnv",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "16yvs0p0tf25",
+      "created_at": "2026-08-27T14:31:55.212-07:00",
+      "updated_at": "2026-08-27T14:31:55.212-07:00",
+      "display_at": "2026-08-27T14:31:55.212-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "zg7zplk02d1v",
+      "status": "monitoring",
+      "body": "Auto-recovery is in progress.",
+      "incident_id": "16yvs0p0tf25",
+      "created_at": "2026-08-27T14:23:50.657-07:00",
+      "updated_at": "2026-08-27T14:23:50.657-07:00",
+      "display_at": "2026-08-27T14:23:50.657-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "rqdm7cyrkqpb",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "16yvs0p0tf25",
+      "created_at": "2026-08-27T14:17:41.483-07:00",
+      "updated_at": "2026-08-27T14:17:41.483-07:00",
+      "display_at": "2026-08-27T14:17:41.483-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "83qw5j675k1z",
+    "name": "Elevated errors for deepseek-ai/DeepSeek-V4-Flash-0731 on Model APIs. **Dedicated Inference is not affected**",
+    "status": "resolved",
+    "created_at": "2026-08-25T09:17:49.368-07:00",
+    "updated_at": "2026-08-25T09:59:02.898-07:00",
+    "monitoring_at": "2026-08-25T09:43:08.654-07:00",
+    "resolved_at": "2026-08-25T09:59:02.881-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/z54y0r59z9kd",
+    "started_at": "2026-08-25T09:17:49.359-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "khzblhy36tr5",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "83qw5j675k1z",
+      "created_at": "2026-08-25T09:59:02.881-07:00",
+      "updated_at": "2026-08-25T09:59:02.881-07:00",
+      "display_at": "2026-08-25T09:59:02.881-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "x8p9prlzr7z1",
+      "status": "monitoring",
+      "body": "A fix is in place and we are monitoring",
+      "incident_id": "83qw5j675k1z",
+      "created_at": "2026-08-25T09:43:08.654-07:00",
+      "updated_at": "2026-08-25T09:43:08.654-07:00",
+      "display_at": "2026-08-25T09:43:08.654-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "wlb71w202tyr",
+      "status": "investigating",
+      "body": "We are currently investigating this issue.",
+      "incident_id": "83qw5j675k1z",
+      "created_at": "2026-08-25T09:17:49.451-07:00",
+      "updated_at": "2026-08-25T09:17:49.451-07:00",
+      "display_at": "2026-08-25T09:17:49.451-07:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "operational",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": false,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "wlycmbh325fh",
+      "name": "Model APIs",
+      "status": "operational",
+      "created_at": "2025-05-20T20:13:09.902-07:00",
+      "updated_at": "2026-10-06T21:18:59.719-07:00",
+      "position": 2,
+      "description": null,
+      "showcase": true,
+      "start_date": "2025-05-20",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
+   {
+    "id": "hpgllbz0g72d",
+    "name": "Elevated inference 500s for models in an EU cluster due to provider outage",
+    "status": "resolved",
+    "created_at": "2026-08-25T05:34:49.081-07:00",
+    "updated_at": "2026-08-25T06:15:33.286-07:00",
+    "monitoring_at": "2026-08-25T05:53:22.164-07:00",
+    "resolved_at": "2026-08-25T06:15:33.270-07:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/y6qhlg5swxyv",
+    "started_at": "2026-08-25T05:34:49.072-07:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "t79rqqkdsccn",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "hpgllbz0g72d",
+      "created_at": "2026-08-25T06:15:33.270-07:00",
+      "updated_at": "2026-08-25T06:15:33.270-07:00",
+      "display_at": "2026-08-25T06:15:33.270-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "tszd4tf7c2dt",
+      "status": "monitoring",
+      "body": "A fix has been implemented and we are monitoring the results.",
+      "incident_id": "hpgllbz0g72d",
+      "created_at": "2026-08-25T05:53:22.164-07:00",
+      "updated_at": "2026-08-25T05:53:22.164-07:00",
+      "display_at": "2026-08-25T05:53:22.164-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "m28ds3dsbnxh",
+      "status": "identified",
+      "body": "Failover in progress.",
+      "incident_id": "hpgllbz0g72d",
+      "created_at": "2026-08-25T05:34:49.167-07:00",
+      "updated_at": "2026-08-25T05:34:49.167-07:00",
+      "display_at": "2026-08-25T05:34:49.167-07:00",
+      "affected_components": [
+       {
+        "code": "pjcnq3hczbph",
+        "name": "Dedicated Inference",
+        "old_status": "operational",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "pjcnq3hczbph",
+      "name": "Dedicated Inference",
+      "status": "operational",
+      "created_at": "2022-01-18T08:35:01.848-08:00",
+      "updated_at": "2026-09-29T01:15:20.242-07:00",
+      "position": 1,
+      "description": null,
+      "showcase": true,
+      "start_date": "2021-10-01",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   }
+  ]
+ },
+ "fireworks": {
+  "page": {
+   "id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+   "name": "Status Page",
+   "url": "https://status.fireworks.ai/",
+   "updated_at": "2026-10-08T22:36:42Z"
+  },
+  "incidents": [
+   {
+    "id": "01M4EME5D6VSR3ZGVXSNVDPSX0",
+    "name": "Service Degradation for\u00a0GLM 5.3 Flash",
+    "status": "resolved",
+    "created_at": "2026-10-08T20:49:20Z",
+    "updated_at": "2026-10-08T22:36:42Z",
+    "resolved_at": "2026-10-08T22:36:42Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M4ETJRMNQ1G67QCJB53T0E97",
+      "body": "The performance issue affecting GLM 5.3 Flash has been resolved.",
+      "created_at": "2026-10-08T22:36:42Z",
+      "display_at": "2026-10-08T22:36:42Z",
+      "incident_id": "01M4EME5D6VSR3ZGVXSNVDPSX0",
+      "status": "resolved",
+      "updated_at": "2026-10-08T22:36:42Z"
+     },
+     {
+      "id": "01M4ETFV197VZSVD4HAFBCHYD6",
+      "body": "We are monitoring GLM 5.3 Flash performance to confirm that the issue is mitigated.",
+      "created_at": "2026-10-08T22:35:06Z",
+      "display_at": "2026-10-08T21:39:00Z",
+      "incident_id": "01M4EME5D6VSR3ZGVXSNVDPSX0",
+      "status": "monitoring",
+      "updated_at": "2026-10-08T22:35:54Z"
+     },
+     {
+      "id": "01M4EME5D69B5MYJ012VVFV6NC",
+      "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating. ",
+      "created_at": "2026-10-08T20:49:20Z",
+      "display_at": "2026-10-08T20:49:20Z",
+      "incident_id": "01M4EME5D6VSR3ZGVXSNVDPSX0",
+      "status": "investigating",
+      "updated_at": "2026-10-08T20:49:20Z"
+     }
+    ]
+   },
+   {
+    "id": "01M4EF6AEMPHAR8R6YGFAE6CB4",
+    "name": "Service Degradation for\u00a0GLM 5.3 Flash",
+    "status": "resolved",
+    "created_at": "2026-10-08T19:17:40Z",
+    "updated_at": "2026-10-08T19:30:48Z",
+    "resolved_at": "2026-10-08T19:30:48Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M4EFYBM8VAWTB6N8ED91E1NJ",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-08T19:30:48Z",
+      "display_at": "2026-10-08T19:30:48Z",
+      "incident_id": "01M4EF6AEMPHAR8R6YGFAE6CB4",
+      "status": "resolved",
+      "updated_at": "2026-10-08T19:30:48Z"
+     },
+     {
+      "id": "01M4EF6AEMRX7G6243VSP539Z1",
+      "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating. ",
+      "created_at": "2026-10-08T19:17:40Z",
+      "display_at": "2026-10-08T19:17:40Z",
+      "incident_id": "01M4EF6AEMPHAR8R6YGFAE6CB4",
+      "status": "investigating",
+      "updated_at": "2026-10-08T19:17:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M4C4AP4HEGH7XXJHRDVCCFB3",
+    "name": "Service Degradation for\u00a0GLM 5.3",
+    "status": "resolved",
+    "created_at": "2026-10-07T21:29:20Z",
+    "updated_at": "2026-10-07T21:40:18Z",
+    "resolved_at": "2026-10-07T21:40:18Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M4C4YS1NC6DFGM8Z4Q064JGG",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-07T21:40:18Z",
+      "display_at": "2026-10-07T21:40:18Z",
+      "incident_id": "01M4C4AP4HEGH7XXJHRDVCCFB3",
+      "status": "resolved",
+      "updated_at": "2026-10-07T21:40:18Z"
+     },
+     {
+      "id": "01M4C4AP4H0TN9B9FT5NQZTS3K",
+      "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating. ",
+      "created_at": "2026-10-07T21:29:20Z",
+      "display_at": "2026-10-07T21:29:20Z",
+      "incident_id": "01M4C4AP4HEGH7XXJHRDVCCFB3",
+      "status": "investigating",
+      "updated_at": "2026-10-07T21:29:20Z"
+     }
+    ]
+   },
+   {
+    "id": "01M4BVY4DXQT3EMCD2JGDPFEE4",
+    "name": "Service Degradation for\u00a0Qwen 3.8 Max",
+    "status": "resolved",
+    "created_at": "2026-10-07T19:02:40Z",
+    "updated_at": "2026-10-07T19:13:40Z",
+    "resolved_at": "2026-10-07T19:13:40Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M4BWJ997RYW7PQ0MPJJZ53T7",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-07T19:13:40Z",
+      "display_at": "2026-10-07T19:13:40Z",
+      "incident_id": "01M4BVY4DXQT3EMCD2JGDPFEE4",
+      "status": "resolved",
+      "updated_at": "2026-10-07T19:13:40Z"
+     },
+     {
+      "id": "01M4BVY4DXVYPKDY4A75BA0KGY",
+      "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating. ",
+      "created_at": "2026-10-07T19:02:40Z",
+      "display_at": "2026-10-07T19:02:40Z",
+      "incident_id": "01M4BVY4DXQT3EMCD2JGDPFEE4",
+      "status": "investigating",
+      "updated_at": "2026-10-07T19:02:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M4B4PMGPYEBPK0ZYJVD1WKJ9",
+    "name": "Service Degradation for\u00a0GLM 5.3 Flash",
+    "status": "resolved",
+    "created_at": "2026-10-07T12:16:37Z",
+    "updated_at": "2026-10-07T12:16:37Z",
+    "resolved_at": "2026-10-06T15:26:00Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M4B4PMGP68VK78X23VKVW851",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-07T12:16:37Z",
+      "display_at": "2026-10-06T15:26:00Z",
+      "incident_id": "01M4B4PMGPYEBPK0ZYJVD1WKJ9",
+      "status": "resolved",
+      "updated_at": "2026-10-07T12:16:37Z"
+     },
+     {
+      "id": "01M4B4PMGPN761NG2SCAA8JFFJ",
+      "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating. ",
+      "created_at": "2026-10-07T12:16:37Z",
+      "display_at": "2026-10-06T13:14:00Z",
+      "incident_id": "01M4B4PMGPYEBPK0ZYJVD1WKJ9",
+      "status": "investigating",
+      "updated_at": "2026-10-07T12:16:37Z"
+     }
+    ]
+   },
+   {
+    "id": "01M46PGHWSZ51Y87R23495R122",
+    "name": "Service Degradation for\u00a0GLM 5.3",
+    "status": "resolved",
+    "created_at": "2026-10-05T18:51:40Z",
+    "updated_at": "2026-10-05T19:15:31Z",
+    "resolved_at": "2026-10-05T19:15:31Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M46QW77J7QKHPE4ETF8CT3ER",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-05T19:15:31Z",
+      "display_at": "2026-10-05T19:15:31Z",
+      "incident_id": "01M46PGHWSZ51Y87R23495R122",
+      "status": "resolved",
+      "updated_at": "2026-10-05T19:15:31Z"
+     },
+     {
+      "id": "01M46PGHWSATXAAHW1CW5EA0J4",
+      "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating. ",
+      "created_at": "2026-10-05T18:51:40Z",
+      "display_at": "2026-10-05T18:51:40Z",
+      "incident_id": "01M46PGHWSZ51Y87R23495R122",
+      "status": "investigating",
+      "updated_at": "2026-10-05T18:51:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M46H0RX8S9S8FGAXCXY1CYJM",
+    "name": "Service Degradation for\u00a0Kimi K3 US",
+    "status": "resolved",
+    "created_at": "2026-10-05T17:15:40Z",
+    "updated_at": "2026-10-05T17:41:43Z",
+    "resolved_at": "2026-10-05T17:41:43Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M46JGFPNSTK90C41N8K5ZV2Z",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-05T17:41:43Z",
+      "display_at": "2026-10-05T17:41:43Z",
+      "incident_id": "01M46H0RX8S9S8FGAXCXY1CYJM",
+      "status": "resolved",
+      "updated_at": "2026-10-05T17:41:43Z"
+     },
+     {
+      "id": "01M46H0RX8J3FCSV05K026098A",
+      "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating. ",
+      "created_at": "2026-10-05T17:15:40Z",
+      "display_at": "2026-10-05T17:15:40Z",
+      "incident_id": "01M46H0RX8S9S8FGAXCXY1CYJM",
+      "status": "investigating",
+      "updated_at": "2026-10-05T17:15:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M467PA7FMZZNR4QQSBQSZPKT",
+    "name": "Service Degradation for\u00a0Qwen 3.8 Max",
+    "status": "resolved",
+    "created_at": "2026-10-05T14:32:40Z",
+    "updated_at": "2026-10-05T14:33:59Z",
+    "resolved_at": "2026-10-05T14:33:59Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M467RQK2MW0C6RWPVVAX06ZP",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-05T14:33:59Z",
+      "display_at": "2026-10-05T14:33:59Z",
+      "incident_id": "01M467PA7FMZZNR4QQSBQSZPKT",
+      "status": "resolved",
+      "updated_at": "2026-10-05T14:33:59Z"
+     },
+     {
+      "id": "01M467PA7FQ7FQNJTBN8Y8YPAJ",
+      "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating. ",
+      "created_at": "2026-10-05T14:32:40Z",
+      "display_at": "2026-10-05T14:32:40Z",
+      "incident_id": "01M467PA7FMZZNR4QQSBQSZPKT",
+      "status": "investigating",
+      "updated_at": "2026-10-05T14:32:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M45BJN2VAX8VND7D7V96XEZY",
+    "name": "Service Degradation for\u00a0Deepseek V4.1 Flash",
+    "status": "resolved",
+    "created_at": "2026-10-05T06:21:20Z",
+    "updated_at": "2026-10-05T06:24:34Z",
+    "resolved_at": "2026-10-05T06:24:34Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M45BRJC37JC5QGED857KG8Z9",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-05T06:24:34Z",
+      "display_at": "2026-10-05T06:24:34Z",
+      "incident_id": "01M45BJN2VAX8VND7D7V96XEZY",
+      "status": "resolved",
+      "updated_at": "2026-10-05T06:24:34Z"
+     },
+     {
+      "id": "01M45BJN2VTKM91A6S1W8CBECC",
+      "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating. ",
+      "created_at": "2026-10-05T06:21:20Z",
+      "display_at": "2026-10-05T06:21:20Z",
+      "incident_id": "01M45BJN2VAX8VND7D7V96XEZY",
+      "status": "investigating",
+      "updated_at": "2026-10-05T06:21:20Z"
+     }
+    ]
+   },
+   {
+    "id": "01M43VZTJ14XKC8M4PW5A1K310",
+    "name": "Service Degradation for\u00a0Deepseek V4.1 Flash",
+    "status": "resolved",
+    "created_at": "2026-10-04T16:29:40Z",
+    "updated_at": "2026-10-04T16:29:41Z",
+    "resolved_at": "2026-10-04T16:29:41Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M43VZVS6ZEH6KDGHE6X642DR",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-04T16:29:41Z",
+      "display_at": "2026-10-04T16:29:41Z",
+      "incident_id": "01M43VZTJ14XKC8M4PW5A1K310",
+      "status": "resolved",
+      "updated_at": "2026-10-04T16:29:41Z"
+     },
+     {
+      "id": "01M43VZTJ1PXY1XD3BPC32YVTG",
+      "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating. ",
+      "created_at": "2026-10-04T16:29:40Z",
+      "display_at": "2026-10-04T16:29:40Z",
+      "incident_id": "01M43VZTJ14XKC8M4PW5A1K310",
+      "status": "investigating",
+      "updated_at": "2026-10-04T16:29:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M3ZC4HVRY7QFHWQF3ZP0XQ0R",
+    "name": "Service Degradation for\u00a0GLM 5.3 Fast",
+    "status": "resolved",
+    "created_at": "2026-10-02T22:35:40Z",
+    "updated_at": "2026-10-02T22:49:23Z",
+    "resolved_at": "2026-10-02T22:49:23Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M3ZCXP54G76GRS6V0S4MXC8Q",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-02T22:49:23Z",
+      "display_at": "2026-10-02T22:49:23Z",
+      "incident_id": "01M3ZC4HVRY7QFHWQF3ZP0XQ0R",
+      "status": "resolved",
+      "updated_at": "2026-10-02T22:49:23Z"
+     },
+     {
+      "id": "01M3ZC4HVRFND0JB5W31QQBCSA",
+      "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating. ",
+      "created_at": "2026-10-02T22:35:40Z",
+      "display_at": "2026-10-02T22:35:40Z",
+      "incident_id": "01M3ZC4HVRY7QFHWQF3ZP0XQ0R",
+      "status": "investigating",
+      "updated_at": "2026-10-02T22:35:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M3V0K7EY3S7XWB112GR1V0D9",
+    "name": "Service Degradation for\u00a0Deepseek V4.1 Flash",
+    "status": "resolved",
+    "created_at": "2026-10-01T05:57:00Z",
+    "updated_at": "2026-10-01T06:04:36Z",
+    "resolved_at": "2026-10-01T06:04:36Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M3V114KMQF85J9C61HQFFJNC",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-10-01T06:04:36Z",
+      "display_at": "2026-10-01T06:04:36Z",
+      "incident_id": "01M3V0K7EY3S7XWB112GR1V0D9",
+      "status": "resolved",
+      "updated_at": "2026-10-01T06:04:36Z"
+     },
+     {
+      "id": "01M3V0K7EYBW7WJ5BC4GHMXZ19",
+      "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating. ",
+      "created_at": "2026-10-01T05:57:00Z",
+      "display_at": "2026-10-01T05:57:00Z",
+      "incident_id": "01M3V0K7EY3S7XWB112GR1V0D9",
+      "status": "investigating",
+      "updated_at": "2026-10-01T05:57:00Z"
+     }
+    ]
+   },
+   {
+    "id": "01M3AEEG5B9CJE4C91DWCDG3ZE",
+    "name": "Service Degradation for\u00a0Nemotron 3.5 Lightning",
+    "status": "resolved",
+    "created_at": "2026-09-24T19:32:00Z",
+    "updated_at": "2026-09-24T19:38:47Z",
+    "resolved_at": "2026-09-24T19:38:47Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M3AETXC30Q1MNR07FJX9S5FV",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-09-24T19:38:47Z",
+      "display_at": "2026-09-24T19:38:47Z",
+      "incident_id": "01M3AEEG5B9CJE4C91DWCDG3ZE",
+      "status": "resolved",
+      "updated_at": "2026-09-24T19:38:47Z"
+     },
+     {
+      "id": "01M3AEEG5BK6DKVTH3903NTKZA",
+      "body": "We are seeing impacted performance for Nemotron 3.5 Lightning. We are actively investigating. ",
+      "created_at": "2026-09-24T19:32:00Z",
+      "display_at": "2026-09-24T19:32:00Z",
+      "incident_id": "01M3AEEG5B9CJE4C91DWCDG3ZE",
+      "status": "investigating",
+      "updated_at": "2026-09-24T19:32:00Z"
+     }
+    ]
+   },
+   {
+    "id": "01M3AC2749JME7F6TVGQ2YM4TD",
+    "name": "Service Degradation for\u00a0Nemotron 3.5 Lightning",
+    "status": "resolved",
+    "created_at": "2026-09-24T18:50:20Z",
+    "updated_at": "2026-09-24T19:07:58Z",
+    "resolved_at": "2026-09-24T19:07:58Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M3AD2GCG38ARFNCEYZ4WPVQ5",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-09-24T19:07:58Z",
+      "display_at": "2026-09-24T19:07:58Z",
+      "incident_id": "01M3AC2749JME7F6TVGQ2YM4TD",
+      "status": "resolved",
+      "updated_at": "2026-09-24T19:07:58Z"
+     },
+     {
+      "id": "01M3AC27496XCDCHMC9JAEGSBG",
+      "body": "We are seeing impacted performance for Nemotron 3.5 Lightning. We are actively investigating. ",
+      "created_at": "2026-09-24T18:50:20Z",
+      "display_at": "2026-09-24T18:50:20Z",
+      "incident_id": "01M3AC2749JME7F6TVGQ2YM4TD",
+      "status": "investigating",
+      "updated_at": "2026-09-24T18:50:20Z"
+     }
+    ]
+   },
+   {
+    "id": "01M3AB4X82NDHSDWYXKR8FCYEC",
+    "name": "Service Degradation for\u00a0Qwen 3.8 Max",
+    "status": "resolved",
+    "created_at": "2026-09-24T18:34:20Z",
+    "updated_at": "2026-09-24T19:04:13Z",
+    "resolved_at": "2026-09-24T19:04:13Z",
+    "impact": "minor",
+    "page_id": "01KT7XKCWEZMCJTVKFKVXQPHN6",
+    "incident_updates": [
+     {
+      "id": "01M3ACVKXRPTVTKAVP2BG3NN1T",
+      "body": "We've resolved the incident and the affected service is now operational. ",
+      "created_at": "2026-09-24T19:04:13Z",
+      "display_at": "2026-09-24T19:04:13Z",
+      "incident_id": "01M3AB4X82NDHSDWYXKR8FCYEC",
+      "status": "resolved",
+      "updated_at": "2026-09-24T19:04:13Z"
+     },
+     {
+      "id": "01M3AB4X82AX89XHWFJ1SDSHH6",
+      "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating. ",
+      "created_at": "2026-09-24T18:34:20Z",
+      "display_at": "2026-09-24T18:34:20Z",
+      "incident_id": "01M3AB4X82NDHSDWYXKR8FCYEC",
+      "status": "investigating",
+      "updated_at": "2026-09-24T18:34:20Z"
+     }
+    ]
+   }
+  ]
+ },
+ "lambda": {
+  "page": {
+   "id": "01J450868FGGA564RC27Y7G43S",
+   "name": "Lambda GPU Cloud",
+   "url": "https://status.lambda.ai/",
+   "updated_at": "2026-10-05T20:34:23Z"
+  },
+  "incidents": [
+   {
+    "id": "01M46M564X4P5QJY6PQSSF5ME2",
+    "name": "US-SOUTH-2 Scheduled Maintenance",
+    "status": "resolved",
+    "created_at": "2026-10-05T18:10:30Z",
+    "updated_at": "2026-10-05T20:34:23Z",
+    "resolved_at": "2026-10-05T20:34:23Z",
+    "impact": "none",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01M46WCMQ37K0805AKHCVTP3F8",
+      "body": "The us-south-2 power maintenance is now complete.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-10-05T20:34:23Z",
+      "display_at": "2026-10-05T20:34:23Z",
+      "incident_id": "01M46M564X4P5QJY6PQSSF5ME2",
+      "status": "resolved",
+      "updated_at": "2026-10-05T20:34:23Z"
+     },
+     {
+      "id": "01M46M564XV55BY3VCD2DVF5FT",
+      "body": "**Severity Level:** Low\n\nWe have identified that a small portion of servers in our datacenter in us-south-2\u200b requires an update to their configuration in order to address some power redundancy issues. Our engineers in this datacenter are addressing this issue currently. Due to how the maintenance is being conducted, we do not anticipate any customer impact during this timeframe.\n\nWe are currently monitoring us-south-2\u200b while this maintenance is underway. If we identify an issue affecting customer instances, we will provide an update here.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-10-05T18:10:30Z",
+      "display_at": "2026-10-05T18:10:30Z",
+      "incident_id": "01M46M564X4P5QJY6PQSSF5ME2",
+      "status": "monitoring",
+      "updated_at": "2026-10-05T18:10:30Z"
+     }
+    ]
+   },
+   {
+    "id": "01M383F6H4SVRBDYWEEJJ9M8W6",
+    "name": "US-SOUTH-3 Region Resources Not Visible on Dashboard, Impacting Launches and Terminations",
+    "status": "resolved",
+    "created_at": "2026-09-23T21:41:40Z",
+    "updated_at": "2026-09-23T23:48:04Z",
+    "resolved_at": "2026-09-23T23:48:04Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01M38APN3G5QAZAXSKQ0ATB4GB",
+      "body": "**Severity Level:** High\n\nThe incident has been resolved. us-south-3 services are now working as expected.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-09-23T23:48:04Z",
+      "display_at": "2026-09-23T23:48:04Z",
+      "incident_id": "01M383F6H4SVRBDYWEEJJ9M8W6",
+      "status": "resolved",
+      "updated_at": "2026-09-23T23:48:04Z"
+     },
+     {
+      "id": "01M385T3V93ZDDKC86Y18QQWB2",
+      "body": "**Severity Level:** High\n\nWe've identified that this issue is affecting the status of instances and filesystems in the us-south-3 region within the API and Console. Some users may see these resources as unhealthy when checking their dashboard and API.\n\nFor clarity, the alert/unhealthy status is a display issue, not a reflection of actual instance health. The underlying infrastructure is healthy. If you already have connection details for an instance in us-south-3, you can continue to access it normally.\n\n \n\nWe're continuing to work on a resolution and will provide another update as soon as we have one.\n\n \n\nThank you for your patience.\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-09-23T22:22:34Z",
+      "display_at": "2026-09-23T22:22:34Z",
+      "incident_id": "01M383F6H4SVRBDYWEEJJ9M8W6",
+      "status": "identified",
+      "updated_at": "2026-09-23T22:53:20Z"
+     },
+     {
+      "id": "01M383F6H44TKTSH974NWMPGEP",
+      "body": "**Severity Level:** Medium\n\nWe\u2019re currently investigating a potential issue with our us-south-3 region. Users may experience instance launches and terminations in a stuck state.\n\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-09-23T21:41:40Z",
+      "display_at": "2026-09-23T21:41:40Z",
+      "incident_id": "01M383F6H4SVRBDYWEEJJ9M8W6",
+      "status": "investigating",
+      "updated_at": "2026-09-23T21:41:40Z"
+     }
+    ]
+   },
+   {
+    "id": "01M252C62E2SJC8ATZP5P0B6C4",
+    "name": "Issue with Cloud Services API Keys",
+    "status": "resolved",
+    "created_at": "2026-09-10T07:09:07Z",
+    "updated_at": "2026-09-10T16:03:19Z",
+    "resolved_at": "2026-09-10T16:03:19Z",
+    "impact": "major",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01M260YADB3SK0FN66THC84D3Z",
+      "body": "**Severity Level:** High\n\nThis incident has been resolved. The issue preventing users from viewing and creating Cloud Service API keys has been fixed, and API key functionality has been fully restored. We have continued monitoring since the fix was deployed and confirmed the service is operating normally.\n\nNo action is required on your part. Existing API keys were not affected by this incident.\n\nThank you for your patience and understanding during this time.",
+      "created_at": "2026-09-10T16:03:19Z",
+      "display_at": "2026-09-10T16:03:19Z",
+      "incident_id": "01M252C62E2SJC8ATZP5P0B6C4",
+      "status": "resolved",
+      "updated_at": "2026-09-10T16:03:19Z"
+     },
+     {
+      "id": "01M257C5XQZD5QXSGXFYDG5FPN",
+      "body": "**Severity Level:** High\n\nWe have deployed a fix for the Cloud Service API keys issue and are closely monitoring the situation.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-09-10T08:36:30Z",
+      "display_at": "2026-09-10T08:36:30Z",
+      "incident_id": "01M252C62E2SJC8ATZP5P0B6C4",
+      "status": "monitoring",
+      "updated_at": "2026-09-10T08:36:30Z"
+     },
+     {
+      "id": "01M2551TA030WMY14F24Z4MPEA",
+      "body": "**Severity Level:** High\n\nWe\u2019re currently investigating a potential issue with the Cloud Services' API keys. Users may experience errors when creating an API key from their Cloud Dashboard. Existing keys should not be affected.\nOur teams are actively working to resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-09-10T07:55:53Z",
+      "display_at": "2026-09-10T07:55:53Z",
+      "incident_id": "01M252C62E2SJC8ATZP5P0B6C4",
+      "status": "identified",
+      "updated_at": "2026-09-10T07:55:53Z"
+     },
+     {
+      "id": "01M252YS7PH309F9SRPJBNE7XC",
+      "body": "**Severity Level:** High\n\nWe\u2019re currently investigating a potential issue with the Cloud Services' API keys. Users may experience errors when creating an API key from their Cloud Dashboard. Existing keys should not be affected.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-09-10T07:19:17Z",
+      "display_at": "2026-09-10T07:19:17Z",
+      "incident_id": "01M252C62E2SJC8ATZP5P0B6C4",
+      "status": "investigating",
+      "updated_at": "2026-09-10T07:19:17Z"
+     },
+     {
+      "id": "01M252C62EVK4TY41RJGWRK4FE",
+      "body": "**Severity Level:** High\n\nWe\u2019re currently investigating a potential issue with the Cloud Services' API keys. Users may experience errors when creating an API key from their Cloud Dashboard. Existing keys should not be affected.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-09-10T07:09:07Z",
+      "display_at": "2026-09-10T07:09:07Z",
+      "incident_id": "01M252C62E2SJC8ATZP5P0B6C4",
+      "status": "investigating",
+      "updated_at": "2026-09-10T07:09:07Z"
+     }
+    ]
+   },
+   {
+    "id": "01M0AVFW4JFW6R731YY0BQN6TK",
+    "name": "Network Maintenance in us-east-3",
+    "status": "resolved",
+    "created_at": "2026-08-18T16:32:51Z",
+    "updated_at": "2026-08-26T14:05:59Z",
+    "resolved_at": "2026-08-26T14:05:59Z",
+    "impact": "none",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01M0Z68PAEGC1BW6B8EJW9EEAV",
+      "body": "Severity Level: [Low]\n\nStatus\nCompleted (Maintenance)\n\nSummary\nThe scheduled maintenance on our networking infrastructure in `us-east-3` has been completed successfully. Service health was monitored throughout the work and all systems are operating normally. Thank you for your patience.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-08-26T14:05:59Z",
+      "display_at": "2026-08-26T14:05:59Z",
+      "incident_id": "01M0AVFW4JFW6R731YY0BQN6TK",
+      "status": "resolved",
+      "updated_at": "2026-08-26T14:05:59Z"
+     }
+    ]
+   },
+   {
+    "id": "01KZ4VZ1THJPGWKQWNJ3DNJ1BA",
+    "name": "Degraded Performance in us-midwest-2",
+    "status": "resolved",
+    "created_at": "2026-08-03T22:30:00Z",
+    "updated_at": "2026-08-25T04:23:24Z",
+    "resolved_at": "2026-08-25T04:23:24Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01M0VJH7W7JNJGFEEZES6VJY0G",
+      "body": "**Severity Level:** Medium\n\nPerformance has returned to expected levels based on current telemetry and internal testing after monitoring health over the weekend.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-08-25T04:23:24Z",
+      "display_at": "2026-08-25T04:23:24Z",
+      "incident_id": "01KZ4VZ1THJPGWKQWNJ3DNJ1BA",
+      "status": "resolved",
+      "updated_at": "2026-08-25T04:23:24Z"
+     },
+     {
+      "id": "01M0KEEJNTMYVKWZV78MWQP8SS",
+      "body": "**Severity Level:** Medium\n\nPerformance has returned to acceptable levels based on current telemetry and internal testing.\nWe are continuing to monitor for stability and will provide further updates as they become available.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-08-22T00:38:07Z",
+      "display_at": "2026-08-22T00:38:07Z",
+      "incident_id": "01KZ4VZ1THJPGWKQWNJ3DNJ1BA",
+      "status": "monitoring",
+      "updated_at": "2026-08-22T00:38:07Z"
+     },
+     {
+      "id": "01KZRR45MGM6CA5KZXQD2A0PDZ",
+      "body": "**Severity Level:** Medium\n\nWe\u2019re currently investigating a potential issue with our B200 cluster performance in us-midwest-2 impacting Managed Kubernetes, and 1-Click Cluster customers.\n\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.",
+      "created_at": "2026-08-11T15:47:42Z",
+      "display_at": "2026-08-11T15:47:42Z",
+      "incident_id": "01KZ4VZ1THJPGWKQWNJ3DNJ1BA",
+      "status": "investigating",
+      "updated_at": "2026-08-11T15:47:42Z"
+     },
+     {
+      "id": "01KZFJ5FSXFY40HN43N0R2PT3V",
+      "body": "**Severity Level:** Medium\n\nWe identified an issue within the InfiniBand fabric and implemented changes to address it.\n\nPerformance has returned to expected levels based on telemetry and internal testing.\n\nWe are continuing to monitor for stability.\n\n \n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.\n\nThank you for your patience and understanding during this time.",
+      "created_at": "2026-08-08T02:10:24Z",
+      "display_at": "2026-08-08T02:10:24Z",
+      "incident_id": "01KZ4VZ1THJPGWKQWNJ3DNJ1BA",
+      "status": "monitoring",
+      "updated_at": "2026-08-08T02:10:24Z"
+     },
+     {
+      "id": "01KZ4VZ1THDPNQE8TEVC43P15D",
+      "body": "Severity Level: Medium\n\nWe\u2019re currently investigating a potential issue with our B200 cluster performance in us-midwest-2 impacting Managed Kubernetes, and 1-Click Cluster customers.\n\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button",
+      "created_at": "2026-08-03T22:30:00Z",
+      "display_at": "2026-08-03T22:30:00Z",
+      "incident_id": "01KZ4VZ1THJPGWKQWNJ3DNJ1BA",
+      "status": "investigating",
+      "updated_at": "2026-08-03T22:48:49Z"
+     }
+    ]
+   },
+   {
+    "id": "01KZ1PGG9FTZH5T7586CVKH3KP",
+    "name": "Network Issues in us-midwest-2",
+    "status": "resolved",
+    "created_at": "2026-08-02T16:56:57Z",
+    "updated_at": "2026-08-25T03:53:59Z",
+    "resolved_at": "2026-08-25T03:53:59Z",
+    "impact": "none",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01M0VGVC1VCV86TQZCKTGFDHM9",
+      "body": "**Severity Level:** Medium\n\nThe incident has been resolved. Networking in the us-midwest-2 region is confirmed restored after monitoring.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-08-25T03:53:59Z",
+      "display_at": "2026-08-25T03:53:59Z",
+      "incident_id": "01KZ1PGG9FTZH5T7586CVKH3KP",
+      "status": "resolved",
+      "updated_at": "2026-08-25T03:53:59Z"
+     },
+     {
+      "id": "01KZ1XWBFKZK1MG6N89W70MKG2",
+      "body": "**Severity Level:** Medium\n\nOur team has applied a fix to mitigate the network issue affecting us-midwest-2. We are currently monitoring the results to confirm full recovery. We will provide another update as soon as we have more information.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-08-02T19:05:45Z",
+      "display_at": "2026-08-02T19:05:45Z",
+      "incident_id": "01KZ1PGG9FTZH5T7586CVKH3KP",
+      "status": "monitoring",
+      "updated_at": "2026-08-02T19:05:45Z"
+     },
+     {
+      "id": "01KZ1PGG9FPM3FSZ9YEAXV2RHB",
+      "body": "**Severity Level:** Medium\n\nWe\u2019re currently investigating a potential issue with our network in us-midwest-2. Users may experience degraded egress to the internet.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-08-02T16:56:57Z",
+      "display_at": "2026-08-02T16:56:57Z",
+      "incident_id": "01KZ1PGG9FTZH5T7586CVKH3KP",
+      "status": "investigating",
+      "updated_at": "2026-08-02T16:56:57Z"
+     }
+    ]
+   },
+   {
+    "id": "01M03AXJY701RDTD9P2KBDWQ0A",
+    "name": "Instances Unreachable in us-south-2 region",
+    "status": "resolved",
+    "created_at": "2026-08-15T18:28:33Z",
+    "updated_at": "2026-08-17T20:39:32Z",
+    "resolved_at": "2026-08-17T20:39:32Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01M08Q6TWC72GY5EE56K8JFCKD",
+      "body": "Severity Level: [High]\n\nThis incident has been resolved. The network issue affecting our us-south-2 region has been fixed, and connectivity to instances, including via SSH and Jupyter, has been fully restored. The region has remained stable since the fix was implemented.\n\nIn the event you believe your service is still impacted, please open a support ticket and we'll get back to you as soon as possible.\n[https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nThank you for your patience and understanding during this time.",
+      "created_at": "2026-08-17T20:39:32Z",
+      "display_at": "2026-08-17T20:39:32Z",
+      "incident_id": "01M03AXJY701RDTD9P2KBDWQ0A",
+      "status": "resolved",
+      "updated_at": "2026-08-17T20:39:32Z"
+     },
+     {
+      "id": "01M0421B9CEP8H4H94M63FTBX3",
+      "body": "**Severity Level:** [High]\n\nA fix has been implemented and we\u2019re monitoring the results.\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.\n\nThank you for your patience and understanding during this time.",
+      "created_at": "2026-08-16T01:12:34Z",
+      "display_at": "2026-08-16T01:12:34Z",
+      "incident_id": "01M03AXJY701RDTD9P2KBDWQ0A",
+      "status": "monitoring",
+      "updated_at": "2026-08-16T01:12:34Z"
+     },
+     {
+      "id": "01M03QHX6X4A4E1WRYEX3E0HZ8",
+      "body": "**Severity Level:** [Low/Medium/High/Critical]\n\nWe're currently investigating a network issue affecting our us-south-2 region. Users may experience an inability to reach instances in this region, including via SSH and Jupyter, and some instances may appear offline.\n\nOur teams have made progress in narrowing down the cause and are actively working to mitigate and resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-08-15T22:09:22Z",
+      "display_at": "2026-08-15T22:09:22Z",
+      "incident_id": "01M03AXJY701RDTD9P2KBDWQ0A",
+      "status": "investigating",
+      "updated_at": "2026-08-15T22:09:22Z"
+     },
+     {
+      "id": "01M03AXJY7SQ6F330W7X8Y31H6",
+      "body": "Severity Level: Critical\nWe're currently investigating a potential issue with our us-south-2 region. Users may experience an inability to reach instances in this region, including via SSH and Jupyter, and some instances may appear offline.\n\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\nIn the event you're unsure as to whether your service is impacted by this incident, please open a support ticket. We'll get back to you as soon as possible.\n\n[https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\n**To be automatically notified when the status of this incident changes, please click on the \"Subscribe to updates\" button.**",
+      "created_at": "2026-08-15T18:28:33Z",
+      "display_at": "2026-08-15T18:28:33Z",
+      "incident_id": "01M03AXJY701RDTD9P2KBDWQ0A",
+      "status": "investigating",
+      "updated_at": "2026-08-15T18:28:33Z"
+     }
+    ]
+   },
+   {
+    "id": "01KYT90NCXPC1WMR06S7DYK9XG",
+    "name": "Investigating network connectivity issues in us-east-2",
+    "status": "resolved",
+    "created_at": "2026-07-30T19:46:25Z",
+    "updated_at": "2026-07-30T22:49:13Z",
+    "resolved_at": "2026-07-30T22:49:13Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KYTKFCA6E8DQNXH8RT5KQE70",
+      "body": "Severity Level: Medium\n\nThe incident has been resolved. Network traffic is now working as expected.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n<https://support.lambdalabs.com/hc/en-us/requests/new>\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-30T22:49:13Z",
+      "display_at": "2026-07-30T22:49:13Z",
+      "incident_id": "01KYT90NCXPC1WMR06S7DYK9XG",
+      "status": "resolved",
+      "updated_at": "2026-07-30T22:49:13Z"
+     },
+     {
+      "id": "01KYT90NCXGA8X8PC03TY45Q65",
+      "body": "**Severity Level:** Medium\n\nWe are investigating intermittent network connectivity and increased latency affecting certain workloads in our us-east-2 region. Customers may experience slow responses, failed requests, or temporary loss of connectivity.\n\nOur engineering team is actively working to identify the cause and restore stable service.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\u2022 <https://support.lambdalabs.com/hc/en-us/requests/new>\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-30T19:46:25Z",
+      "display_at": "2026-07-30T19:46:25Z",
+      "incident_id": "01KYT90NCXPC1WMR06S7DYK9XG",
+      "status": "investigating",
+      "updated_at": "2026-07-30T19:46:25Z"
+     }
+    ]
+   },
+   {
+    "id": "01KYQQ38T4M12RDWN15ZMTTVV2",
+    "name": "Network issues in us-east-2",
+    "status": "resolved",
+    "created_at": "2026-07-29T19:54:48Z",
+    "updated_at": "2026-07-30T18:19:50Z",
+    "resolved_at": "2026-07-30T18:19:50Z",
+    "impact": "major",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KYT423Y424XTV27GEGFNW2SF",
+      "body": "**Severity Level: High**\n\nThe incident has been resolved. Networking is now working as expected.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-30T18:19:50Z",
+      "display_at": "2026-07-30T18:19:50Z",
+      "incident_id": "01KYQQ38T4M12RDWN15ZMTTVV2",
+      "status": "resolved",
+      "updated_at": "2026-07-30T18:19:50Z"
+     },
+     {
+      "id": "01KYQR3EX5KH7B4NCEEN82XA5B",
+      "body": "**Severity Level:** [High]\n\nOur engineers have implemented a fix to address the issue with our Networking services. Impact to customers should be fixed, but if still experiencing issues please reach out to us.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-29T20:12:22Z",
+      "display_at": "2026-07-29T20:12:22Z",
+      "incident_id": "01KYQQ38T4M12RDWN15ZMTTVV2",
+      "status": "monitoring",
+      "updated_at": "2026-07-29T20:12:22Z"
+     },
+     {
+      "id": "01KYQQ38T4WF5V5TTCCYEPWYJT",
+      "body": "**Severity Level:** [High]\n\nWe\u2019re currently investigating an issue with our Network traffic in us-east-2. Users may experience impact to external network connectivity to instances in the region.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-29T19:54:48Z",
+      "display_at": "2026-07-29T19:54:48Z",
+      "incident_id": "01KYQQ38T4M12RDWN15ZMTTVV2",
+      "status": "investigating",
+      "updated_at": "2026-07-29T19:54:48Z"
+     }
+    ]
+   },
+   {
+    "id": "01KYHC2Q7VY59H7N9C6A80SWNQ",
+    "name": "Multiple Regions | Launch and Termination Issues",
+    "status": "resolved",
+    "created_at": "2026-07-27T08:46:49Z",
+    "updated_at": "2026-07-27T11:45:41Z",
+    "resolved_at": "2026-07-27T11:45:41Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KYHPA82DMVA62XH12JFNP7P2",
+      "body": "**Severity Level:** High\n\nThe incident has been resolved. Launches and terminations are now working as expected.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-27T11:45:41Z",
+      "display_at": "2026-07-27T11:45:41Z",
+      "incident_id": "01KYHC2Q7VY59H7N9C6A80SWNQ",
+      "status": "resolved",
+      "updated_at": "2026-07-27T11:45:41Z"
+     },
+     {
+      "id": "01KYHNDNCYF3PT1ZQGZHK0DAZT",
+      "body": "**Severity Level:** High\n\nWe\u2019re currently investigating a potential issue with our launches and termination from multiple regions. Users may experience their machines being stalled while booting up or terminating.\nServices have been restarted and the launches are enabled again. We will continue to monitor the situation.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-27T11:30:04Z",
+      "display_at": "2026-07-27T11:30:04Z",
+      "incident_id": "01KYHC2Q7VY59H7N9C6A80SWNQ",
+      "status": "monitoring",
+      "updated_at": "2026-07-27T11:30:04Z"
+     },
+     {
+      "id": "01KYHC2Q7VT0G0P981S7E0XBX4",
+      "body": "**Severity Level:** High\n\nWe\u2019re currently investigating a potential issue with our launches and termination from multiple regions. Users may experience their machines being stalled while booting up or terminating.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-27T08:46:49Z",
+      "display_at": "2026-07-27T08:46:49Z",
+      "incident_id": "01KYHC2Q7VY59H7N9C6A80SWNQ",
+      "status": "investigating",
+      "updated_at": "2026-07-27T08:46:49Z"
+     }
+    ]
+   },
+   {
+    "id": "01KYFW3DHZ7JJEQ4PTD21TBE96",
+    "name": "DAL01 - COLO Internet Connectivity Disruption (Upstream Provider)",
+    "status": "resolved",
+    "created_at": "2026-07-26T18:48:20Z",
+    "updated_at": "2026-07-27T01:41:08Z",
+    "resolved_at": "2026-07-27T01:41:08Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KYGKQ98NWE62R1PXEY4MTK6M",
+      "body": "**Severity Level:** Medium\n\nThe incident has been resolved. The network is now working as expected. Thank you for your patience.\n\n-----------------------------------------------------------------------------\n\nAgain, in the event you\u2019re unsure as to whether your service is still impacted by this, please open a support ticket and we\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-27T01:41:08Z",
+      "display_at": "2026-07-27T01:41:08Z",
+      "incident_id": "01KYFW3DHZ7JJEQ4PTD21TBE96",
+      "status": "resolved",
+      "updated_at": "2026-07-27T01:41:08Z"
+     },
+     {
+      "id": "01KYGGYSEF6419CMTRKYB488A4",
+      "body": "**Severity Level: Medium**\n\nDAL01 - COLO Internet Connectivity Disruption (Upstream Provider)\n\nWe continue to work with our upstream provider to resolve the DIA circuit outage affecting DAL01. Our team is actively engaged and we're in regular contact as we work toward restoration.\n\nCustomers with IP addresses in the **38.147.81.0/24** range remain impacted until service is restored.\n\nWe do not have an ETA at this time but will share another update as soon as we have new information.\n\nThank you for your patience while we work through this with our provider.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-27T00:52:48Z",
+      "display_at": "2026-07-27T00:52:48Z",
+      "incident_id": "01KYFW3DHZ7JJEQ4PTD21TBE96",
+      "status": "identified",
+      "updated_at": "2026-07-27T00:52:48Z"
+     },
+     {
+      "id": "01KYFW3DHZMX01RNM6SX2BZGNQ",
+      "body": "**Severity Level:** Medium\n\nDAL01 - COLO Internet Connectivity Disruption (Upstream Provider)\n\nWe are currently investigating a loss of internet connectivity affecting colocation customers in our DAL01 (Dallas) facility. The disruption is due to a down Dedicated Internet Access (DIA) circuit with one of our upstream providers.\n\nCustomers with IP addresses in the **38.147.81.0/24** range may be unable to send or receive traffic over the affected circuit.\n\nWe have opened a ticket with the upstream provider and are actively working with them to restore service. We will provide another update as soon as additional information becomes available.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-26T18:48:20Z",
+      "display_at": "2026-07-26T18:48:20Z",
+      "incident_id": "01KYFW3DHZ7JJEQ4PTD21TBE96",
+      "status": "identified",
+      "updated_at": "2026-07-26T18:48:20Z"
+     }
+    ]
+   },
+   {
+    "id": "01KWGJ00W6TW7HM4YJD2TJD13Y",
+    "name": "US-SOUTH-2 - Instance Launch Issues",
+    "status": "resolved",
+    "created_at": "2026-07-02T04:39:34Z",
+    "updated_at": "2026-07-02T05:38:35Z",
+    "resolved_at": "2026-07-02T05:38:35Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KWGNC3BYEFR3GRPS4DWCFGAM",
+      "body": "**Severity Level:** Medium\n\nThe US-SOUTH-2 launch/termination issue has been resolved.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-02T05:38:35Z",
+      "display_at": "2026-07-02T05:38:35Z",
+      "incident_id": "01KWGJ00W6TW7HM4YJD2TJD13Y",
+      "status": "resolved",
+      "updated_at": "2026-07-02T05:38:35Z"
+     },
+     {
+      "id": "01KWGJ00W68FKF7FT7X0WD9SJN",
+      "body": "**Severity Level:** Medium\n\nWe\u2019re currently investigating a potential issue with instance launching in the US-SOUTH-2 region. Users may experience boot/termination failures.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-07-02T04:39:34Z",
+      "display_at": "2026-07-02T04:39:34Z",
+      "incident_id": "01KWGJ00W6TW7HM4YJD2TJD13Y",
+      "status": "investigating",
+      "updated_at": "2026-07-02T04:39:34Z"
+     }
+    ]
+   },
+   {
+    "id": "01KVHWRVW22V0P5F7YA0BHCH2K",
+    "name": "US-SOUTH-2 Booting Failures of Newly Launched Instance",
+    "status": "resolved",
+    "created_at": "2026-06-20T06:51:26Z",
+    "updated_at": "2026-06-24T13:04:38Z",
+    "resolved_at": "2026-06-24T13:04:38Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KVWVQ3E75KVB6CQ67P6875PT",
+      "body": "**Severity Level:** High\n\nA fix has been implemented and we\u2019re monitoring the results.\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.\n\nThank you for your patience and understanding during this time.",
+      "created_at": "2026-06-24T13:04:38Z",
+      "display_at": "2026-06-24T13:04:38Z",
+      "incident_id": "01KVHWRVW22V0P5F7YA0BHCH2K",
+      "status": "resolved",
+      "updated_at": "2026-06-24T13:04:38Z"
+     },
+     {
+      "id": "01KVTEPRHFJBMBMJ1YEVC7PHX5",
+      "body": "**Severity Level:** [High]\n\nOur engineers have pushed a fix to remediate the problem of new instance launches failing to boot in US-SOUTH-2. New instance launches have now been reactivated for this region. Our engineers will continue to monitor this issue closely.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-23T14:38:47Z",
+      "display_at": "2026-06-23T14:38:47Z",
+      "incident_id": "01KVHWRVW22V0P5F7YA0BHCH2K",
+      "status": "monitoring",
+      "updated_at": "2026-06-23T14:38:47Z"
+     },
+     {
+      "id": "01KVTBW0VT413YSPHPQ4M9GBDV",
+      "body": "**Severity Level:** [Low/Medium/High/Critical]\n\nWe\u2019re currently investigating a potential issue in US-SOUTH-2. Users are experience new instance launch failing to boot.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue. Currently new instance launches in US-SOUTH-2 have been temporarily disabled until the issue has been remediated.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-23T13:49:14Z",
+      "display_at": "2026-06-23T13:49:14Z",
+      "incident_id": "01KVHWRVW22V0P5F7YA0BHCH2K",
+      "status": "investigating",
+      "updated_at": "2026-06-23T13:49:14Z"
+     },
+     {
+      "id": "01KVTBQFFYKC5H6A1BB04BYQV4",
+      "body": "**Severity Level:** [High]\n\nWe\u2019re currently investigating an issue with our [SERVICE]. Users are experiencing [specific impact].\nOur teams are actively working to identify the root cause and mitigate or resolve the issue. New instance launches in [SERVICE] have been temporarily disabled.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-23T13:46:45Z",
+      "display_at": "2026-06-23T13:46:45Z",
+      "incident_id": "01KVHWRVW22V0P5F7YA0BHCH2K",
+      "status": "investigating",
+      "updated_at": "2026-06-23T13:46:45Z"
+     },
+     {
+      "id": "01KVHWRVW29DJ22D837E1JKT5P",
+      "body": "**Severity Level:** [Medium]\n\nWe're currently investigating a potential issue in the US-SOUTH-2 region. Users may experience slow booting of newly launched instance.\n\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-20T06:51:26Z",
+      "display_at": "2026-06-20T06:51:26Z",
+      "incident_id": "01KVHWRVW22V0P5F7YA0BHCH2K",
+      "status": "investigating",
+      "updated_at": "2026-06-20T06:51:26Z"
+     }
+    ]
+   },
+   {
+    "id": "01KVAB6GYM2E4RD1GAJC6SVS1F",
+    "name": "Failed Launches in US-EAST-3",
+    "status": "resolved",
+    "created_at": "2026-06-17T08:29:38Z",
+    "updated_at": "2026-06-17T09:17:06Z",
+    "resolved_at": "2026-06-17T09:17:06Z",
+    "impact": "none",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KVADXDWM4WQJPTJ860WSRYKP",
+      "body": "**Severity Level:** Medium\n\nThe launch issues in US-EAST-3 has been resolved.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-17T09:17:06Z",
+      "display_at": "2026-06-17T09:17:06Z",
+      "incident_id": "01KVAB6GYM2E4RD1GAJC6SVS1F",
+      "status": "resolved",
+      "updated_at": "2026-06-17T09:17:06Z"
+     },
+     {
+      "id": "01KVAB6GYMZDMWT8V5VGKWWG82",
+      "body": "**Severity Level:** Medium\n\nWe\u2019re currently investigating a potential issue with the instance launches. Users may experience their US-EAST-3 instances going into Alert at launch.\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-17T08:29:38Z",
+      "display_at": "2026-06-17T08:29:38Z",
+      "incident_id": "01KVAB6GYM2E4RD1GAJC6SVS1F",
+      "status": "investigating",
+      "updated_at": "2026-06-17T08:29:38Z"
+     }
+    ]
+   },
+   {
+    "id": "01KTA1WZNQ5B7EZ0HDCZ7SXE59",
+    "name": "Slow Instance Launches in Certain Regions",
+    "status": "resolved",
+    "created_at": "2026-06-04T19:31:27Z",
+    "updated_at": "2026-06-04T19:45:21Z",
+    "resolved_at": "2026-06-04T19:45:21Z",
+    "impact": "minor",
+    "page_id": "01J450868FGGA564RC27Y7G43S",
+    "incident_updates": [
+     {
+      "id": "01KTA2PEGNBTVT0JGZW942ATRQ",
+      "body": "**Our team has resolved the issue impacting slow instance launches.** \n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service was impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-04T19:45:21Z",
+      "display_at": "2026-06-04T19:45:21Z",
+      "incident_id": "01KTA1WZNQ5B7EZ0HDCZ7SXE59",
+      "status": "resolved",
+      "updated_at": "2026-06-04T19:45:21Z"
+     },
+     {
+      "id": "01KTA1WZNQNB26N04QFTMHRZWK",
+      "body": "**Severity Level:** High\n\nWe\u2019re currently investigating a potential issue with our instance launches. Users may experience slower than normal instance launches in the following regions:\n\n\u2022 us-east-1\n\n\u2022 us-midwest-1\n\n\u2022 us-west-1\n\n\u2022 us-west-2\n\n\u2022 me-west-1\n\n\u2022 europe-cental-1\n\n\u2022 ap-southeaast-2\n\n\u2022 asia-northeast-2\n\n\u2022 asia-south-1\n\n\u2022 asia-northeast-1\n\n\nOur teams are actively working to identify the root cause and mitigate or resolve the issue.\n\nThank you for your patience and understanding during this time.\n\n-----------------------------------------------------------------------------\n\nIn the event you\u2019re unsure as to whether your service is impacted by this incident, please open a support ticket. We\u2019ll get back to you as soon as possible.\n\n\n\u2022 [https://support.lambdalabs.com/hc/en-us/requests/new](https://support.lambdalabs.com/hc/en-us/requests/new \"https://support.lambdalabs.com/hc/en-us/requests/new\")\n\nTo be automatically notified when the status of this incident changes, please click on the \u201cSubscribe to updates\u201d button.",
+      "created_at": "2026-06-04T19:31:27Z",
+      "display_at": "2026-06-04T19:31:27Z",
+      "incident_id": "01KTA1WZNQ5B7EZ0HDCZ7SXE59",
+      "status": "investigating",
+      "updated_at": "2026-06-04T19:31:27Z"
+     }
+    ]
+   }
+  ]
+ },
+ "modal_incidents_text": "Previous incidents | Modal Labs\nStatus\nMaintenance\nPrevious incidents\nCommunity Slack\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Modal Labs creates, updates or resolves an incident:\nSubscribe to specific components\nApplications\nDeployment\nFunctions\nSandboxes\nWeb Functions\nServers\nWeb services\nDashboard\nStorage\nVolumes\nDicts\nQueues\nSecrets\nEndpoints\nDedicated Endpoints\nKimi K3 Shared Endpoint\nInkling Shared Endpoint\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Modal Labs creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nApplications\nDeployment\nFunctions\nSandboxes\nWeb Functions\nServers\nWeb services\nDashboard\nStorage\nVolumes\nDicts\nQueues\nSecrets\nEndpoints\nDedicated Endpoints\nKimi K3 Shared Endpoint\nInkling Shared Endpoint\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Modal Labs incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nApplications\nDeployment\nFunctions\nSandboxes\nWeb Functions\nServers\nWeb services\nDashboard\nStorage\nVolumes\nDicts\nQueues\nSecrets\nEndpoints\nDedicated Endpoints\nKimi K3 Shared Endpoint\nInkling Shared Endpoint\nSubscribe\nPrevious incidents\nAug 2026 to Oct 2026\nOctober 2026\nOct 05, 2026\n1 incident\nFunction and Sandbox execution degraded\nResolved\nResolved\nOct 5, 2026 at 11:09pm UTC\nWe're seeing recovery for function and sandbox execution, worker networking has been restored\n1 previous update\nSeptember 2026\nSep 16, 2026\n1 incident\nDashboard and sandbox outage\nResolved\nResolved\nSep 16, 2026 at 6:43pm UTC\nWe're observing recovery of impacted services and will continue to monitor.\n2 previous updates\nSep 04, 2026\n1 incident\nStorage is degraded\nResolved\nResolved\nSep 4, 2026 at 10:51pm UTC\nError rates on the impacted volume endpoint have subsided. We will continue to monitor.\n1 previous update\nAugust 2026\nAug 26, 2026\n2 incidents\nSnapshot restores are degraded\nResolved\nResolved\nAug 27, 2026 at 2:04am UTC\nWe have shipped a change to resolve this and are seeing remediation.\n1 previous update\nIncreased function latency\nResolved\nResolved\nAug 26, 2026 at 11:02pm UTC\nWe are seeing full recovery\n2 previous updates\nAug 19, 2026\n1 incident\nDegraded latency on .spawn() calls\nResolved\nResolved\nAug 20, 2026 at 12:00am UTC\nWe have recovered.\n1 previous update\nbody>div[style]:last-child { top: 10px !important; }\n",
+ "modal_home_text": "Modal Labs status\nStatus\nMaintenance\nPrevious incidents\nCommunity Slack\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Modal Labs creates, updates or resolves an incident:\nSubscribe to specific components\nApplications\nDeployment\nFunctions\nSandboxes\nWeb Functions\nServers\nWeb services\nDashboard\nStorage\nVolumes\nDicts\nQueues\nSecrets\nEndpoints\nDedicated Endpoints\nKimi K3 Shared Endpoint\nInkling Shared Endpoint\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Modal Labs creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nApplications\nDeployment\nFunctions\nSandboxes\nWeb Functions\nServers\nWeb services\nDashboard\nStorage\nVolumes\nDicts\nQueues\nSecrets\nEndpoints\nDedicated Endpoints\nKimi K3 Shared Endpoint\nInkling Shared Endpoint\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Modal Labs incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nApplications\nDeployment\nFunctions\nSandboxes\nWeb Functions\nServers\nWeb services\nDashboard\nStorage\nVolumes\nDicts\nQueues\nSecrets\nEndpoints\nDedicated Endpoints\nKimi K3 Shared Endpoint\nInkling Shared Endpoint\nSubscribe\nAll services are online\nLast updated on Oct 9, 2026 at 9:20pm UTC\nOperational\nOperational\nDowntime\nDowntime\nDegraded\nDegraded\nMaintenance\nMaintenance\nNot monitored\nNot monitored\nRecovered\nRecovered\nRecovered\nRecovered\nApplications\nOperational\nDeployment\n100% uptime\nDashboard and sandbox outage\nDegraded for 14 minutes\nSep 16, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nFunctions\nmodal.Function: execute functions\n100% uptime\nDegraded latency on .spawn() calls\nDegraded for 15 minutes\nAug 19, 2026\nIncreased function latency\nDegraded for 6 minutes\nAug 26, 2026\nFunction and Sandbox execution degraded\nDegraded for 7 minutes\nOct 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nSandboxes\n99.989% uptime\nDashboard and sandbox outage\nDown for 14 minutes\nSep 16, 2026\nFunction and Sandbox execution degraded\nDegraded for 7 minutes\nOct 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nWeb Functions\nmodal.web_endpoint: engine for HTTP endpoints and ASGI apps\n99.982% uptime\nSome services are down\nDown for 22 minutes\nJul 30, 2026\nIncreased function latency\nDegraded for 11 minutes\nAug 26, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nServers\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nWeb services\nOperational\nDashboard\nDashboard functionality on modal.com\n99.977% uptime\nmodal.com is degraded\nDegraded for 31 minutes\nJul 23, 2026\nDashboard and sandbox outage\nDown for 14 minutes\nSep 16, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nStorage\nOperational\nVolumes\nmodal.Volume: mutable volumes built for high-performance file serving.\n99.998% uptime\nStorage is degraded\nDegraded for 2 hours and 8 minutes\nSep 04, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nDicts\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nQueues\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nSecrets\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nEndpoints\nOperational\nDedicated Endpoints\n99.993% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nKimi K3 Shared Endpoint\n99.868% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nInkling Shared Endpoint\n99.996% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nPrevious incidents\nOct 05, 2026\nFunction and Sandbox execution degraded\nResolved\nResolved\nOct 5, 2026 at 11:09pm UTC\nWe're seeing recovery for function and sandbox execution, worker networking has been restored\n1 previous update\nPrevious updates\nbody>div[style]:last-child { top: 10px !important; }\n",
+ "together_incidents_text": "Previous incidents | Together AI\nStatus\nMaintenance\nPrevious incidents\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Together AI creates, updates or resolves an incident:\nSubscribe to specific components\nWebsite\nWebsite\nPlayground\nInference - Chat\nOpenAI GPT OSS 120B\nMeta Llama 3.3 70B Instruct Turbo\nQwen3.5 9B\nMiniMax M3\nGLM 5.2\nInkling\nKimi K3\nDeepSeek V4 Flash 0731\nMuse Glimmer 30B\nQwen3.8-2.4T-A95B\nDeepSeek V4 Pro 0813\nGLM 5.3 Flash\nGLM 5.3\nDeepSeek V4.1 Flash\nInference - Voice\nWhisper Large V3\nOrpheus TTS\nKokoro-82M\nTogether\nTev1 4B Experimental\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Together AI creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nWebsite\nWebsite\nPlayground\nInference - Chat\nOpenAI GPT OSS 120B\nMeta Llama 3.3 70B Instruct Turbo\nQwen3.5 9B\nMiniMax M3\nGLM 5.2\nInkling\nKimi K3\nDeepSeek V4 Flash 0731\nMuse Glimmer 30B\nQwen3.8-2.4T-A95B\nDeepSeek V4 Pro 0813\nGLM 5.3 Flash\nGLM 5.3\nDeepSeek V4.1 Flash\nInference - Voice\nWhisper Large V3\nOrpheus TTS\nKokoro-82M\nTogether\nTev1 4B Experimental\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Together AI incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nWebsite\nWebsite\nPlayground\nInference - Chat\nOpenAI GPT OSS 120B\nMeta Llama 3.3 70B Instruct Turbo\nQwen3.5 9B\nMiniMax M3\nGLM 5.2\nInkling\nKimi K3\nDeepSeek V4 Flash 0731\nMuse Glimmer 30B\nQwen3.8-2.4T-A95B\nDeepSeek V4 Pro 0813\nGLM 5.3 Flash\nGLM 5.3\nDeepSeek V4.1 Flash\nInference - Voice\nWhisper Large V3\nOrpheus TTS\nKokoro-82M\nTogether\nTev1 4B Experimental\nSubscribe\nPrevious incidents\nAug 2026 to Oct 2026\nOctober 2026\nNo incidents reported\nSeptember 2026\nNo incidents reported\nAugust 2026\nNo incidents reported\nPowered by\nbody>div[style]:last-child { top: 10px !important; }\n",
+ "runpod_home_text": "Runpod status\nHome\nGPU Cloud\nServerless\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Runpod creates, updates or resolves an incident:\nSubscribe to specific components\nServerless\nserverless api: api.runpod.ai\nserverless: queue engine\nServerless: CPU workers\nGPU Cloud\ngraphql: api.runpod.io\nlog/metrics api: hapi.runpod.net\npod proxy: proxy.runpod.net\ngraphql: transactional data store\nui: runpod.io/console\nUpstream Systems\nCPU Cloud\nRegional Health\nAP-IN-1\nAP-JP-1\nCA-MTL-1\nCA-MTL-3\nCA-MTL-4\nEU-CZ-1\nEU-FR-1\nEU-NL-1\nEU-RO-1\nEU-SE-1\nEUR-IS-1\nEUR-IS-2\nEUR-IS-3\nEUR-IS-4\nEUR-NO-1\nEUR-NO-2\nOC-AU-1\nUS-CA-2\nUS-GA-2\nUS-IL-1\nUS-KS-2\nUS-MD-1\nUS-MO-1\nUS-MO-2\nUS-NC-1\nUS-NC-2\nUS-NE-1\nUS-TX-1\nUS-TX-3\nUS-TX-4\nUS-WA-1\nUS-PA-1\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Runpod creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nServerless\nserverless api: api.runpod.ai\nserverless: queue engine\nServerless: CPU workers\nGPU Cloud\ngraphql: api.runpod.io\nlog/metrics api: hapi.runpod.net\npod proxy: proxy.runpod.net\ngraphql: transactional data store\nui: runpod.io/console\nUpstream Systems\nCPU Cloud\nRegional Health\nAP-IN-1\nAP-JP-1\nCA-MTL-1\nCA-MTL-3\nCA-MTL-4\nEU-CZ-1\nEU-FR-1\nEU-NL-1\nEU-RO-1\nEU-SE-1\nEUR-IS-1\nEUR-IS-2\nEUR-IS-3\nEUR-IS-4\nEUR-NO-1\nEUR-NO-2\nOC-AU-1\nUS-CA-2\nUS-GA-2\nUS-IL-1\nUS-KS-2\nUS-MD-1\nUS-MO-1\nUS-MO-2\nUS-NC-1\nUS-NC-2\nUS-NE-1\nUS-TX-1\nUS-TX-3\nUS-TX-4\nUS-WA-1\nUS-PA-1\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Runpod incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nServerless\nserverless api: api.runpod.ai\nserverless: queue engine\nServerless: CPU workers\nGPU Cloud\ngraphql: api.runpod.io\nlog/metrics api: hapi.runpod.net\npod proxy: proxy.runpod.net\ngraphql: transactional data store\nui: runpod.io/console\nUpstream Systems\nCPU Cloud\nRegional Health\nAP-IN-1\nAP-JP-1\nCA-MTL-1\nCA-MTL-3\nCA-MTL-4\nEU-CZ-1\nEU-FR-1\nEU-NL-1\nEU-RO-1\nEU-SE-1\nEUR-IS-1\nEUR-IS-2\nEUR-IS-3\nEUR-IS-4\nEUR-NO-1\nEUR-NO-2\nOC-AU-1\nUS-CA-2\nUS-GA-2\nUS-IL-1\nUS-KS-2\nUS-MD-1\nUS-MO-1\nUS-MO-2\nUS-NC-1\nUS-NC-2\nUS-NE-1\nUS-TX-1\nUS-TX-3\nUS-TX-4\nUS-WA-1\nUS-PA-1\nSubscribe\nPlanned Network Maintenance - EU-FR-1\nOct 27, 2026 at 2:00pm UTC\nPlanned Network Maintenance - EU-FR-1\nOct 20, 2026 at 1:00pm UTC\nOngoing maintenance\nLast updated on Oct 9, 2026 at 9:20pm UTC\nOperational\nOperational\nDowntime\nDowntime\nDegraded\nDegraded\nMaintenance\nMaintenance\nNot monitored\nNot monitored\nRecovered\nRecovered\nRecovered\nRecovered\nServerless\nOperational\nserverless api: api.runpod.ai\n100% uptime\nSSH Proxy and Serverless are experiencing eleva...\nDegraded for 1 hour and 25 minutes\nSep 06, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nserverless: queue engine\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nServerless: CPU workers\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nGPU Cloud\nOperational\ngraphql: api.runpod.io\n100% uptime\nElevated errors on the GraphQL and REST v2 APIs\nDegraded for 1 hour\nSep 17, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nlog/metrics api: hapi.runpod.net\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\npod proxy: proxy.runpod.net\n100% uptime\nSSH Proxy and Serverless are experiencing eleva...\nDegraded for 1 hour and 25 minutes\nSep 06, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\ngraphql: transactional data store\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nui: runpod.io/console\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUpstream Systems\nExternal third party services that Runpod depend on\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCPU Cloud\nOperational\nRegional Health\nMaintenance\nAP-IN-1\n99.995% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nAP-JP-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-3\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-4\n99.814% uptime\nCA-MTL-4 Network Issue\nDown for 28 minutes\nSep 09, 2026\nEmergency Network Maintenance for CA-MTL-4\nUnder maintenance for 4 hours\nSep 24, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-CZ-1\n100% uptime\nEU-CZ-1 Network Issue\nDegraded for 1 hour and 12 minutes\nAug 19, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-FR-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-NL-1\n99.907% uptime\nEU-NL-1 Network Issue\nDown for 1 hour and 59 minutes\nSep 16, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-RO-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-SE-1\n99.974% uptime\nEU-SE-1 Network Issue\nDown for 33 minutes\nSep 24, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-1\n99.980% uptime\nEUR-IS-1 Network Issue\nDegraded for 1 hour and 24 minutes\nJul 21, 2026\nEUR-IS-1 Network Issue\nDegraded for 20 hours and 13 minutes\nAug 13, 2026\nEUR-IS-1 Network Issue\nDegraded for 2 hours and 50 minutes\nAug 14, 2026\nEUR-IS-1 Network Issue\nDegraded for 3 hours\nAug 17, 2026\nEUR-IS-1 Network Issue\nDegraded for 9 hours and 39 minutes\nSep 12, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-2\n100% uptime\nEUR-IS-2 Network Issue\nDegraded for 1 hour and 8 minutes\nSep 16, 2026\nEUR-IS-2 Network Issue\nDegraded for 2 hours\nSep 18, 2026\nEUR-IS-2 DC is Degraded\nDegraded for 5 hours and 23 minutes\nSep 22, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-3\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-4\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-NO-1\n99.913% uptime\nEUR-NO-1 Network Storage Issue\nDown for 1 hour and 51 minutes\nAug 06, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-NO-2\n99.959% uptime\nPlanned Network Switch Firmware Upgrade (EUR-NO-2)\nUnder maintenance for 8 hours\nJul 24, 2026\nEUR-NO-2 Network Issue\nDown for 48 minutes\nAug 19, 2026\nPlanned Network Maintenance EUR-NO-2\nDegraded for 3 hours and 30 minutes\nSep 29, 2026\nEmergency Network Maintenance - EUR-NO-2\nUnder maintenance for 9 hours and 30 minutes\nOct 09, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nOC-AU-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-CA-2\n99.929% uptime\nUS-CA-2 Networking is Degraded\nDegraded for 31 minutes\nOct 07, 2026\nUS-CA-2 Network Storage Issue\nDown for 1 hour and 31 minutes, now operational\nOct 09, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-GA-2\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-IL-1\n99.698% uptime\nUS-IL-1 DC is Unavailable\nDown for 6 hours and 15 minutes\nAug 14, 2026\nUS-IL-1 Network Issue\nDown for 14 minutes\nSep 20, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-KS-2\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MD-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MO-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MO-2\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NC-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NC-2\n100% uptime\nUS-NC-2 Networking is Degraded\nDegraded for 1 hour and 46 minutes\nAug 31, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NE-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-3\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-4\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-WA-1\n100% uptime\nPlanned PDU maintenance: US-WA-1 & US-WA-2\nUnder maintenance for 3 hours\nSep 08, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-PA-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nPrevious incidents\nOct 09, 2026\nUS-CA-2 Network Storage Issue\nResolved\nResolved\nOct 9, 2026 at 6:02pm UTC\nNetwork storage issue in US-CA-2 is resolved and operating normally.\n1 previous update\nEmergency Network Maintenance - EUR-NO-2\nMaintenance\nMaintenance\nOct 9, 2026 at 4:30pm UTC\nNetwork Engineers have scheduled emergency maintenance on our upstream network infrastructure. Traffic will automatically reroute during this time, so we do not anticipate any interruptions to your services.\nMaintenance window: 10/09/2026 16:30 - 10/10/2026 02:00 UTC\nOct 07, 2026\nUS-CA-2 Networking is Degraded\nResolved\nResolved\nOct 7, 2026 at 9:01pm UTC\nIssue has been resolved and the network in US-CA-2 DC is operating normally.\n1 previous update\nPrevious updates\nPowered by\nbody>div[style]:last-child { top: 10px !important; }\n"
+}
