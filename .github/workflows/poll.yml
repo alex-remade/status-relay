@@ -15,11 +15,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch status feeds
         run: ./fetch.sh
+      - name: Fetch funding feeds
+        run: ./fetch_funding.py
       - name: Commit if changed
         run: |
           git config user.name "status-relay-bot"
           git config user.email "actions@github.com"
-          git add status.json
+          git add status.json funding.json
           git diff --cached --quiet && echo "no change" && exit 0
           git commit -m "status update $(date -u +%FT%TZ)"
           git push
