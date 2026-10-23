@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T02:02:54.672681+00:00",
+ "fetched_at": "2026-10-23T07:24:38.730850+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Left alone with nothing to do, AI agents started playing",
    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
    "published": "Fri, 23 Oct 2026 00:45:37 +0000",
@@ -169,17 +176,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "Canva releases its first image generation model",
    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
   },
   {
    "feed": "techcrunch_ai",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
    "published": "Wed, 21 Oct 2026 17:59:12 +0000",
    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-   "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-   "published": "Wed, 21 Oct 2026 17:18:27 +0000",
-   "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
   },
   {
    "feed": "crunchbase_news",
