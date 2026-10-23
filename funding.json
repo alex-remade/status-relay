@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T07:24:38.730850+00:00",
+ "fetched_at": "2026-10-23T12:51:18.952189+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -176,17 +176,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
    "feed": "techcrunch_ai",
@@ -288,6 +288,20 @@
   },
   {
    "feed": "crunchbase_news",
+   "title": "Protecting Trade Secrets In The Age Of AI",
+   "link": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
+   "published": "Fri, 23 Oct 2026 11:00:29 +0000",
+   "summary": "AI agents create new trade secret risks by allowing employees to access expertise or inadvertently expose proprietary information through personal devices. In this guest commentary, Seth Kugler, a partner at Grellas Shah LLP, warns companies that they should adopt strict AI policies, restrict data access on unmanaged devices, update confidentiality agreements, and act immediately when misuse is suspected."
+  },
+  {
+   "feed": "crunchbase_news",
+   "title": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement",
+   "link": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech/",
+   "published": "Fri, 23 Oct 2026 11:00:08 +0000",
+   "summary": "From teaching robots to do everyday household chores to using lasers to track satellites in space, this month's crop of interesting startup deals spans some decidedly different corners of tech."
+  },
+  {
+   "feed": "crunchbase_news",
    "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
    "link": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
    "published": "Thu, 22 Oct 2026 13:00:23 +0000",
@@ -341,20 +355,6 @@
    "link": "https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/",
    "published": "Tue, 20 Oct 2026 11:00:16 +0000",
    "summary": "All told, fintech startups raised $10.6 billion globally in the third quarter of 2026, down 28.4% from $14.9 billion in Q2 2026 and 21.4% from $13.5 billion in Q3 2025."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin \u2018Rediscovering\u2019 The Region",
-   "link": "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/",
-   "published": "Mon, 19 Oct 2026 11:00:46 +0000",
-   "summary": "A continued boom in late-stage and growth funding combined with a surge in seed-stage funding helped buoy venture investment in Latin America for the third quarter of 2026, Crunchbase data shows."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "The FDE Bubble: Silicon Valley\u2019s Most Expensive Game Of Pretend",
-   "link": "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/",
-   "published": "Mon, 19 Oct 2026 11:00:19 +0000",
-   "summary": "Enterprise AI companies relying on armies of forward deployed engineers are disguising labor-intensive services as scalable software, inflating recurring revenue and valuations while falling short of autonomy claims, argues Anurag Gurtu, co-founder and CEO of Airrived. In this guest commentary he urges buyers and investors to examine deployment costs and gross margins to distinguish sustainable software businesses from expensive staffing operations."
   }
  ]
 }
