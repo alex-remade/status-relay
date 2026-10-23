@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-10-23T17:40:18.656490+00:00",
+ "fetched_at": "2026-10-23T20:40:57.633576+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+   "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+   "published": "Fri, 23 Oct 2026 19:25:13 +0000",
+   "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
@@ -126,11 +133,11 @@
    "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
-   "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-   "published": "Wed, 14 Oct 2026 15:13:24 +0000",
-   "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
+   "feed": "techcrunch_ai",
+   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+   "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+   "published": "Fri, 23 Oct 2026 19:06:23 +0000",
+   "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs."
   },
   {
    "feed": "techcrunch_ai",
@@ -266,11 +273,11 @@
    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
-   "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-   "published": "Wed, 21 Oct 2026 17:59:12 +0000",
-   "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+   "feed": "crunchbase_news",
+   "title": "The Week\u2019s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+   "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+   "published": "Fri, 23 Oct 2026 18:51:22 +0000",
+   "summary": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million financing for Warhound, which wants to breed elite military dogs. A number of big rounds in areas including biotech, space tech and physical AI rounded out the list."
   },
   {
    "feed": "crunchbase_news",
@@ -334,13 +341,6 @@
    "link": "https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/",
    "published": "Tue, 20 Oct 2026 11:00:46 +0000",
    "summary": "Founders can build billion-dollar businesses without venture capital by prioritizing customer revenue, pricing for quality, hiring exceptional talent and automating processes to scale efficiently, argues Nacho De Marco, who draws on his experience bootstrapping BairesDev, to emphasize financial discipline and a lasting commitment to solving customer problems as the foundations of sustainable growth."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer",
-   "link": "https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/",
-   "published": "Tue, 20 Oct 2026 11:00:16 +0000",
-   "summary": "All told, fintech startups raised $10.6 billion globally in the third quarter of 2026, down 28.4% from $14.9 billion in Q2 2026 and 21.4% from $13.5 billion in Q3 2025."
   }
  ]
 }
