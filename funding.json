@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-10-23T20:40:57.633576+00:00",
+ "fetched_at": "2026-10-23T23:35:27.447310+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+   "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+   "published": "Fri, 23 Oct 2026 20:57:13 +0000",
+   "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
@@ -15,7 +22,7 @@
   },
   {
    "feed": "techcrunch_venture",
-   "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
+   "title": "What some of Anthropic\u2019s backers are worth before its IPO",
    "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
    "published": "Fri, 23 Oct 2026 16:02:43 +0000",
    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
@@ -126,11 +133,18 @@
    "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston\u2019s SoWa Power Station. Bring your toughest questions and make the day count for your business."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "TechCrunch Disrupt 2026: Last day",
-   "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-   "published": "Thu, 15 Oct 2026 14:00:00 +0000",
-   "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+   "feed": "techcrunch_ai",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+   "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+   "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+   "published": "Fri, 23 Oct 2026 21:59:19 +0000",
+   "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
   },
   {
    "feed": "techcrunch_ai",
@@ -257,20 +271,6 @@
    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
    "published": "Wed, 21 Oct 2026 21:14:19 +0000",
    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-   "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-   "published": "Wed, 21 Oct 2026 19:30:00 +0000",
-   "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
   },
   {
    "feed": "crunchbase_news",
