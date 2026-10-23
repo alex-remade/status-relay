@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-10-23T12:51:18.952189+00:00",
+ "fetched_at": "2026-10-23T17:40:18.656490+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
+   "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+   "published": "Fri, 23 Oct 2026 16:02:43 +0000",
+   "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
@@ -126,32 +133,11 @@
    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "TechCrunch Disrupt 2026: Day 2",
-   "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-   "published": "Wed, 14 Oct 2026 14:30:00 +0000",
-   "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
-  },
-  {
-   "feed": "techcrunch_venture",
-   "title": "TechCrunch Disrupt 2026: Day 1",
-   "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-   "published": "Tue, 13 Oct 2026 14:00:00 +0000",
-   "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year."
-  },
-  {
-   "feed": "techcrunch_venture",
-   "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-   "published": "Tue, 13 Oct 2026 13:28:06 +0000",
-   "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
-  },
-  {
    "feed": "techcrunch_ai",
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
    "published": "Fri, 23 Oct 2026 04:00:00 +0000",
-   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+   "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
   },
   {
    "feed": "techcrunch_ai",
