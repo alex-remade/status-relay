@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T12:06:09.115066+00:00",
+ "fetched_at": "2026-10-24T15:55:41.740800+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+   "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "published": "Sat, 24 Oct 2026 15:00:00 +0000",
+   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "published": "Sat, 24 Oct 2026 14:00:00 +0000",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
    "published": "Fri, 23 Oct 2026 23:05:49 +0000",
@@ -257,20 +271,6 @@
    "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
    "published": "Wed, 21 Oct 2026 22:45:34 +0000",
    "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-   "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-   "published": "Wed, 21 Oct 2026 21:16:20 +0000",
-   "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta says Muse has over 10M users, with shopping a top activity",
-   "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "published": "Wed, 21 Oct 2026 21:14:19 +0000",
-   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
   },
   {
    "feed": "crunchbase_news",
