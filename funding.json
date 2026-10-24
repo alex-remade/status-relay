@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T18:45:30.241083+00:00",
+ "fetched_at": "2026-10-24T21:16:18.319149+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+   "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Block\u2019s new voice model sounds eerily human",
    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
    "published": "Sat, 24 Oct 2026 16:00:00 +0000",
@@ -204,17 +211,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "Canva releases its first image generation model",
    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
   },
   {
    "feed": "techcrunch_ai",
@@ -264,13 +271,6 @@
    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
    "published": "Thu, 22 Oct 2026 13:11:13 +0000",
    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown",
-   "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-   "published": "Wed, 21 Oct 2026 22:51:22 +0000",
-   "summary": "Blackstone\u2019s AI head on why the PE giant isn't panicked by market jitters."
   },
   {
    "feed": "crunchbase_news",
