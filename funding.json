@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T15:55:41.740800+00:00",
+ "fetched_at": "2026-10-24T18:45:30.241083+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Block\u2019s new voice model sounds eerily human",
+   "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "published": "Sat, 24 Oct 2026 16:00:00 +0000",
+   "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
    "published": "Sat, 24 Oct 2026 15:00:00 +0000",
@@ -197,17 +204,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
    "feed": "techcrunch_ai",
@@ -264,13 +271,6 @@
    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
    "published": "Wed, 21 Oct 2026 22:51:22 +0000",
    "summary": "Blackstone\u2019s AI head on why the PE giant isn't panicked by market jitters."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-   "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-   "published": "Wed, 21 Oct 2026 22:45:34 +0000",
-   "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
   },
   {
    "feed": "crunchbase_news",
