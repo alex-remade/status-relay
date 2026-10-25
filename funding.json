@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T16:47:45.814272+00:00",
+ "fetched_at": "2026-10-25T19:21:23.443559+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "The hottest AI wearables and gadgets you should know about",
    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
    "published": "Sun, 25 Oct 2026 14:10:00 +0000",
@@ -218,17 +225,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
    "feed": "techcrunch_ai",
@@ -264,13 +271,6 @@
    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
    "published": "Thu, 22 Oct 2026 13:53:26 +0000",
    "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nirva raises $33M for a pendant that only listens to you",
-   "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-   "published": "Thu, 22 Oct 2026 13:26:52 +0000",
-   "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
   },
   {
    "feed": "crunchbase_news",
