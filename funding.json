@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T12:31:59.514467+00:00",
+ "fetched_at": "2026-10-25T16:47:45.814272+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "published": "Sun, 25 Oct 2026 14:10:00 +0000",
+   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "published": "Sat, 24 Oct 2026 19:00:00 +0000",
@@ -211,17 +218,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "Canva releases its first image generation model",
    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
   },
   {
    "feed": "techcrunch_ai",
@@ -264,13 +271,6 @@
    "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
    "published": "Thu, 22 Oct 2026 13:26:52 +0000",
    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "DeepSeek reportedly raises $15B days after US restrictions",
-   "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-   "published": "Thu, 22 Oct 2026 13:11:13 +0000",
-   "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
   },
   {
    "feed": "crunchbase_news",
