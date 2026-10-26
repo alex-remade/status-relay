@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T11:00:27.005502+00:00",
+ "fetched_at": "2026-10-26T17:18:44.195003+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,27 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+   "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "published": "Mon, 26 Oct 2026 16:46:36 +0000",
+   "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the \u201clargest committed GPU financing\u201d ever."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Anthropic officially files for its public debut",
+   "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+   "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
    "published": "Sun, 25 Oct 2026 21:31:16 +0000",
@@ -183,7 +204,7 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u2018significant risks\u2019",
    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
    "published": "Fri, 23 Oct 2026 23:05:49 +0000",
    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
@@ -232,17 +253,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
    "feed": "techcrunch_ai",
@@ -252,25 +273,18 @@
    "summary": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-   "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-   "published": "Thu, 22 Oct 2026 16:47:17 +0000",
-   "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+   "feed": "crunchbase_news",
+   "title": "When Traction Becomes Personal Exposure: What The Joonko Guilty Plea Means For Founders",
+   "link": "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/",
+   "published": "Mon, 26 Oct 2026 11:00:38 +0000",
+   "summary": "False claims about customers, revenue and AI capabilities can expose founders to personal securities-fraud liability, with D&#038;O insurance offering limited protection against established misconduct. Guest author Kyle Jeziorski of Founder Shield shares three policy provisions that need close attention from founders."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
-   "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-   "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
-   "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-   "published": "Thu, 22 Oct 2026 15:03:58 +0000",
-   "summary": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service."
+   "feed": "crunchbase_news",
+   "title": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
+   "link": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/",
+   "published": "Mon, 26 Oct 2026 11:00:35 +0000",
+   "summary": "California companies have scooped up more than three-fourths of all U.S. startup funding this year. That, per Crunchbase data, is an apparent record share. And keep in mind: This year still has a couple months left."
   },
   {
    "feed": "crunchbase_news",
@@ -327,20 +341,6 @@
    "link": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
    "published": "Wed, 21 Oct 2026 11:00:38 +0000",
    "summary": "Startup acquisitions can reshape employees\u2019 finances and careers, with individual outcomes depending on a variety of conditions. Guest author Ron Honig, co-CEO and managing partner of From-Honig Family Office, suggests that before making major life changes, employees should clarify their award rights, when proceeds will become available, and what their after-tax payout can realistically support."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "\u2018Weird And Maybe Uninvestable\u2019: How Reach Capital Spots Its Venture Winners",
-   "link": "https://news.crunchbase.com/venture/ai-edtech-healthcare-reach-capital-qa-kim/",
-   "published": "Wed, 21 Oct 2026 11:00:16 +0000",
-   "summary": "Crunchbase News spoke with James Kim, partner at Reach Capital, about how Reach\u2019s education roots inform its broader strategy, what it saw in AI detection company GPTZero, and why some of its best investments initially divided its own team. We also discussed how ownership stakes and secondary transactions have shaped the firm\u2019s approach to returning capital."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "How To Build A Billion-Dollar Company Without Venture Capital",
-   "link": "https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/",
-   "published": "Tue, 20 Oct 2026 11:00:46 +0000",
-   "summary": "Founders can build billion-dollar businesses without venture capital by prioritizing customer revenue, pricing for quality, hiring exceptional talent and automating processes to scale efficiently, argues Nacho De Marco, who draws on his experience bootstrapping BairesDev, to emphasize financial discipline and a lasting commitment to solving customer problems as the foundations of sustainable growth."
   }
  ]
 }
