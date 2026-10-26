@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T17:18:44.195003+00:00",
+ "fetched_at": "2026-10-26T21:43:18.942831+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -144,7 +144,7 @@
    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
    "published": "Mon, 26 Oct 2026 16:46:36 +0000",
-   "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the \u201clargest committed GPU financing\u201d ever."
+   "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
   },
   {
    "feed": "techcrunch_ai",
@@ -176,6 +176,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+   "summary": "The moment you realize the internet is \"held together by glue and dreams.\""
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "published": "Sat, 24 Oct 2026 19:00:00 +0000",
@@ -186,7 +193,7 @@
    "title": "Block\u2019s new voice model sounds eerily human",
    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
    "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-   "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+   "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has."
   },
   {
    "feed": "techcrunch_ai",
@@ -266,11 +273,11 @@
    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
-   "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "published": "Thu, 22 Oct 2026 18:43:53 +0000",
-   "summary": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself."
+   "feed": "crunchbase_news",
+   "title": "Some Observations About Anthropic\u2019s IPO Filing",
+   "link": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+   "published": "Mon, 26 Oct 2026 20:10:57 +0000",
+   "summary": "In an S-1 filing today preceding what could be the largest IPO ever, Anthropic laid out extensive new details about its earnings, growth, key stakeholders and the risks it faces going forward. Clocking in at 335 pages, the document wasn\u2019t exactly light reading. However, in a preliminary once-over, we highlight some of the more intriguing disclosures."
   },
   {
    "feed": "crunchbase_news",
@@ -334,13 +341,6 @@
    "link": "https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/",
    "published": "Thu, 22 Oct 2026 11:00:07 +0000",
    "summary": "As AI agents increasingly recommend and purchase products, brands must appeal to both machines and humans by documenting their voice, creating clear product descriptions and checking how AI summarizes their messaging. Guest author Toby Coulthard suggests that startups should build these practices in from the outset, preserving human appeal while measuring success through conversions and revenue rather than content volume."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "When A Startup Sells, Its Employees\u2019 Equity Plans Can Change Overnight",
-   "link": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
-   "published": "Wed, 21 Oct 2026 11:00:38 +0000",
-   "summary": "Startup acquisitions can reshape employees\u2019 finances and careers, with individual outcomes depending on a variety of conditions. Guest author Ron Honig, co-CEO and managing partner of From-Honig Family Office, suggests that before making major life changes, employees should clarify their award rights, when proceeds will become available, and what their after-tax payout can realistically support."
   }
  ]
 }
