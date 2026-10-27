@@ -1,11 +1,25 @@
 {
- "fetched_at": "2026-10-27T18:15:04.611113+00:00",
+ "fetched_at": "2026-10-27T22:25:58.329300+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "From 8VC to Benchmark, here\u2019s what\u2019s hiding in October SEC filings",
+   "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+   "published": "Tue, 27 Oct 2026 22:17:18 +0000",
+   "summary": "A whole crop of venture capital firms are raising significant new funds."
+  },
+  {
+   "feed": "techcrunch_venture",
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "published": "Tue, 27 Oct 2026 18:55:35 +0000",
+   "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
@@ -119,32 +133,39 @@
    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]"
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-   "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-   "published": "Fri, 16 Oct 2026 05:16:46 +0000",
-   "summary": "Benchmark says the Valley\u2019s rule against backing rivals is getting harder to keep."
+   "feed": "techcrunch_ai",
+   "title": "Bank of America kindly asks that you don\u2019t share your banking password with your AI assistant",
+   "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "published": "Tue, 27 Oct 2026 21:44:34 +0000",
+   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-   "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-   "published": "Thu, 15 Oct 2026 18:00:00 +0000",
-   "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston\u2019s SoWa Power Station. Bring your toughest questions and make the day count for your business."
+   "feed": "techcrunch_ai",
+   "title": "Who\u2019s really in charge at Anthropic after the IPO?",
+   "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "published": "Tue, 27 Oct 2026 21:38:28 +0000",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "published": "Tue, 27 Oct 2026 18:55:35 +0000",
+   "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
   },
   {
    "feed": "techcrunch_ai",
    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
    "published": "Tue, 27 Oct 2026 17:08:08 +0000",
-   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery"
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
   },
   {
    "feed": "techcrunch_ai",
    "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
    "published": "Tue, 27 Oct 2026 16:30:57 +0000",
-   "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
+   "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
   },
   {
    "feed": "techcrunch_ai",
@@ -179,7 +200,7 @@
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
    "published": "Tue, 27 Oct 2026 11:00:00 +0000",
-   "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+   "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue."
   },
   {
    "feed": "techcrunch_ai",
@@ -250,27 +271,6 @@
    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "published": "Sat, 24 Oct 2026 19:00:00 +0000",
    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Block\u2019s new voice model sounds eerily human",
-   "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-   "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-   "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-   "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-   "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "published": "Sat, 24 Oct 2026 14:00:00 +0000",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
   },
   {
    "feed": "crunchbase_news",
