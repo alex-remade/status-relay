@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T06:13:04.920594+00:00",
+ "fetched_at": "2026-10-27T12:28:29.823228+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -131,6 +131,13 @@
    "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
    "published": "Thu, 15 Oct 2026 18:00:00 +0000",
    "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston\u2019s SoWa Power Station. Bring your toughest questions and make the day count for your business."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+   "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+   "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+   "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
   },
   {
    "feed": "techcrunch_ai",
@@ -266,11 +273,18 @@
    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-   "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-   "published": "Thu, 22 Oct 2026 19:07:09 +0000",
-   "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+   "feed": "crunchbase_news",
+   "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
+   "link": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+   "published": "Tue, 27 Oct 2026 11:00:53 +0000",
+   "summary": "Venture funding to robotics startups has soared in 2026, with the bulk of investment going to companies based in China and the U.S., Crunchbase data shows. All told, global venture funding to robotics startups totaled $9.9 billion in Q3, more than double the $4.3 billion invested in Q3 2025, per Crunchbase data."
+  },
+  {
+   "feed": "crunchbase_news",
+   "title": "Your AI Agents Need A Chief Operating Officer, Too",
+   "link": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
+   "published": "Tue, 27 Oct 2026 11:00:44 +0000",
+   "summary": "Scaling AI agents requires treating them like employees in regulated roles, with written rules, clearly defined responsibilities and a named human manager accountable for their performance. Guest author Rick Folgmann, COO at Get Covered, tells companies they should start with tasks governed by established rules, adjust autonomy to each workflow\u2019s risks, and regularly review results before expanding agents\u2019 authority."
   },
   {
    "feed": "crunchbase_news",
@@ -327,20 +341,6 @@
    "link": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
    "published": "Thu, 22 Oct 2026 11:00:42 +0000",
    "summary": "In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic\u2019s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight models, saying instead that lasting enterprise AI value will come from proprietary data, reliable deployment and measurable customer outcomes rather than expensive models alone."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven\u2019t Raised Funding In Years",
-   "link": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
-   "published": "Thu, 22 Oct 2026 11:00:41 +0000",
-   "summary": "A number of companies whose names might feature on a playlist of 2021 boom-era unicorns have sold to acquirers in recent months, including one-time highfliers like Airtable, Headspace and Miro. In many cases, companies are selling at valuations which, while not puny, are still far below their former peaks."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Your Next Customer Might Be An Agent. Here\u2019s How To Build Your Brand For Both Humans And AI.",
-   "link": "https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/",
-   "published": "Thu, 22 Oct 2026 11:00:07 +0000",
-   "summary": "As AI agents increasingly recommend and purchase products, brands must appeal to both machines and humans by documenting their voice, creating clear product descriptions and checking how AI summarizes their messaging. Guest author Toby Coulthard suggests that startups should build these practices in from the outset, preserving human appeal while measuring success through conversions and revenue rather than content volume."
   }
  ]
 }
