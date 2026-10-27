@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:28:29.823228+00:00",
+ "fetched_at": "2026-10-27T18:15:04.611113+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,48 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "published": "Tue, 27 Oct 2026 17:08:08 +0000",
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "published": "Tue, 27 Oct 2026 16:30:57 +0000",
+   "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "published": "Tue, 27 Oct 2026 14:59:09 +0000",
+   "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Japan internet giant GMO says hackers posted stolen customer data",
+   "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "published": "Tue, 27 Oct 2026 13:32:57 +0000",
+   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+   "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+   "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+   "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
    "published": "Tue, 27 Oct 2026 11:00:00 +0000",
@@ -229,48 +271,6 @@
    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "published": "Sat, 24 Oct 2026 14:00:00 +0000",
    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u2018significant risks\u2019",
-   "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "published": "Fri, 23 Oct 2026 23:05:49 +0000",
-   "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-   "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-   "published": "Fri, 23 Oct 2026 21:59:19 +0000",
-   "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-   "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-   "published": "Fri, 23 Oct 2026 19:06:23 +0000",
-   "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-   "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-   "published": "Fri, 23 Oct 2026 04:00:00 +0000",
-   "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Left alone with nothing to do, AI agents started playing",
-   "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-   "published": "Fri, 23 Oct 2026 00:45:37 +0000",
-   "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-   "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
   },
   {
    "feed": "crunchbase_news",
