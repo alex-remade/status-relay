@@ -1,11 +1,25 @@
 {
- "fetched_at": "2026-10-27T22:25:58.329300+00:00",
+ "fetched_at": "2026-10-28T01:40:22.912219+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+  },
+  {
+   "feed": "techcrunch_venture",
+   "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+   "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+   "published": "Tue, 27 Oct 2026 22:26:03 +0000",
+   "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "From 8VC to Benchmark, here\u2019s what\u2019s hiding in October SEC filings",
@@ -119,18 +133,25 @@
    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "No agenda, no rush, no leaving San Francisco: Benchmark\u2019s partners on investing in a frenzied market",
-   "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-   "published": "Sun, 18 Oct 2026 21:00:00 +0000",
-   "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley\u2019s most storied firms"
+   "feed": "techcrunch_ai",
+   "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-   "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-   "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]"
+   "feed": "techcrunch_ai",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+   "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
   },
   {
    "feed": "techcrunch_ai",
@@ -250,27 +271,6 @@
    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "published": "Sun, 25 Oct 2026 16:57:32 +0000",
    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "The hottest AI wearables and gadgets you should know about",
-   "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-   "published": "Sun, 25 Oct 2026 14:10:00 +0000",
-   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Will AI expose the rickety infrastructure of the internet?",
-   "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-   "published": "Sat, 24 Oct 2026 20:15:33 +0000",
-   "summary": "The moment you realize the internet is \"held together by glue and dreams.\""
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-   "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "published": "Sat, 24 Oct 2026 19:00:00 +0000",
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
   },
   {
    "feed": "crunchbase_news",
