@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T19:51:17.436162+00:00",
+ "fetched_at": "2026-10-28T23:50:33.020294+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,34 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "published": "Wed, 28 Oct 2026 21:58:32 +0000",
+   "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "published": "Wed, 28 Oct 2026 21:48:37 +0000",
+   "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "published": "Wed, 28 Oct 2026 21:34:30 +0000",
+   "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "published": "Wed, 28 Oct 2026 21:25:30 +0000",
+   "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
    "published": "Wed, 28 Oct 2026 19:19:58 +0000",
@@ -243,34 +271,6 @@
    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
    "published": "Tue, 27 Oct 2026 17:08:08 +0000",
    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-   "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-   "published": "Tue, 27 Oct 2026 16:30:57 +0000",
-   "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "published": "Tue, 27 Oct 2026 14:59:09 +0000",
-   "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Japan internet giant GMO says hackers posted stolen customer data",
-   "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-   "published": "Tue, 27 Oct 2026 13:32:57 +0000",
-   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-   "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-   "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
   },
   {
    "feed": "crunchbase_news",
