@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T14:29:26.839880+00:00",
+ "fetched_at": "2026-10-28T19:51:17.436162+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,62 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+   "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+   "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+   "published": "Wed, 28 Oct 2026 19:05:46 +0000",
+   "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "The \u2018Vulnpocalypse\u2019 is coming for the internet\u2019s aging code, says Wiz\u2019s CTO",
+   "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+   "published": "Wed, 28 Oct 2026 18:50:39 +0000",
+   "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+   "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+   "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "published": "Wed, 28 Oct 2026 15:53:52 +0000",
+   "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+   "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "published": "Wed, 28 Oct 2026 15:41:18 +0000",
+   "summary": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "published": "Wed, 28 Oct 2026 15:00:00 +0000",
+   "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
    "published": "Wed, 28 Oct 2026 13:00:00 +0000",
@@ -217,60 +273,11 @@
    "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-   "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-   "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-   "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-   "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "published": "Tue, 27 Oct 2026 11:00:00 +0000",
-   "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "published": "Tue, 27 Oct 2026 02:00:00 +0000",
-   "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
-   "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "published": "Tue, 27 Oct 2026 01:12:21 +0000",
-   "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-   "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-   "published": "Mon, 26 Oct 2026 16:49:42 +0000",
-   "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-   "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-   "published": "Mon, 26 Oct 2026 16:46:36 +0000",
-   "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic officially files for its public debut",
-   "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-   "published": "Mon, 26 Oct 2026 14:35:22 +0000",
-   "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
-   "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-   "published": "Sun, 25 Oct 2026 21:31:16 +0000",
-   "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+   "feed": "crunchbase_news",
+   "title": "The Crunchbase Tech Layoffs Tracker",
+   "link": "https://news.crunchbase.com/startups/tech-layoffs/",
+   "published": "Wed, 28 Oct 2026 16:25:30 +0000",
+   "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
   },
   {
    "feed": "crunchbase_news",
@@ -334,13 +341,6 @@
    "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
    "published": "Fri, 23 Oct 2026 18:51:22 +0000",
    "summary": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million financing for Warhound, which wants to breed elite military dogs. A number of big rounds in areas including biotech, space tech and physical AI rounded out the list."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Protecting Trade Secrets In The Age Of AI",
-   "link": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
-   "published": "Fri, 23 Oct 2026 11:00:29 +0000",
-   "summary": "AI agents create new trade secret risks by allowing employees to access expertise or inadvertently expose proprietary information through personal devices. In this guest commentary, Seth Kugler, a partner at Grellas Shah LLP, warns companies that they should adopt strict AI policies, restrict data access on unmanaged devices, update confidentiality agreements, and act immediately when misuse is suspected."
   }
  ]
 }
