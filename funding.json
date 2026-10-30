@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T21:49:14.588109+00:00",
+ "fetched_at": "2026-10-30T01:25:53.874771+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "published": "Fri, 30 Oct 2026 01:20:48 +0000",
+   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "published": "Thu, 29 Oct 2026 23:42:22 +0000",
+   "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
    "published": "Thu, 29 Oct 2026 20:08:31 +0000",
@@ -257,20 +271,6 @@
    "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
    "published": "Wed, 28 Oct 2026 18:50:39 +0000",
    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
-   "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-   "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-   "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-   "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-   "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-   "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
   },
   {
    "feed": "crunchbase_news",
