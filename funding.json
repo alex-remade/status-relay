@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T14:36:15.593205+00:00",
+ "fetched_at": "2026-10-30T19:42:57.103695+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,27 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
+   "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "published": "Fri, 30 Oct 2026 17:47:12 +0000",
+   "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google\u2019s first data center satellite is online and writing poetry",
+   "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+   "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
+   "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "published": "Fri, 30 Oct 2026 16:03:45 +0000",
+   "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
    "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
    "published": "Fri, 30 Oct 2026 14:00:00 +0000",
@@ -144,7 +165,7 @@
    "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
    "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
    "published": "Fri, 30 Oct 2026 13:54:25 +0000",
-   "summary": "DoorDash said that it is open to working with third-party agent makers"
+   "summary": "DoorDash said that it is open to working with third-party agent makers."
   },
   {
    "feed": "techcrunch_ai",
@@ -252,25 +273,11 @@
    "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
-   "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-   "published": "Wed, 28 Oct 2026 21:58:32 +0000",
-   "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google expands AI Search ads globally as core ad growth slows",
-   "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-   "published": "Wed, 28 Oct 2026 21:48:37 +0000",
-   "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "published": "Wed, 28 Oct 2026 21:34:30 +0000",
-   "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+   "feed": "crunchbase_news",
+   "title": "The Week\u2019s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
+   "link": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+   "published": "Fri, 30 Oct 2026 16:33:59 +0000",
+   "summary": "This week featured a robust lineup of large rounds, led by manufacturing startup Re:Build, which closed on $2.1 billion, and predictions marketplace Kalshi, which picked up another $1 billion."
   },
   {
    "feed": "crunchbase_news",
@@ -334,13 +341,6 @@
    "link": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
    "published": "Tue, 27 Oct 2026 11:00:44 +0000",
    "summary": "Scaling AI agents requires treating them like employees in regulated roles, with written rules, clearly defined responsibilities and a named human manager accountable for their performance. Guest author Rick Folgmann, COO at Get Covered, tells companies they should start with tasks governed by established rules, adjust autonomy to each workflow\u2019s risks, and regularly review results before expanding agents\u2019 authority."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Some Observations About Anthropic\u2019s IPO Filing",
-   "link": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
-   "published": "Mon, 26 Oct 2026 20:10:57 +0000",
-   "summary": "In an S-1 filing today preceding what could be the largest IPO ever, Anthropic laid out extensive new details about its earnings, growth, key stakeholders and the risks it faces going forward. Clocking in at 335 pages, the document wasn\u2019t exactly light reading. However, in a preliminary once-over, we highlight some of the more intriguing disclosures."
   }
  ]
 }
