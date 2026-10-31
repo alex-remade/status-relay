@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-10-31T19:14:59.664604+00:00",
+ "fetched_at": "2026-10-31T22:36:50.328478+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "published": "Sat, 31 Oct 2026 21:36:07 +0000",
+   "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
@@ -126,11 +133,25 @@
    "summary": "At this year\u2019s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures\u2019 Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Investors break down how founders can raise a Series A today",
-   "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-   "published": "Thu, 22 Oct 2026 15:15:00 +0000",
-   "summary": "Raising a Series A these days isn't so simple \u2014 top investors break down what founders need to know now."
+   "feed": "techcrunch_ai",
+   "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "published": "Sat, 31 Oct 2026 21:41:00 +0000",
+   "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "published": "Sat, 31 Oct 2026 21:36:07 +0000",
+   "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "published": "Sat, 31 Oct 2026 21:17:03 +0000",
+   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
   },
   {
    "feed": "techcrunch_ai",
@@ -250,27 +271,6 @@
    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
    "published": "Thu, 29 Oct 2026 20:08:31 +0000",
    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Rivian expands joint venture with VW to include AI assistant",
-   "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-   "published": "Thu, 29 Oct 2026 20:05:47 +0000",
-   "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "published": "Thu, 29 Oct 2026 19:56:19 +0000",
-   "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta quietly launches an AI fashion app called Style Sketch",
-   "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-   "published": "Thu, 29 Oct 2026 19:14:36 +0000",
-   "summary": "The app connects to Instagram to build a virtual closet from photos you\u2019ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
   },
   {
    "feed": "crunchbase_news",
