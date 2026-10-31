@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T14:57:19.194193+00:00",
+ "fetched_at": "2026-10-31T19:14:59.664604+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "published": "Sat, 31 Oct 2026 16:12:55 +0000",
+   "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
    "published": "Sat, 31 Oct 2026 01:20:05 +0000",
@@ -264,13 +271,6 @@
    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
    "published": "Thu, 29 Oct 2026 19:14:36 +0000",
    "summary": "The app connects to Instagram to build a virtual closet from photos you\u2019ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Granola crunches up a dictation feature to compete with Wispr",
-   "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-   "published": "Thu, 29 Oct 2026 17:54:38 +0000",
-   "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
   },
   {
    "feed": "crunchbase_news",
