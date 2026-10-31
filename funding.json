@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T23:18:32.966087+00:00",
+ "fetched_at": "2026-10-31T02:33:08.581023+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -134,6 +134,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+   "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
    "published": "Fri, 30 Oct 2026 22:56:13 +0000",
@@ -264,13 +271,6 @@
    "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
    "published": "Thu, 29 Oct 2026 17:54:38 +0000",
    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-   "published": "Thu, 29 Oct 2026 17:00:00 +0000",
-   "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
   },
   {
    "feed": "crunchbase_news",
