@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-10-31T02:33:08.581023+00:00",
+ "fetched_at": "2026-10-31T08:50:54.756382+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+   "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+   "published": "Sat, 31 Oct 2026 04:16:50 +0000",
+   "summary": "The money behind the money is thrilled, mostly."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
@@ -124,13 +131,6 @@
    "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
    "published": "Thu, 22 Oct 2026 15:15:00 +0000",
    "summary": "Raising a Series A these days isn't so simple \u2014 top investors break down what founders need to know now."
-  },
-  {
-   "feed": "techcrunch_venture",
-   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-   "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-   "published": "Wed, 21 Oct 2026 21:16:20 +0000",
-   "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
   },
   {
    "feed": "techcrunch_ai",
