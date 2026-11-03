@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T10:01:32.431270+00:00",
+ "fetched_at": "2026-11-03T17:47:28.193434+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -8,10 +8,24 @@
  "items": [
   {
    "feed": "techcrunch_venture",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+   "published": "Tue, 03 Nov 2026 14:30:00 +0000",
+   "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+  },
+  {
+   "feed": "techcrunch_venture",
+   "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+   "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+   "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+   "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
+  },
+  {
+   "feed": "techcrunch_venture",
    "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe\u2019s startup scene",
    "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
    "published": "Tue, 03 Nov 2026 08:01:00 +0000",
-   "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech."
+   "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech."
   },
   {
    "feed": "techcrunch_venture",
@@ -126,11 +140,39 @@
    "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "What some of Anthropic\u2019s backers are worth before its IPO",
-   "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-   "published": "Fri, 23 Oct 2026 16:02:43 +0000",
-   "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
+   "feed": "techcrunch_ai",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "published": "Tue, 03 Nov 2026 17:07:01 +0000",
+   "summary": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+   "published": "Tue, 03 Nov 2026 16:30:34 +0000",
+   "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Apple restricts dating apps and AI companions to users 18 and up",
+   "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "published": "Tue, 03 Nov 2026 15:38:27 +0000",
+   "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+   "published": "Tue, 03 Nov 2026 14:30:00 +0000",
+   "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+   "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+   "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+   "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
   },
   {
    "feed": "techcrunch_ai",
@@ -238,39 +280,11 @@
    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Data centers are now a midterm issue, even in Brooklyn",
-   "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-   "published": "Sun, 01 Nov 2026 02:22:10 +0000",
-   "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-   "published": "Sat, 31 Oct 2026 21:41:00 +0000",
-   "summary": "Apple's new CEO defended the company's current position in the AI landscape."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-   "published": "Sat, 31 Oct 2026 21:36:07 +0000",
-   "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "published": "Sat, 31 Oct 2026 21:17:03 +0000",
-   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI reportedly lowers funding target for new round",
-   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-   "published": "Sat, 31 Oct 2026 16:12:55 +0000",
-   "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations."
+   "feed": "crunchbase_news",
+   "title": "China\u2019s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+   "link": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
+   "published": "Tue, 03 Nov 2026 12:00:44 +0000",
+   "summary": "Global venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15.9 billion funding round for China\u2019s DeepSeek."
   },
   {
    "feed": "crunchbase_news",
@@ -334,13 +348,6 @@
    "link": "https://news.crunchbase.com/startups/nontech-founder-government-ai-software-chen-fsh/",
    "published": "Wed, 28 Oct 2026 11:00:00 +0000",
    "summary": "After living as a monk while managing Graves\u2019 disease, a former Facebook engineer left Big Tech to pursue meaningful work, eventually founding government software startup FSH Technologies which aims to improve processes such as school food services and public records management through the use of artificial intelligence."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
-   "link": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
-   "published": "Tue, 27 Oct 2026 11:00:53 +0000",
-   "summary": "Venture funding to robotics startups has soared in 2026, with the bulk of investment going to companies based in China and the U.S., Crunchbase data shows. All told, global venture funding to robotics startups totaled $9.9 billion in Q3, more than double the $4.3 billion invested in Q3 2025, per Crunchbase data."
   }
  ]
 }
