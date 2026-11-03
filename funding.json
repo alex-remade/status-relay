@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-03T17:47:28.193434+00:00",
+ "fetched_at": "2026-11-03T22:36:12.871721+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
@@ -141,6 +148,41 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "published": "Tue, 03 Nov 2026 22:19:53 +0000",
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
+   "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+   "published": "Tue, 03 Nov 2026 21:05:55 +0000",
+   "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "published": "Tue, 03 Nov 2026 19:34:43 +0000",
+   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+   "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "published": "Tue, 03 Nov 2026 18:42:16 +0000",
+   "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Anthropic is still grappling with the economics of compute",
    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
    "published": "Tue, 03 Nov 2026 17:07:01 +0000",
@@ -243,41 +285,6 @@
    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
    "published": "Mon, 02 Nov 2026 16:23:21 +0000",
    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-   "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-   "published": "Mon, 02 Nov 2026 15:00:00 +0000",
-   "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
-   "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-   "published": "Mon, 02 Nov 2026 14:00:00 +0000",
-   "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
-   "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-   "published": "Mon, 02 Nov 2026 13:57:53 +0000",
-   "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
-   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "published": "Sun, 01 Nov 2026 21:55:23 +0000",
-   "summary": "Data centers are deeply unpopular. But what if we called them something else?"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
-   "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "published": "Sun, 01 Nov 2026 20:57:58 +0000",
-   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
   },
   {
    "feed": "crunchbase_news",
