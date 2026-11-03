@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-03T02:30:12.556033+00:00",
+ "fetched_at": "2026-11-03T10:01:32.431270+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe\u2019s startup scene",
+   "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+   "published": "Tue, 03 Nov 2026 08:01:00 +0000",
+   "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -126,11 +133,18 @@
    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-   "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-   "published": "Thu, 22 Oct 2026 23:15:00 +0000",
-   "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
+   "feed": "techcrunch_ai",
+   "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
+   "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "published": "Tue, 03 Nov 2026 07:20:00 +0000",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "published": "Tue, 03 Nov 2026 03:30:00 +0000",
+   "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
   },
   {
    "feed": "techcrunch_ai",
@@ -257,20 +271,6 @@
    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
    "published": "Sat, 31 Oct 2026 16:12:55 +0000",
    "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
-   "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-   "published": "Sat, 31 Oct 2026 01:20:05 +0000",
-   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-   "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-   "published": "Fri, 30 Oct 2026 22:56:13 +0000",
-   "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
   },
   {
    "feed": "crunchbase_news",
