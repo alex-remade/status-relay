@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T22:36:12.871721+00:00",
+ "fetched_at": "2026-11-04T02:42:13.559580+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -11,14 +11,14 @@
    "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
    "published": "Tue, 03 Nov 2026 21:43:08 +0000",
-   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
   },
   {
    "feed": "techcrunch_venture",
-   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
    "published": "Tue, 03 Nov 2026 14:30:00 +0000",
-   "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+   "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
   },
   {
    "feed": "techcrunch_venture",
@@ -148,17 +148,24 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Anthropic is working on a system to prove AI models\u2019 identity",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Data centers are turning to old jet engines as the wait for power grows",
    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
    "published": "Tue, 03 Nov 2026 22:19:53 +0000",
-   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines."
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
   },
   {
    "feed": "techcrunch_ai",
    "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
    "published": "Tue, 03 Nov 2026 21:43:08 +0000",
-   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
   },
   {
    "feed": "techcrunch_ai",
@@ -204,10 +211,10 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
    "published": "Tue, 03 Nov 2026 14:30:00 +0000",
-   "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+   "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
   },
   {
    "feed": "techcrunch_ai",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
    "published": "Mon, 02 Nov 2026 16:30:00 +0000",
    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
-   "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-   "published": "Mon, 02 Nov 2026 16:23:21 +0000",
-   "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
   },
   {
    "feed": "crunchbase_news",
