@@ -1,11 +1,25 @@
 {
- "fetched_at": "2026-11-04T09:58:41.642613+00:00",
+ "fetched_at": "2026-11-04T17:57:45.609819+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Sequoia hits rewind, undoing 20 years of expansion",
+   "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+   "published": "Wed, 04 Nov 2026 17:11:15 +0000",
+   "summary": "Sequoia is consolidating into a smaller, Bay Area\u2013centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds."
+  },
+  {
+   "feed": "techcrunch_venture",
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+   "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+   "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
@@ -133,18 +147,25 @@
    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-   "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-   "published": "Fri, 23 Oct 2026 20:57:13 +0000",
-   "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products."
+   "feed": "techcrunch_ai",
+   "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
+   "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+   "published": "Wed, 04 Nov 2026 16:51:35 +0000",
+   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-   "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-   "published": "Fri, 23 Oct 2026 19:25:13 +0000",
-   "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers."
+   "feed": "techcrunch_ai",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "published": "Wed, 04 Nov 2026 16:17:22 +0000",
+   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+   "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+   "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
   },
   {
    "feed": "techcrunch_ai",
@@ -266,25 +287,18 @@
    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Web host Squarespace lays off 19% of its employees",
-   "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-   "published": "Mon, 02 Nov 2026 19:25:59 +0000",
-   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
+   "feed": "crunchbase_news",
+   "title": "The Crunchbase Tech Layoffs Tracker",
+   "link": "https://news.crunchbase.com/startups/tech-layoffs/",
+   "published": "Wed, 04 Nov 2026 17:42:30 +0000",
+   "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "published": "Mon, 02 Nov 2026 19:19:17 +0000",
-   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
-   "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-   "published": "Mon, 02 Nov 2026 16:30:00 +0000",
-   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+   "feed": "crunchbase_news",
+   "title": "Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires",
+   "link": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+   "published": "Wed, 04 Nov 2026 12:00:14 +0000",
+   "summary": "More than half of all seed- through growth-stage venture capital raised in the U.S. so far in 2026 went to seven companies founded or led by men who are already billionaires. Together, these companies raised more than $260 billion in equity funding in the first 10 months of the year."
   },
   {
    "feed": "crunchbase_news",
@@ -330,13 +344,6 @@
   },
   {
    "feed": "crunchbase_news",
-   "title": "The Crunchbase Tech Layoffs Tracker",
-   "link": "https://news.crunchbase.com/startups/tech-layoffs/",
-   "published": "Wed, 28 Oct 2026 16:25:30 +0000",
-   "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
-  },
-  {
-   "feed": "crunchbase_news",
    "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
    "link": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
    "published": "Wed, 28 Oct 2026 12:00:48 +0000",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/",
    "published": "Wed, 28 Oct 2026 11:00:57 +0000",
    "summary": "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest author Itay Sagie suggests that founders and boards should track valuation alongside financial performance, model the effects of delaying a sale, and begin M&#038;A preparation while the business is strong and buyer interest is favorable."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "From Monk To Startups: One Founder\u2019s Unusual Path To Building Government Software",
-   "link": "https://news.crunchbase.com/startups/nontech-founder-government-ai-software-chen-fsh/",
-   "published": "Wed, 28 Oct 2026 11:00:00 +0000",
-   "summary": "After living as a monk while managing Graves\u2019 disease, a former Facebook engineer left Big Tech to pursue meaningful work, eventually founding government software startup FSH Technologies which aims to improve processes such as school food services and public records management through the use of artificial intelligence."
   }
  ]
 }
