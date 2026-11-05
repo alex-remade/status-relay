@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T23:36:10.665602+00:00",
+ "fetched_at": "2026-11-05T03:44:26.576103+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "published": "Thu, 05 Nov 2026 01:26:22 +0000",
+   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "After the midterms, a bigger clash over data centers could be coming",
+   "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "published": "Thu, 05 Nov 2026 01:02:14 +0000",
+   "summary": "Data center opposition crossed party lines in Tuesday\u2019s midterms."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
    "published": "Wed, 04 Nov 2026 22:45:09 +0000",
@@ -271,20 +285,6 @@
    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
    "published": "Tue, 03 Nov 2026 17:07:01 +0000",
    "summary": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-   "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-   "published": "Tue, 03 Nov 2026 16:30:34 +0000",
-   "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Apple restricts dating apps and AI companions to users 18 and up",
-   "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-   "published": "Tue, 03 Nov 2026 15:38:27 +0000",
-   "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
   },
   {
    "feed": "crunchbase_news",
