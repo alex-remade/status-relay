@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-05T11:39:17.934124+00:00",
+ "fetched_at": "2026-11-05T19:05:28.548680+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+   "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Sequoia hits rewind, undoing 20 years of expansion",
@@ -140,18 +147,67 @@
    "summary": "A whole crop of venture capital firms are raising significant new funds."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-   "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-   "published": "Tue, 27 Oct 2026 18:55:35 +0000",
-   "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+   "feed": "techcrunch_ai",
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "published": "Thu, 05 Nov 2026 18:02:27 +0000",
+   "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+   "published": "Thu, 05 Nov 2026 16:16:45 +0000",
+   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+   "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+   "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+   "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+   "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+   "published": "Thu, 05 Nov 2026 14:42:00 +0000",
+   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
+   "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+   "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+   "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+   "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+   "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+   "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+   "published": "Thu, 05 Nov 2026 12:00:00 +0000",
+   "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company."
   },
   {
    "feed": "techcrunch_ai",
    "title": "Apple is reportedly cutting budgets for its internal AI usage",
    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
    "published": "Thu, 05 Nov 2026 01:26:22 +0000",
-   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+   "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
   },
   {
    "feed": "techcrunch_ai",
@@ -231,67 +287,32 @@
    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-   "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-   "published": "Wed, 04 Nov 2026 13:00:00 +0000",
-   "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+   "feed": "crunchbase_news",
+   "title": "Exclusive: Nurx And Journey Clinical Co-Founders Raise $6M For Mental Health Startup Siggy",
+   "link": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
+   "published": "Thu, 05 Nov 2026 16:00:40 +0000",
+   "summary": "Siggy has raised $6 million in pre-seed funding to build a mental health service that uses AI to collect patients\u2019 histories and track progress between appointments with licensed clinicians, the startup told Crunchbase News exclusively."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic is working on a system to prove AI models\u2019 identity",
-   "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-   "published": "Tue, 03 Nov 2026 22:41:03 +0000",
-   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+   "feed": "crunchbase_news",
+   "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
+   "link": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
+   "published": "Thu, 05 Nov 2026 14:00:20 +0000",
+   "summary": "Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its founding in 2007."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Data centers are turning to old jet engines as the wait for power grows",
-   "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-   "published": "Tue, 03 Nov 2026 22:19:53 +0000",
-   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-   "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-   "published": "Tue, 03 Nov 2026 21:43:08 +0000",
-   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
-   "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-   "published": "Tue, 03 Nov 2026 21:05:55 +0000",
-   "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "published": "Tue, 03 Nov 2026 19:34:43 +0000",
-   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
-   "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-   "published": "Tue, 03 Nov 2026 18:42:16 +0000",
-   "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic is still grappling with the economics of compute",
-   "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-   "published": "Tue, 03 Nov 2026 17:07:01 +0000",
-   "summary": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse."
+   "feed": "crunchbase_news",
+   "title": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
+   "link": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/",
+   "published": "Thu, 05 Nov 2026 12:00:59 +0000",
+   "summary": "Companies spanning construction and robotics have raised about $1.6 billion so far this year \u2014 more than 4x the $389 million recorded in all of 2025 \u2014 according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding."
   },
   {
    "feed": "crunchbase_news",
    "title": "Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States",
    "link": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
    "published": "Wed, 04 Nov 2026 19:47:54 +0000",
-   "summary": "So far this year, less than 2% of all startup investment has gone to companies in post-election red states, a share that is much smaller than in years\u2019 past due to five states shifting to purple in the most recent election."
+   "summary": "So far this year, less than 2% of all startup investment has gone to companies in post-election red states, a share that is much smaller than in years past due to five states shifting to purple in the most recent election."
   },
   {
    "feed": "crunchbase_news",
@@ -334,27 +355,6 @@
    "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
    "published": "Fri, 30 Oct 2026 11:00:49 +0000",
    "summary": "Travel demand appears to be holding up, but at the same time, investor appetite for travel tech startups has cooled. Even a wave of startups promising to improve travel with AI hasn\u2019t managed to reverse the funding slowdown. We share what a review of Crunchbase data shows."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
-   "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
-   "published": "Thu, 29 Oct 2026 11:00:35 +0000",
-   "summary": "Crunchbase data shows that so far this year, investors have poured around $48 billion into financings around the Series B stage, the highest tally in years. Yet round counts are below year-ago levels and are on track for a multiyear low. We take a look at the data."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
-   "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
-   "published": "Thu, 29 Oct 2026 11:00:12 +0000",
-   "summary": "AI megarounds are masking a shrinking Series A market, leaving seed founders facing higher revenue expectations and longer timelines despite larger seed checks. To improve their chances, MGV's Marc Schr\u00f6der says, founders should size their seed funding around Series A milestones."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
-   "link": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
-   "published": "Wed, 28 Oct 2026 12:00:48 +0000",
-   "summary": "Numeracle, a McLean, Virginia-based company that verifies businesses and links their identities to the phone numbers they use to contact customers, has raised $28 million from Edison Partners to help businesses whose calls are incorrectly labeled as spam or blocked by phone carriers."
   }
  ]
 }
