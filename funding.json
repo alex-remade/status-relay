@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T19:05:28.548680+00:00",
+ "fetched_at": "2026-11-06T00:11:47.282885+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,10 +148,38 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
+   "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "published": "Thu, 05 Nov 2026 22:40:55 +0000",
+   "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Meta says US users can now video chat with their Muse AI avatar",
+   "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+   "published": "Thu, 05 Nov 2026 19:48:28 +0000",
+   "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+   "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+   "published": "Thu, 05 Nov 2026 19:12:39 +0000",
+   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+   "published": "Thu, 05 Nov 2026 19:06:12 +0000",
+   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
    "published": "Thu, 05 Nov 2026 18:02:27 +0000",
-   "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+   "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads."
   },
   {
    "feed": "techcrunch_ai",
@@ -257,34 +285,6 @@
    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
    "published": "Wed, 04 Nov 2026 19:30:04 +0000",
    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
-   "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-   "published": "Wed, 04 Nov 2026 19:29:52 +0000",
-   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
-   "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-   "published": "Wed, 04 Nov 2026 18:44:57 +0000",
-   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
-   "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-   "published": "Wed, 04 Nov 2026 16:51:35 +0000",
-   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-   "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-   "published": "Wed, 04 Nov 2026 16:17:22 +0000",
-   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
   },
   {
    "feed": "crunchbase_news",
