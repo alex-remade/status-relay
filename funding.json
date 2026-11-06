@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:57:51.461904+00:00",
+ "fetched_at": "2026-11-06T20:50:54.858498+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,41 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "published": "Fri, 06 Nov 2026 18:00:00 +0000",
+   "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren\u2019t on the ballot directly, they were a [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "published": "Fri, 06 Nov 2026 17:23:52 +0000",
+   "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren\u2019t on the ballot directly, they were a [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "published": "Fri, 06 Nov 2026 15:54:47 +0000",
+   "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
    "published": "Fri, 06 Nov 2026 14:10:00 +0000",
@@ -252,39 +287,11 @@
    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-   "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-   "published": "Thu, 05 Nov 2026 12:00:00 +0000",
-   "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Apple is reportedly cutting budgets for its internal AI usage",
-   "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-   "published": "Thu, 05 Nov 2026 01:26:22 +0000",
-   "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "After the midterms, a bigger clash over data centers could be coming",
-   "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-   "published": "Thu, 05 Nov 2026 01:02:14 +0000",
-   "summary": "Data center opposition crossed party lines in Tuesday\u2019s midterms."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
-   "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-   "published": "Wed, 04 Nov 2026 22:45:09 +0000",
-   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
-   "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-   "published": "Wed, 04 Nov 2026 22:13:16 +0000",
-   "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+   "feed": "crunchbase_news",
+   "title": "The Week\u2019s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+   "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+   "published": "Fri, 06 Nov 2026 19:29:06 +0000",
+   "summary": "This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone delivery provider Zipline International, which pulled in a fresh $1.5 billion."
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
    "published": "Tue, 03 Nov 2026 12:00:44 +0000",
    "summary": "Global venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15.9 billion funding round for China\u2019s DeepSeek."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC\u2019s Record Funding Year",
-   "link": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
-   "published": "Mon, 02 Nov 2026 12:00:28 +0000",
-   "summary": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline. Using Crunchbase data we provide a look at how third-quarter funding continued the year's dollars-up-but-deals-down trend."
   }
  ]
 }
