@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T07:02:23.306517+00:00",
+ "fetched_at": "2026-11-06T14:57:51.461904+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,27 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "published": "Fri, 06 Nov 2026 14:10:00 +0000",
+   "summary": "Amazon said that the feature will roll out to millions of users in coming weeks."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+   "summary": "Despite its small size, Underdog's new model can generate both speech and music."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "published": "Fri, 06 Nov 2026 13:00:00 +0000",
+   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
    "published": "Fri, 06 Nov 2026 06:28:32 +0000",
@@ -266,25 +287,18 @@
    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Almost no one uses AI agents to book their Uber, company says",
-   "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-   "published": "Wed, 04 Nov 2026 21:56:01 +0000",
-   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+   "feed": "crunchbase_news",
+   "title": "How To Challenge A Monopoly In The AI Age",
+   "link": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
+   "published": "Fri, 06 Nov 2026 12:00:08 +0000",
+   "summary": "AI chip startups can challenge the sector's Goliath's by building substantially better hardware for emerging inference demands, much as Juniper challenged Cisco with a new architecture suited to the internet\u2019s rapid growth. To win customers, writes guest author R K Anand, co-founder and chief product officer of Tensordyne, challengers must prove their advantages, make switching easy and use small, agile teams to anticipate needs that incumbents have yet to address."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI is already trying to shape the 2028 election",
-   "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-   "published": "Wed, 04 Nov 2026 21:25:44 +0000",
-   "summary": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta acquires AI coding startup Conductor",
-   "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-   "published": "Wed, 04 Nov 2026 21:10:56 +0000",
-   "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+   "feed": "crunchbase_news",
+   "title": "General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking",
+   "link": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
+   "published": "Fri, 06 Nov 2026 12:00:03 +0000",
+   "summary": "October was a busy month for U.S. startup funding, led by well-known venture investors with a healthy appetite for big deals. We take a look at active investor rankings across three categories: lead deal count, largest lead investments and total venture rounds."
   },
   {
    "feed": "crunchbase_news",
@@ -341,20 +355,6 @@
    "link": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
    "published": "Mon, 02 Nov 2026 12:00:28 +0000",
    "summary": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline. Using Crunchbase data we provide a look at how third-quarter funding continued the year's dollars-up-but-deals-down trend."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "The Week\u2019s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
-   "link": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
-   "published": "Fri, 30 Oct 2026 16:33:59 +0000",
-   "summary": "This week featured a robust lineup of large rounds, led by manufacturing startup Re:Build, which closed on $2.1 billion, and predictions marketplace Kalshi, which picked up another $1 billion."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
-   "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
-   "published": "Fri, 30 Oct 2026 11:00:49 +0000",
-   "summary": "Travel demand appears to be holding up, but at the same time, investor appetite for travel tech startups has cooled. Even a wave of startups promising to improve travel with AI hasn\u2019t managed to reverse the funding slowdown. We share what a review of Crunchbase data shows."
   }
  ]
 }
