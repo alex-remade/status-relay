@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T18:17:20.765023+00:00",
+ "fetched_at": "2026-11-07T22:03:54.132493+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "published": "Sat, 07 Nov 2026 21:17:08 +0000",
+   "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Crusoe sells troubled Wyoming data center project to Google",
    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
    "published": "Sat, 07 Nov 2026 01:40:28 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
    "published": "Thu, 05 Nov 2026 15:19:05 +0000",
    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "published": "Thu, 05 Nov 2026 14:42:00 +0000",
-   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac."
   },
   {
    "feed": "crunchbase_news",
