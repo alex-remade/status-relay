@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T20:50:54.858498+00:00",
+ "fetched_at": "2026-11-07T00:34:23.353686+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
    "published": "Fri, 06 Nov 2026 18:44:38 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
    "published": "Thu, 05 Nov 2026 14:00:00 +0000",
    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-   "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-   "published": "Thu, 05 Nov 2026 13:00:00 +0000",
-   "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials."
   },
   {
    "feed": "crunchbase_news",
