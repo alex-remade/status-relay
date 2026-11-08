@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T22:03:54.132493+00:00",
+ "fetched_at": "2026-11-08T01:23:30.724102+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "published": "Sat, 07 Nov 2026 22:07:22 +0000",
+   "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
    "published": "Sat, 07 Nov 2026 21:17:08 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
    "published": "Thu, 05 Nov 2026 16:16:45 +0000",
    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "published": "Thu, 05 Nov 2026 15:19:05 +0000",
-   "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
   },
   {
    "feed": "crunchbase_news",
