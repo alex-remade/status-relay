@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-08T19:39:20.923979+00:00",
+ "fetched_at": "2026-11-08T23:13:21.914092+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "published": "Sun, 08 Nov 2026 19:51:30 +0000",
+   "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
@@ -140,11 +147,11 @@
    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-   "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-   "published": "Tue, 27 Oct 2026 22:26:03 +0000",
-   "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
+   "feed": "techcrunch_ai",
+   "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "published": "Sun, 08 Nov 2026 21:00:11 +0000",
+   "summary": "In a memo to the company, Huang admitted that he had an affair."
   },
   {
    "feed": "techcrunch_ai",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
    "published": "Thu, 05 Nov 2026 18:00:00 +0000",
    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "published": "Thu, 05 Nov 2026 16:16:45 +0000",
-   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries."
   },
   {
    "feed": "crunchbase_news",
