@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T15:05:36.719707+00:00",
+ "fetched_at": "2026-11-08T19:39:20.923979+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -8,17 +8,17 @@
  "items": [
   {
    "feed": "techcrunch_venture",
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+   "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "published": "Sun, 08 Nov 2026 17:30:00 +0000",
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+  },
+  {
+   "feed": "techcrunch_venture",
    "title": "Sequoia shutting down its Scouts program marks the end of an era",
    "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
    "published": "Sat, 07 Nov 2026 05:01:54 +0000",
    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form."
-  },
-  {
-   "feed": "techcrunch_venture",
-   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-   "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "published": "Thu, 05 Nov 2026 18:00:00 +0000",
-   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
   },
   {
    "feed": "techcrunch_venture",
