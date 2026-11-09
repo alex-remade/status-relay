@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T02:45:47.720414+00:00",
+ "fetched_at": "2026-11-09T10:26:50.426445+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+   "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
    "published": "Sun, 08 Nov 2026 21:00:11 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
    "published": "Thu, 05 Nov 2026 18:02:27 +0000",
    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "published": "Thu, 05 Nov 2026 18:00:00 +0000",
-   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
   },
   {
    "feed": "crunchbase_news",
