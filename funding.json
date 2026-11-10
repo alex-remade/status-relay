@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T11:43:16.096566+00:00",
+ "fetched_at": "2026-11-10T18:55:25.930425+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,83 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "published": "Tue, 10 Nov 2026 18:49:52 +0000",
+   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "published": "Tue, 10 Nov 2026 17:30:00 +0000",
+   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "Tue, 10 Nov 2026 17:04:19 +0000",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "published": "Tue, 10 Nov 2026 15:54:08 +0000",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "published": "Tue, 10 Nov 2026 15:29:30 +0000",
+   "summary": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "published": "Tue, 10 Nov 2026 14:05:10 +0000",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "published": "Tue, 10 Nov 2026 13:00:00 +0000",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Otter AI can now follow conversations across 30+ languages",
    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
    "published": "Tue, 10 Nov 2026 07:00:00 +0000",
@@ -210,81 +287,18 @@
    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-   "published": "Mon, 09 Nov 2026 16:56:54 +0000",
-   "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+   "feed": "crunchbase_news",
+   "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining \u2014 Half Under 4 Years Old",
+   "link": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+   "published": "Tue, 10 Nov 2026 12:00:34 +0000",
+   "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private unicorn companies."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
-   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-   "published": "Mon, 09 Nov 2026 16:12:28 +0000",
-   "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-   "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-   "published": "Mon, 09 Nov 2026 14:00:00 +0000",
-   "summary": "Automattic aims to compete with the likes of Lovable with Spacefast."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u2018about a 50-50\u2019",
-   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "published": "Mon, 09 Nov 2026 05:26:29 +0000",
-   "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
-   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-   "published": "Sun, 08 Nov 2026 21:00:11 +0000",
-   "summary": "In a memo to the company, Huang admitted that he had an affair."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "published": "Sat, 07 Nov 2026 22:07:22 +0000",
-   "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "published": "Sat, 07 Nov 2026 21:17:08 +0000",
-   "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
-   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "published": "Sat, 07 Nov 2026 04:16:43 +0000",
-   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "published": "Sat, 07 Nov 2026 01:40:28 +0000",
-   "summary": "The deal highlights the challenges of developing massive AI data centers."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "published": "Fri, 06 Nov 2026 22:53:46 +0000",
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "published": "Fri, 06 Nov 2026 18:44:38 +0000",
-   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+   "feed": "crunchbase_news",
+   "title": "Startup Founders Are Using AI To File Patents. Here\u2019s Where DIY Becomes A Liability.",
+   "link": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/",
+   "published": "Tue, 10 Nov 2026 12:00:16 +0000",
+   "summary": "AI can help startups reduce patent preparation costs, but DIY applications may overlook critical issues. In this guest commentary, attorneys Michael Drapkin and Nathan Mutter of AI-Native law firm Landfall IP, argue that combining AI with legal expertise can produce more efficient, commercially valuable patent protection that withstands investor scrutiny and is harder for competitors to circumvent."
   },
   {
    "feed": "crunchbase_news",
@@ -341,20 +355,6 @@
    "link": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/",
    "published": "Thu, 05 Nov 2026 12:00:59 +0000",
    "summary": "Companies spanning construction and robotics have raised about $1.6 billion so far this year \u2014 more than 4x the $389 million recorded in all of 2025 \u2014 according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States",
-   "link": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
-   "published": "Wed, 04 Nov 2026 19:47:54 +0000",
-   "summary": "So far this year, less than 2% of all startup investment has gone to companies in post-election red states, a share that is much smaller than in years past due to five states shifting to purple in the most recent election."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "The Crunchbase Tech Layoffs Tracker",
-   "link": "https://news.crunchbase.com/startups/tech-layoffs/",
-   "published": "Wed, 04 Nov 2026 17:42:30 +0000",
-   "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles."
   }
  ]
 }
