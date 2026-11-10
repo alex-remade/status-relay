@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T21:02:19.032119+00:00",
+ "fetched_at": "2026-11-10T03:29:20.932175+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,34 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "published": "Tue, 10 Nov 2026 01:27:12 +0000",
+   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "published": "Mon, 09 Nov 2026 23:28:37 +0000",
+   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+   "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "published": "Mon, 09 Nov 2026 22:46:09 +0000",
+   "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "The race is on to sue Nvidia",
+   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "published": "Mon, 09 Nov 2026 22:23:42 +0000",
+   "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
    "published": "Mon, 09 Nov 2026 20:09:06 +0000",
@@ -257,34 +285,6 @@
    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
    "published": "Fri, 06 Nov 2026 18:44:20 +0000",
    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "How a Blue Wave midterm might reshape the AI industry",
-   "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-   "published": "Fri, 06 Nov 2026 18:00:00 +0000",
-   "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren\u2019t on the ballot directly, they were a [&#8230;]"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "After the midterms, is the AI industry in for a rough two years?",
-   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-   "published": "Fri, 06 Nov 2026 17:23:52 +0000",
-   "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren\u2019t on the ballot directly, they were a [&#8230;]"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-   "published": "Fri, 06 Nov 2026 15:54:47 +0000",
-   "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-   "published": "Fri, 06 Nov 2026 14:10:00 +0000",
-   "summary": "Amazon said that the feature will roll out to millions of users in coming weeks."
   },
   {
    "feed": "crunchbase_news",
