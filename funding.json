@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-10T18:55:25.930425+00:00",
+ "fetched_at": "2026-11-10T23:59:34.563316+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+   "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+   "published": "Tue, 10 Nov 2026 20:47:05 +0000",
+   "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
@@ -140,11 +147,39 @@
    "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston\u2019s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
-   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-   "published": "Wed, 28 Oct 2026 01:15:28 +0000",
-   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+   "feed": "techcrunch_ai",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "published": "Tue, 10 Nov 2026 21:08:52 +0000",
+   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
+   "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "published": "Tue, 10 Nov 2026 19:57:52 +0000",
+   "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "published": "Tue, 10 Nov 2026 19:23:34 +0000",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "published": "Tue, 10 Nov 2026 19:03:52 +0000",
+   "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
   },
   {
    "feed": "techcrunch_ai",
@@ -197,17 +232,17 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
-   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
-  },
-  {
-   "feed": "techcrunch_ai",
    "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
    "published": "Tue, 10 Nov 2026 14:00:00 +0000",
    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
   },
   {
    "feed": "techcrunch_ai",
@@ -252,39 +287,11 @@
    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "The race is on to sue Nvidia",
-   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-   "published": "Mon, 09 Nov 2026 22:23:42 +0000",
-   "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-   "published": "Mon, 09 Nov 2026 20:09:06 +0000",
-   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-   "published": "Mon, 09 Nov 2026 19:24:51 +0000",
-   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-   "published": "Mon, 09 Nov 2026 18:09:52 +0000",
-   "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "published": "Mon, 09 Nov 2026 18:00:00 +0000",
-   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+   "feed": "crunchbase_news",
+   "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
+   "link": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+   "published": "Tue, 10 Nov 2026 18:51:25 +0000",
+   "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details including a proposed share price range offering size."
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
    "published": "Thu, 05 Nov 2026 14:00:20 +0000",
    "summary": "Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its founding in 2007."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
-   "link": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/",
-   "published": "Thu, 05 Nov 2026 12:00:59 +0000",
-   "summary": "Companies spanning construction and robotics have raised about $1.6 billion so far this year \u2014 more than 4x the $389 million recorded in all of 2025 \u2014 according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding."
   }
  ]
 }
