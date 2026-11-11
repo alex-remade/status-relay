@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T06:02:06.210231+00:00",
+ "fetched_at": "2026-11-11T14:08:31.657409+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "published": "Wed, 11 Nov 2026 07:30:51 +0000",
+   "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
    "published": "Tue, 10 Nov 2026 21:08:52 +0000",
@@ -280,11 +287,11 @@
    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
-   "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-   "published": "Mon, 09 Nov 2026 22:46:09 +0000",
-   "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+   "feed": "crunchbase_news",
+   "title": "Exclusive: Nubank Alum Raises $14M For Colombia\u2019s Palomma To Tackle Rent Payments, Landlord Financing",
+   "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
+   "published": "Wed, 11 Nov 2026 13:00:04 +0000",
+   "summary": "Colombia-based startup, Palomma, has raised $10 million in Series A funding led by Mexican venture firm Cometa to expand its financial services business for landlords, tenants and property managers, Crunchbase News has exclusively learned."
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
    "published": "Thu, 05 Nov 2026 16:00:40 +0000",
    "summary": "Siggy has raised $6 million in pre-seed funding to build a mental health service that uses AI to collect patients\u2019 histories and track progress between appointments with licensed clinicians, the startup told Crunchbase News exclusively."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-   "link": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
-   "published": "Thu, 05 Nov 2026 14:00:20 +0000",
-   "summary": "Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its founding in 2007."
   }
  ]
 }
