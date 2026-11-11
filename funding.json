@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-11T14:08:31.657409+00:00",
+ "fetched_at": "2026-11-11T21:28:07.776004+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+   "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+   "published": "Wed, 11 Nov 2026 20:04:28 +0000",
+   "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
@@ -140,11 +147,74 @@
    "summary": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-   "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-   "published": "Wed, 28 Oct 2026 13:00:00 +0000",
-   "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston\u2019s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here."
+   "feed": "techcrunch_ai",
+   "title": "Why the data center you dread might never even be built",
+   "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "published": "Wed, 11 Nov 2026 20:15:15 +0000",
+   "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Meta is losing its longtime head of infrastructure",
+   "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "published": "Wed, 11 Nov 2026 20:12:01 +0000",
+   "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "published": "Wed, 11 Nov 2026 20:02:14 +0000",
+   "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "With $720M round, Britain\u2019s Fractile gets a leg up in the race for AI chips",
+   "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "published": "Wed, 11 Nov 2026 19:34:55 +0000",
+   "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "published": "Wed, 11 Nov 2026 19:22:22 +0000",
+   "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
+   "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "published": "Wed, 11 Nov 2026 16:16:07 +0000",
+   "summary": "\u201cThere are a lot of senior people in the industry that know this is happening, and are effectively condoning it,\u201d an investment intel consultant said."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+   "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "published": "Wed, 11 Nov 2026 16:14:44 +0000",
+   "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "published": "Wed, 11 Nov 2026 15:00:00 +0000",
+   "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "published": "Wed, 11 Nov 2026 14:00:00 +0000",
+   "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
   },
   {
    "feed": "techcrunch_ai",
@@ -215,76 +285,6 @@
    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
    "published": "Tue, 10 Nov 2026 15:54:08 +0000",
    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
-   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-   "published": "Tue, 10 Nov 2026 15:29:30 +0000",
-   "summary": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-   "published": "Tue, 10 Nov 2026 14:05:10 +0000",
-   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-   "published": "Tue, 10 Nov 2026 14:01:39 +0000",
-   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
-   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-   "published": "Tue, 10 Nov 2026 13:30:00 +0000",
-   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-   "published": "Tue, 10 Nov 2026 13:00:00 +0000",
-   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Otter AI can now follow conversations across 30+ languages",
-   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-   "published": "Tue, 10 Nov 2026 07:00:00 +0000",
-   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic reportedly plans to move forward with IPO plans",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-   "published": "Tue, 10 Nov 2026 01:27:12 +0000",
-   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-   "published": "Mon, 09 Nov 2026 23:28:37 +0000",
-   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
   },
   {
    "feed": "crunchbase_news",
