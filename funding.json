@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T21:28:07.776004+00:00",
+ "fetched_at": "2026-11-12T02:29:17.548883+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,27 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "published": "Wed, 11 Nov 2026 23:28:45 +0000",
+   "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
+   "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "published": "Wed, 11 Nov 2026 23:17:05 +0000",
+   "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Why the data center you dread might never even be built",
    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
    "published": "Wed, 11 Nov 2026 20:15:15 +0000",
@@ -172,7 +193,7 @@
    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
    "published": "Wed, 11 Nov 2026 19:54:00 +0000",
-   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings."
+   "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings."
   },
   {
    "feed": "techcrunch_ai",
@@ -264,27 +285,6 @@
    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
    "published": "Tue, 10 Nov 2026 18:49:52 +0000",
    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-   "published": "Tue, 10 Nov 2026 17:30:00 +0000",
-   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
-   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "published": "Tue, 10 Nov 2026 17:04:19 +0000",
-   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-   "published": "Tue, 10 Nov 2026 15:54:08 +0000",
-   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
   },
   {
    "feed": "crunchbase_news",
