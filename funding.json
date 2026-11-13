@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T12:50:05.580266+00:00",
+ "fetched_at": "2026-11-13T20:12:21.642136+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -36,17 +36,17 @@
   },
   {
    "feed": "techcrunch_venture",
-   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
-   "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "published": "Sun, 08 Nov 2026 17:30:00 +0000",
-   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
-  },
-  {
-   "feed": "techcrunch_venture",
    "title": "Sequoia shutting down its Scouts program marks the end of an era",
    "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
    "published": "Sat, 07 Nov 2026 05:01:54 +0000",
    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached its limits in its current form."
+  },
+  {
+   "feed": "techcrunch_venture",
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+   "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "published": "Thu, 05 Nov 2026 17:30:00 +0000",
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
   },
   {
    "feed": "techcrunch_venture",
@@ -148,6 +148,48 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+   "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+   "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "Fri, 13 Nov 2026 15:58:00 +0000",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+   "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+   "published": "Fri, 13 Nov 2026 14:44:48 +0000",
+   "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+   "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "published": "Fri, 13 Nov 2026 12:52:19 +0000",
+   "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
    "published": "Fri, 13 Nov 2026 12:28:23 +0000",
@@ -166,13 +208,6 @@
    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
    "published": "Thu, 12 Nov 2026 22:22:28 +0000",
    "summary": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "published": "Thu, 12 Nov 2026 21:35:00 +0000",
-   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
   },
   {
    "feed": "techcrunch_ai",
@@ -252,39 +287,11 @@
    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn\u2019t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
-   "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-   "published": "Thu, 12 Nov 2026 16:12:44 +0000",
-   "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-   "published": "Thu, 12 Nov 2026 15:37:29 +0000",
-   "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Norwest pushes deeper into AI with new $4B fund",
-   "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-   "published": "Thu, 12 Nov 2026 15:18:14 +0000",
-   "summary": "This is the investment firm's largest fund to date."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
-   "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-   "published": "Thu, 12 Nov 2026 15:02:28 +0000",
-   "summary": "This is Fireworks' second data breach in as many months."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nine Korean startups vie for a spot in Disrupt 2027\u2019s Startup Battlefield 200 competition",
-   "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-   "published": "Thu, 12 Nov 2026 13:26:25 +0000",
-   "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S."
+   "feed": "crunchbase_news",
+   "title": "The Week\u2019s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+   "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+   "published": "Fri, 13 Nov 2026 19:20:04 +0000",
+   "summary": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&#038;D, led the pack with a $1 billion series A, followed by Mercor, which secured $750 million to connect AI developers with human experts."
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
    "published": "Mon, 09 Nov 2026 12:00:32 +0000",
    "summary": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather than their paper valuation, writes guest author Ilman Shazhaev, founder and CEO of Dizzaract, who suggests that founders should build global investor bases that support customer acquisition and market entry while weighing venture growth expectations against sovereign-backed investors\u2019 localization, governance and other obligations."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "The Week\u2019s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
-   "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
-   "published": "Fri, 06 Nov 2026 19:29:06 +0000",
-   "summary": "This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone delivery provider Zipline International, which pulled in a fresh $1.5 billion."
   }
  ]
 }
