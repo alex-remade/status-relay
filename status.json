@@ -1,14 +1,127 @@
 {
- "fetched_at": "2026-11-14T00:55:44.095760+00:00",
+ "fetched_at": "2026-11-14T07:33:35.483160+00:00",
  "baseten": {
   "page": {
    "id": "8dp3vkb2h71c",
    "name": "Baseten",
    "url": "https://status.baseten.co",
    "time_zone": "America/Los_Angeles",
-   "updated_at": "2026-11-13T16:29:19.338-08:00"
+   "updated_at": "2026-11-13T23:06:51.605-08:00"
   },
   "incidents": [
+   {
+    "id": "yg5tzf98mpyf",
+    "name": "Elevated errors for multiple models on Model APIs",
+    "status": "resolved",
+    "created_at": "2026-11-13T21:12:15.000-08:00",
+    "updated_at": "2026-11-13T23:06:51.601-08:00",
+    "monitoring_at": "2026-11-13T22:45:10.073-08:00",
+    "resolved_at": "2026-11-13T22:58:20.507-08:00",
+    "impact": "minor",
+    "shortlink": "https://stspg.io/704gwk5n8w86",
+    "started_at": "2026-11-13T21:12:15.000-08:00",
+    "page_id": "8dp3vkb2h71c",
+    "incident_updates": [
+     {
+      "id": "3lpjslzfql34",
+      "status": "resolved",
+      "body": "This incident has been resolved.",
+      "incident_id": "yg5tzf98mpyf",
+      "created_at": "2026-11-13T22:58:20.507-08:00",
+      "updated_at": "2026-11-13T22:58:20.507-08:00",
+      "display_at": "2026-11-13T22:58:20.507-08:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "degraded_performance",
+        "new_status": "operational"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "m2v18gt8nrmh",
+      "status": "monitoring",
+      "body": "GLM 5.3 has recovered and we are continuing to monitor",
+      "incident_id": "yg5tzf98mpyf",
+      "created_at": "2026-11-13T22:45:10.073-08:00",
+      "updated_at": "2026-11-13T22:45:10.073-08:00",
+      "display_at": "2026-11-13T22:45:10.073-08:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "dw69tk0nb12l",
+      "status": "identified",
+      "body": "DeepSeek V4.1 Flash is fully recovered. We expect GLM 5.3 to recover in the next 10 minutes",
+      "incident_id": "yg5tzf98mpyf",
+      "created_at": "2026-11-13T22:35:15.539-08:00",
+      "updated_at": "2026-11-13T22:35:15.539-08:00",
+      "display_at": "2026-11-13T22:35:15.539-08:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "degraded_performance",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     },
+     {
+      "id": "n4nd2fnm40x6",
+      "status": "investigating",
+      "body": "We are seeing elevated errors on GLM 5.3 and DeepSeek V4.1 Flash",
+      "incident_id": "yg5tzf98mpyf",
+      "created_at": "2026-11-13T22:22:15.892-08:00",
+      "updated_at": "2026-11-13T23:06:51.338-08:00",
+      "display_at": "2026-11-13T21:12:15.000-08:00",
+      "affected_components": [
+       {
+        "code": "wlycmbh325fh",
+        "name": "Model APIs",
+        "old_status": "operational",
+        "new_status": "degraded_performance"
+       }
+      ],
+      "deliver_notifications": true,
+      "custom_tweet": null,
+      "tweet_id": null
+     }
+    ],
+    "components": [
+     {
+      "id": "wlycmbh325fh",
+      "name": "Model APIs",
+      "status": "operational",
+      "created_at": "2025-05-20T20:13:09.902-07:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
+      "position": 2,
+      "description": null,
+      "showcase": true,
+      "start_date": "2025-05-20",
+      "group_id": null,
+      "page_id": "8dp3vkb2h71c",
+      "group": false,
+      "only_show_if_degraded": false
+     }
+    ],
+    "reminder_intervals": null
+   },
    {
     "id": "qvtm4r8mzpll",
     "name": "Degraded Performance on DSV 4.1 Flash 1017-Fast on Model APIs",
@@ -69,7 +182,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -182,7 +295,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -275,7 +388,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -348,7 +461,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -421,7 +534,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -514,7 +627,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -587,7 +700,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -680,7 +793,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -846,7 +959,7 @@
       "name": "Model APIs",
       "status": "operational",
       "created_at": "2025-05-20T20:13:09.902-07:00",
-      "updated_at": "2026-11-12T15:31:53.643-08:00",
+      "updated_at": "2026-11-13T22:58:20.466-08:00",
       "position": 2,
       "description": null,
       "showcase": true,
@@ -1252,99 +1365,6 @@
       "created_at": "2026-09-24T00:43:41.945-07:00",
       "updated_at": "2026-09-24T01:31:56.337-07:00",
       "display_at": "2026-09-24T00:23:41.000-07:00",
-      "affected_components": [
-       {
-        "code": "pjcnq3hczbph",
-        "name": "Dedicated Inference",
-        "old_status": "operational",
-        "new_status": "partial_outage"
-       }
-      ],
-      "deliver_notifications": true,
-      "custom_tweet": null,
-      "tweet_id": null
-     }
-    ],
-    "components": [
-     {
-      "id": "pjcnq3hczbph",
-      "name": "Dedicated Inference",
-      "status": "operational",
-      "created_at": "2022-01-18T08:35:01.848-08:00",
-      "updated_at": "2026-09-29T01:15:20.242-07:00",
-      "position": 1,
-      "description": null,
-      "showcase": true,
-      "start_date": "2021-10-01",
-      "group_id": null,
-      "page_id": "8dp3vkb2h71c",
-      "group": false,
-      "only_show_if_degraded": false
-     }
-    ],
-    "reminder_intervals": null
-   },
-   {
-    "id": "2kfcxy48kxg8",
-    "name": "Elevated inference 500s for a subset of models deployed in GCP central1",
-    "status": "resolved",
-    "created_at": "2026-09-21T11:34:26.571-07:00",
-    "updated_at": "2026-09-21T11:41:15.625-07:00",
-    "monitoring_at": "2026-09-21T11:38:06.740-07:00",
-    "resolved_at": "2026-09-21T11:41:15.611-07:00",
-    "impact": "major",
-    "shortlink": "https://stspg.io/c7k9fhmmyz7d",
-    "started_at": "2026-09-21T11:34:26.565-07:00",
-    "page_id": "8dp3vkb2h71c",
-    "incident_updates": [
-     {
-      "id": "nzmcf9dhw774",
-      "status": "resolved",
-      "body": "This incident has been resolved.",
-      "incident_id": "2kfcxy48kxg8",
-      "created_at": "2026-09-21T11:41:15.611-07:00",
-      "updated_at": "2026-09-21T11:41:15.611-07:00",
-      "display_at": "2026-09-21T11:41:15.611-07:00",
-      "affected_components": [
-       {
-        "code": "pjcnq3hczbph",
-        "name": "Dedicated Inference",
-        "old_status": "degraded_performance",
-        "new_status": "operational"
-       }
-      ],
-      "deliver_notifications": true,
-      "custom_tweet": null,
-      "tweet_id": null
-     },
-     {
-      "id": "ydq6100qfw11",
-      "status": "monitoring",
-      "body": "A fix has been implemented and we are monitoring the results.",
-      "incident_id": "2kfcxy48kxg8",
-      "created_at": "2026-09-21T11:38:06.740-07:00",
-      "updated_at": "2026-09-21T11:38:06.740-07:00",
-      "display_at": "2026-09-21T11:38:06.740-07:00",
-      "affected_components": [
-       {
-        "code": "pjcnq3hczbph",
-        "name": "Dedicated Inference",
-        "old_status": "partial_outage",
-        "new_status": "degraded_performance"
-       }
-      ],
-      "deliver_notifications": true,
-      "custom_tweet": null,
-      "tweet_id": null
-     },
-     {
-      "id": "ksjx6s2msmy4",
-      "status": "identified",
-      "body": "The issue has been identified and a fix is being implemented.",
-      "incident_id": "2kfcxy48kxg8",
-      "created_at": "2026-09-21T11:34:26.647-07:00",
-      "updated_at": "2026-09-21T11:34:26.647-07:00",
-      "display_at": "2026-09-21T11:34:26.647-07:00",
       "affected_components": [
        {
         "code": "pjcnq3hczbph",
@@ -2417,7 +2437,7 @@
   ]
  },
  "modal_incidents_text": "Previous incidents | Modal Labs\nStatus\nMaintenance\nPrevious incidents\nCommunity Slack\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Modal Labs creates, updates or resolves an incident:\nSubscribe to specific components\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Modal Labs creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Modal Labs incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nPrevious incidents\nSep 2026 to Nov 2026\nNovember 2026\nNov 13, 2026\n1 incident\nContainer startup / sandbox execs degraded\nResolved\nResolved\nNov 13, 2026 at 7:29pm UTC\nWe're fully recovered.\n2 previous updates\nNov 10, 2026\n1 incident\nSome Sandboxes experiencing creation failures\nResolved\nResolved\nNov 10, 2026 at 7:58pm UTC\nWe have rolled back the offending change and are seeing recovery.\n1 previous update\nOctober 2026\nOct 19, 2026\n1 incident\nWeb functions degraded\nResolved\nResolved\nOct 19, 2026 at 4:50pm UTC\nThe degradation is resolved and web functions are operating normally. We will be implementing mechanisms to protect against a recurrence of this issue in future.\n1 previous update\nOct 14, 2026\n2 incidents\nKimi K3 shared endpoint downtime\nResolved\nResolved\nOct 14, 2026 at 10:23pm UTC\nWe identified the issue affecting the Kimi K3 shared endpoint and applied a mitigation. The endpoint is now fully operational.\n1 previous update\nKimi K3 shared endpoint is degraded\nResolved\nResolved\nOct 14, 2026 at 7:07am UTC\nWe identified the issue affecting the Kimi K3 shared endpoint and applied a mitigation. The endpoint is now fully operational.\n1 previous update\nOct 05, 2026\n1 incident\nFunction and Sandbox execution degraded\nResolved\nResolved\nOct 5, 2026 at 11:09pm UTC\nWe're seeing recovery for function and sandbox execution, worker networking has been restored\n1 previous update\nSeptember 2026\nSep 16, 2026\n1 incident\nDashboard and sandbox outage\nResolved\nResolved\nSep 16, 2026 at 6:43pm UTC\nWe're observing recovery of impacted services and will continue to monitor.\n2 previous updates\nSep 04, 2026\n1 incident\nStorage is degraded\nResolved\nResolved\nSep 4, 2026 at 10:51pm UTC\nError rates on the impacted volume endpoint have subsided. We will continue to monitor.\n1 previous update\n",
- "modal_home_text": "Modal Labs status\nStatus\nMaintenance\nPrevious incidents\nCommunity Slack\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Modal Labs creates, updates or resolves an incident:\nSubscribe to specific components\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Modal Labs creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Modal Labs incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nModal Proxy Maintenance\nNov 23, 2026 at 1:30am UTC\nControl Plane Maintenance\nNov 23, 2026 at 1:00am UTC\nAll services are online\nLast updated on Nov 14, 2026 at 12:55am UTC\nOperational\nOperational\nDowntime\nDowntime\nDegraded\nDegraded\nMaintenance\nMaintenance\nNot monitored\nNot monitored\nRecovered\nRecovered\nRecovered\nRecovered\nApplications\nOperational\nDeployment\n100% uptime\nDashboard and sandbox outage\nDegraded for 14 minutes\nSep 16, 2026\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nFunctions\nmodal.Function: execute functions\n100% uptime\nDegraded latency on .spawn() calls\nDegraded for 15 minutes\nAug 19, 2026\nIncreased function latency\nDegraded for 6 minutes\nAug 26, 2026\nFunction and Sandbox execution degraded\nDegraded for 7 minutes\nOct 05, 2026\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes, now operational\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nSandboxes\n100% uptime\n99.983% uptime\n99.989% uptime\nDashboard and sandbox outage\nDown for 14 minutes\nSep 16, 2026\nFunction and Sandbox execution degraded\nDegraded for 7 minutes\nOct 05, 2026\nSome Sandboxes experiencing creation failures\nDegraded for 23 minutes\nNov 10, 2026\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes, now operational\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nWeb Functions\nmodal.web_endpoint: engine for HTTP endpoints and ASGI apps\n100% uptime\nIncreased function latency\nDegraded for 11 minutes\nAug 26, 2026\nWeb functions degraded\nDegraded for 2 minutes\nOct 19, 2026\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes, now operational\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nServers\n100% uptime\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes, now operational\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nWeb services\nOperational\nDashboard\nDashboard functionality on modal.com\n100% uptime\n99.983% uptime\n99.989% uptime\nDashboard and sandbox outage\nDown for 14 minutes\nSep 16, 2026\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nStorage\nOperational\nVolumes\nmodal.Volume: mutable volumes built for high-performance file serving.\n100% uptime\n99.997% uptime\n99.998% uptime\nStorage is degraded\nDegraded for 2 hours and 8 minutes\nSep 04, 2026\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nDicts\n100% uptime\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nQueues\n100% uptime\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nSecrets\n100% uptime\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEndpoints\nOperational\nDedicated Endpoints\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nKimi K3 Shared Endpoint\n100% uptime\n99.969% uptime\n99.946% uptime\nKimi K3 shared endpoint downtime\nDown for 6 minutes\nDegraded for 34 minutes\nOct 14, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nInkling Shared Endpoint\n99.966% uptime\n99.983% uptime\n99.988% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nPrevious incidents\nNov 13, 2026\nContainer startup / sandbox execs degraded\nResolved\nResolved\nNov 13, 2026 at 7:29pm UTC\nWe're fully recovered.\n2 previous updates\nNov 10, 2026\nSome Sandboxes experiencing creation failures\nResolved\nResolved\nNov 10, 2026 at 7:58pm UTC\nWe have rolled back the offending change and are seeing recovery.\n1 previous update\nPrevious updates\n",
+ "modal_home_text": "Modal Labs status\nStatus\nMaintenance\nPrevious incidents\nCommunity Slack\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Modal Labs creates, updates or resolves an incident:\nSubscribe to specific components\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Modal Labs creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Modal Labs incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nModal Proxy Maintenance\nNov 23, 2026 at 1:30am UTC\nControl Plane Maintenance\nNov 23, 2026 at 1:00am UTC\nAll services are online\nLast updated on Nov 14, 2026 at 7:32am UTC\nOperational\nOperational\nDowntime\nDowntime\nDegraded\nDegraded\nMaintenance\nMaintenance\nNot monitored\nNot monitored\nRecovered\nRecovered\nRecovered\nRecovered\nApplications\nOperational\nDeployment\n100% uptime\nDashboard and sandbox outage\nDegraded for 14 minutes\nSep 16, 2026\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nFunctions\nmodal.Function: execute functions\n100% uptime\nDegraded latency on .spawn() calls\nDegraded for 15 minutes\nAug 19, 2026\nIncreased function latency\nDegraded for 6 minutes\nAug 26, 2026\nFunction and Sandbox execution degraded\nDegraded for 7 minutes\nOct 05, 2026\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nSandboxes\n100% uptime\n99.983% uptime\n99.989% uptime\nDashboard and sandbox outage\nDown for 14 minutes\nSep 16, 2026\nFunction and Sandbox execution degraded\nDegraded for 7 minutes\nOct 05, 2026\nSome Sandboxes experiencing creation failures\nDegraded for 23 minutes\nNov 10, 2026\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nWeb Functions\nmodal.web_endpoint: engine for HTTP endpoints and ASGI apps\n100% uptime\nIncreased function latency\nDegraded for 11 minutes\nAug 26, 2026\nWeb functions degraded\nDegraded for 2 minutes\nOct 19, 2026\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nServers\n100% uptime\nContainer startup / sandbox execs degraded\nDegraded for 10 minutes\nNov 13, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nWeb services\nOperational\nDashboard\nDashboard functionality on modal.com\n100% uptime\n99.983% uptime\n99.989% uptime\nDashboard and sandbox outage\nDown for 14 minutes\nSep 16, 2026\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nStorage\nOperational\nVolumes\nmodal.Volume: mutable volumes built for high-performance file serving.\n100% uptime\n99.997% uptime\n99.998% uptime\nStorage is degraded\nDegraded for 2 hours and 8 minutes\nSep 04, 2026\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nDicts\n100% uptime\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nQueues\n100% uptime\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nSecrets\n100% uptime\nControl plane maintenance\nUnder maintenance for 20 minutes\nNov 01, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEndpoints\nOperational\nDedicated Endpoints\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nKimi K3 Shared Endpoint\n100% uptime\n99.968% uptime\n99.945% uptime\nKimi K3 shared endpoint downtime\nDown for 6 minutes\nDegraded for 34 minutes\nOct 14, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nInkling Shared Endpoint\n99.965% uptime\n99.982% uptime\n99.988% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nPrevious incidents\nNov 13, 2026\nContainer startup / sandbox execs degraded\nResolved\nResolved\nNov 13, 2026 at 7:29pm UTC\nWe're fully recovered.\n2 previous updates\nNov 10, 2026\nSome Sandboxes experiencing creation failures\nResolved\nResolved\nNov 10, 2026 at 7:58pm UTC\nWe have rolled back the offending change and are seeing recovery.\n1 previous update\nPrevious updates\n",
  "together_incidents_text": "Previous incidents | Together AI\nStatus\nMaintenance\nPrevious incidents\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Together AI creates, updates or resolves an incident:\nSubscribe to specific components\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Together AI creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Together AI incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nPrevious incidents\nSep 2026 to Nov 2026\nNovember 2026\nNo incidents reported\nOctober 2026\nNo incidents reported\nSeptember 2026\nNo incidents reported\nPowered by\n",
- "runpod_home_text": "Runpod status\nHome\nGPU Cloud\nServerless\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Runpod creates, updates or resolves an incident:\nSubscribe to specific components\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Runpod creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Runpod incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nAll services are online\nLast updated on Nov 14, 2026 at 12:55am UTC\nOperational\nOperational\nDowntime\nDowntime\nDegraded\nDegraded\nMaintenance\nMaintenance\nNot monitored\nNot monitored\nRecovered\nRecovered\nRecovered\nRecovered\nServerless\nOperational\nserverless api: api.runpod.ai\n100% uptime\nSSH Proxy and Serverless are experiencing eleva...\nDegraded for 1 hour and 25 minutes\nSep 06, 2026\nElevated errors REST v2 APIs\nDegraded for 21 minutes\nOct 21, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nserverless: queue engine\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nServerless: CPU workers\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nGPU Cloud\nOperational\ngraphql: api.runpod.io\n99.999% uptime\nElevated errors on the GraphQL and REST v2 APIs\nDegraded for 1 hour\nSep 17, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nlog/metrics api: hapi.runpod.net\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\npod proxy: proxy.runpod.net\n100% uptime\nSSH Proxy and Serverless are experiencing eleva...\nDegraded for 1 hour and 25 minutes\nSep 06, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\ngraphql: transactional data store\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nui: runpod.io/console\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUpstream Systems\nExternal third party services that Runpod depend on\n99.915% uptime\n99.958% uptime\n99.972% uptime\nMaintenance\nDegraded for 13 hours and 54 minutes\nOct 19, 2026\nMaintenance\nDegraded for 14 minutes\nOct 21, 2026\nIncreased errors for S3 API\nDegraded for 3 hours and 23 minutes\nOct 22, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nCPU Cloud\nOperational\nRegional Health\nOperational\nAP-IN-1\n100% uptime\n99.992% uptime\n99.995% uptime\nPlanned Network & UFM Maintenance AP-IN region\nUnder maintenance for 3 hours\nOct 24, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nAP-JP-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-1\n85.487% uptime\n92.774% uptime\n95.189% uptime\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 10 hours and 30 minutes\nOct 31, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 1 day\nNov 02, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 1 day\nNov 03, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 20 hours and 6 minutes\nDegraded for 3 hours and 53 minutes\nNov 04, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDegraded for 20 hours and 22 minutes\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-3\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-4\n100% uptime\n100% uptime\n99.815% uptime\nCA-MTL-4 Network Issue\nDown for 28 minutes\nSep 09, 2026\nEmergency Network Maintenance for CA-MTL-4\nUnder maintenance for 4 hours\nSep 24, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-CZ-1\n100% uptime\nEU-CZ-1 Network Issue\nDegraded for 1 hour and 12 minutes\nAug 19, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-FR-1\n100% uptime\nPlanned Network Maintenance - EU-FR-1\nUnder maintenance for 59 minutes\nOct 20, 2026\nPlanned Network Maintenance - EU-FR-1\nUnder maintenance for 59 minutes\nOct 27, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-NL-1\n100% uptime\n99.861% uptime\n99.907% uptime\nEU-NL-1 Network Issue\nDown for 1 hour and 59 minutes\nSep 16, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-RO-1\n100% uptime\nEU-RO-1 Network Storage Issue\nDegraded for 1 hour and 30 minutes\nOct 10, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-SE-1\n92.356% uptime\n96.156% uptime\n97.441% uptime\nEU-SE-1 Network Issue\nDown for 33 minutes\nSep 24, 2026\nPlanned Network Maintenance in EU-SE-1\nUnder maintenance for 2 hours\nOct 30, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 10 hours and 30 minutes\nOct 31, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 19 hours and 4 minutes\nNov 02, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nNov 03, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nNov 04, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-1\n99.978% uptime\n99.975% uptime\n99.973% uptime\nEUR-IS-1 Network Issue\nDegraded for 3 hours\nAug 17, 2026\nEUR-IS-1 Network Issue\nDegraded for 9 hours and 39 minutes\nSep 12, 2026\nEUR-IS-1 Network Issue\nDown for 9 minutes\nDegraded for 1 hour and 14 minutes\nOct 20, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-2\n99.977% uptime\n99.988% uptime\n99.992% uptime\nEUR-IS-2 Network Issue\nDegraded for 1 hour and 8 minutes\nSep 16, 2026\nEUR-IS-2 Network Issue\nDegraded for 2 hours\nSep 18, 2026\nEUR-IS-2 DC is Degraded\nDegraded for 5 hours and 23 minutes\nSep 22, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-3\n97.176% uptime\n98.594% uptime\n99.064% uptime\nEUR-IS-3 Network Issue\nDown for 5 hours and 40 minutes\nOct 24, 2026\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nUnder maintenance for 2 hours\nNov 04, 2026\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nDown for 13 hours and 12 minutes\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-4\n99.578% uptime\n99.789% uptime\n99.860% uptime\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nUnder maintenance for 2 hours\nNov 04, 2026\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nDown for 3 hours and 43 seconds\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-NO-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-NO-2\n100% uptime\n99.994% uptime\n99.959% uptime\nEUR-NO-2 Network Issue\nDown for 48 minutes\nAug 19, 2026\nPlanned Network Maintenance EUR-NO-2\nDegraded for 3 hours and 30 minutes\nSep 29, 2026\nEmergency Network Maintenance - EUR-NO-2\nUnder maintenance for 9 hours and 30 minutes\nOct 09, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nOC-AU-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-CA-2\n99.718% uptime\n99.754% uptime\n99.836% uptime\nUS-CA-2 Networking is Degraded\nDegraded for 31 minutes\nOct 07, 2026\nUS-CA-2 Network Storage Issue\nDown for 1 hour and 31 minutes\nOct 09, 2026\nPlanned Network Maintenance - Edge Firewalls - ...\nDown for 2 hours and 26 seconds\nOct 29, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-GA-2\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-IL-1\n100% uptime\n99.983% uptime\n99.989% uptime\nUS-IL-1 Network Issue\nDown for 14 minutes\nSep 20, 2026\nUS-IL-1 Server Relocation\nUnder maintenance for 20 hours and 59 minutes\nNov 06, 2026\nUS-IL-1 Server Relocation\nUnder maintenance for 7 hours and 1 minute\nNov 07, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-KS-2\n99.948% uptime\n99.974% uptime\n99.983% uptime\nUS-KS-2 Network Issue\nDown for 21 minutes\nOct 28, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MD-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MO-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MO-2\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NC-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NC-2\n100% uptime\nUS-NC-2 Networking is Degraded\nDegraded for 1 hour and 46 minutes\nAug 31, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NE-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-3\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-4\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-WA-1\n99.647% uptime\n99.824% uptime\n99.883% uptime\nPlanned PDU maintenance: US-WA-1 & US-WA-2\nUnder maintenance for 3 hours\nSep 08, 2026\nUS-WA-1 Network Issue\nDown for 2 hours and 31 minutes\nOct 28, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-PA-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nPrevious incidents\nNov 07, 2026\nUS-IL-1 Server Relocation\nResolved\nResolved\nNov 7, 2026 at 3:01pm UTC\nMaintenance ended\n1 previous update\nPrevious updates\nPowered by\n"
+ "runpod_home_text": "Runpod status\nHome\nGPU Cloud\nServerless\nGet updates\nGet status updates\nE-mail\nRSS\nJSON\nWebhook\nSlack\nGet e-mail notifications whenever Runpod creates, updates or resolves an incident:\nSubscribe to specific components\nSubscribe\nGet the RSS feed:\nGet the Atom feed:\nGet the entire status page as JSON:\nGet a request to your URL whenever Runpod creates, updates or resolves an incident:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nThat's a Slack webhook URL, so we switched you to a Slack subscription.\nGet notified about Runpod incidents directly in Slack. Create a\nSlack webhook\nand paste it here:\nPlease confirm your e-mail address:\nSubscribe to specific components\nSubscribe\nAll services are online\nLast updated on Nov 14, 2026 at 7:33am UTC\nOperational\nOperational\nDowntime\nDowntime\nDegraded\nDegraded\nMaintenance\nMaintenance\nNot monitored\nNot monitored\nRecovered\nRecovered\nRecovered\nRecovered\nServerless\nOperational\nserverless api: api.runpod.ai\n100% uptime\nSSH Proxy and Serverless are experiencing eleva...\nDegraded for 1 hour and 25 minutes\nSep 06, 2026\nElevated errors REST v2 APIs\nDegraded for 21 minutes\nOct 21, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nserverless: queue engine\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nServerless: CPU workers\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nGPU Cloud\nOperational\ngraphql: api.runpod.io\n99.999% uptime\nElevated errors on the GraphQL and REST v2 APIs\nDegraded for 1 hour\nSep 17, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nlog/metrics api: hapi.runpod.net\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\npod proxy: proxy.runpod.net\n100% uptime\nSSH Proxy and Serverless are experiencing eleva...\nDegraded for 1 hour and 25 minutes\nSep 06, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\ngraphql: transactional data store\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nui: runpod.io/console\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUpstream Systems\nExternal third party services that Runpod depend on\n99.916% uptime\n99.958% uptime\n99.972% uptime\nMaintenance\nDegraded for 13 hours and 54 minutes\nOct 19, 2026\nMaintenance\nDegraded for 14 minutes\nOct 21, 2026\nIncreased errors for S3 API\nDegraded for 3 hours and 23 minutes\nOct 22, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nCPU Cloud\nOperational\nRegional Health\nOperational\nAP-IN-1\n100% uptime\n99.992% uptime\n99.995% uptime\nPlanned Network & UFM Maintenance AP-IN region\nUnder maintenance for 3 hours\nOct 24, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nAP-JP-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-1\n85.620% uptime\n92.807% uptime\n95.204% uptime\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 10 hours and 30 minutes\nOct 31, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 1 day\nNov 02, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 1 day\nNov 03, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 20 hours and 6 minutes\nDegraded for 3 hours and 53 minutes\nNov 04, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDegraded for 20 hours and 22 minutes\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-3\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nCA-MTL-4\n100% uptime\n100% uptime\n99.815% uptime\nCA-MTL-4 Network Issue\nDown for 28 minutes\nSep 09, 2026\nEmergency Network Maintenance for CA-MTL-4\nUnder maintenance for 4 hours\nSep 24, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-CZ-1\n100% uptime\nEU-CZ-1 Network Issue\nDegraded for 1 hour and 12 minutes\nAug 19, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-FR-1\n100% uptime\nPlanned Network Maintenance - EU-FR-1\nUnder maintenance for 59 minutes\nOct 20, 2026\nPlanned Network Maintenance - EU-FR-1\nUnder maintenance for 59 minutes\nOct 27, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-NL-1\n100% uptime\n99.862% uptime\n99.908% uptime\nEU-NL-1 Network Issue\nDown for 1 hour and 59 minutes\nSep 16, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-RO-1\n100% uptime\nEU-RO-1 Network Storage Issue\nDegraded for 1 hour and 30 minutes\nOct 10, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEU-SE-1\n92.427% uptime\n96.173% uptime\n97.448% uptime\nEU-SE-1 Network Issue\nDown for 33 minutes\nSep 24, 2026\nPlanned Network Maintenance in EU-SE-1\nUnder maintenance for 2 hours\nOct 30, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 10 hours and 30 minutes\nOct 31, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nDown for 19 hours and 4 minutes\nNov 02, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nNov 03, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nNov 04, 2026\nCA-MTL-1 and EU-SE-1 DC is Unavailable\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-1\n99.979% uptime\n99.976% uptime\n99.973% uptime\nEUR-IS-1 Network Issue\nDegraded for 3 hours\nAug 17, 2026\nEUR-IS-1 Network Issue\nDegraded for 9 hours and 39 minutes\nSep 12, 2026\nEUR-IS-1 Network Issue\nDown for 9 minutes\nDegraded for 1 hour and 14 minutes\nOct 20, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-2\n99.977% uptime\n99.988% uptime\n99.992% uptime\nEUR-IS-2 Network Issue\nDegraded for 1 hour and 8 minutes\nSep 16, 2026\nEUR-IS-2 Network Issue\nDegraded for 2 hours\nSep 18, 2026\nEUR-IS-2 DC is Degraded\nDegraded for 5 hours and 23 minutes\nSep 22, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-3\n97.202% uptime\n98.600% uptime\n99.067% uptime\nEUR-IS-3 Network Issue\nDown for 5 hours and 40 minutes\nOct 24, 2026\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nUnder maintenance for 2 hours\nNov 04, 2026\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nDown for 13 hours and 12 minutes\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-IS-4\n99.581% uptime\n99.790% uptime\n99.860% uptime\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nUnder maintenance for 2 hours\nNov 04, 2026\nPlanned Power Maintenance EUR-IS-3 & EUR-IS-4\nDown for 3 hours and 43 seconds\nNov 05, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-NO-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nEUR-NO-2\n100% uptime\n99.994% uptime\n99.959% uptime\nEUR-NO-2 Network Issue\nDown for 48 minutes\nAug 19, 2026\nPlanned Network Maintenance EUR-NO-2\nDegraded for 3 hours and 30 minutes\nSep 29, 2026\nEmergency Network Maintenance - EUR-NO-2\nUnder maintenance for 9 hours and 30 minutes\nOct 09, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nOC-AU-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-CA-2\n99.721% uptime\n99.755% uptime\n99.836% uptime\nUS-CA-2 Networking is Degraded\nDegraded for 31 minutes\nOct 07, 2026\nUS-CA-2 Network Storage Issue\nDown for 1 hour and 31 minutes\nOct 09, 2026\nPlanned Network Maintenance - Edge Firewalls - ...\nDown for 2 hours and 26 seconds\nOct 29, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-GA-2\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-IL-1\n100% uptime\n99.983% uptime\n99.989% uptime\nUS-IL-1 Network Issue\nDown for 14 minutes\nSep 20, 2026\nUS-IL-1 Server Relocation\nUnder maintenance for 20 hours and 59 minutes\nNov 06, 2026\nUS-IL-1 Server Relocation\nUnder maintenance for 7 hours and 1 minute\nNov 07, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-KS-2\n99.949% uptime\n99.974% uptime\n99.983% uptime\nUS-KS-2 Network Issue\nDown for 21 minutes\nOct 28, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MD-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MO-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-MO-2\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NC-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NC-2\n100% uptime\nUS-NC-2 Networking is Degraded\nDegraded for 1 hour and 46 minutes\nAug 31, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-NE-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-3\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-TX-4\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-WA-1\n99.650% uptime\n99.825% uptime\n99.883% uptime\nPlanned PDU maintenance: US-WA-1 & US-WA-2\nUnder maintenance for 3 hours\nSep 08, 2026\nUS-WA-1 Network Issue\nDown for 2 hours and 31 minutes\nOct 28, 2026\n30 days ago\n60 days ago\n90 days ago\nToday\nUS-PA-1\n100% uptime\n30 days ago\n60 days ago\n90 days ago\nToday\nPrevious incidents\nNov 07, 2026\nUS-IL-1 Server Relocation\nResolved\nResolved\nNov 7, 2026 at 3:01pm UTC\nMaintenance ended\n1 previous update\nPrevious updates\nPowered by\n"
 }
