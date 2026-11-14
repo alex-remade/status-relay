@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T19:27:34.788934+00:00",
+ "fetched_at": "2026-11-14T23:21:27.036040+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "published": "Sat, 14 Nov 2026 21:41:22 +0000",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "published": "Sat, 14 Nov 2026 17:30:00 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
    "published": "Thu, 12 Nov 2026 17:17:58 +0000",
    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
-   "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-   "published": "Thu, 12 Nov 2026 17:00:52 +0000",
-   "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
   },
   {
    "feed": "crunchbase_news",
