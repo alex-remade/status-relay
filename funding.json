@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-13T20:12:21.642136+00:00",
+ "fetched_at": "2026-11-14T00:55:50.221507+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Norwest pushes deeper into AI with new $4B fund",
@@ -140,11 +147,11 @@
    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-   "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-   "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-   "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+   "feed": "techcrunch_ai",
+   "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
   },
   {
    "feed": "techcrunch_ai",
@@ -155,7 +162,7 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+   "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
    "published": "Fri, 13 Nov 2026 18:40:30 +0000",
    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
@@ -280,11 +287,11 @@
    "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
-   "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-   "published": "Thu, 12 Nov 2026 16:32:33 +0000",
-   "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn\u2019t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
+   "feed": "crunchbase_news",
+   "title": "Crunchbase Data: Nvidia\u2019s Startup Funding Deals Hit A Record. What\u2019s Next After Huang?",
+   "link": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+   "published": "Fri, 13 Nov 2026 20:32:55 +0000",
+   "summary": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of the biggest venture deals of 2026. We take a fresh look at where Nvidia and its venture arm NVentures have been investing and what the future could hold."
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
    "published": "Mon, 09 Nov 2026 12:00:51 +0000",
    "summary": "More money is pouring into Series A rounds, but it isn\u2019t opening the door to more startups. U.S. companies have raised $42 billion at that stage this year through October, up roughly 60% year over year, while deal counts remain on pace with the past few years, Crunchbase data shows."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
-   "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
-   "published": "Mon, 09 Nov 2026 12:00:32 +0000",
-   "summary": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather than their paper valuation, writes guest author Ilman Shazhaev, founder and CEO of Dizzaract, who suggests that founders should build global investor bases that support customer acquisition and market entry while weighing venture growth expectations against sovereign-backed investors\u2019 localization, governance and other obligations."
   }
  ]
 }
