@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T14:29:59.890281+00:00",
+ "fetched_at": "2026-11-14T19:27:34.788934+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+   "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "published": "Sat, 14 Nov 2026 16:34:15 +0000",
+   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
    "published": "Fri, 13 Nov 2026 22:43:00 +0000",
@@ -271,20 +285,6 @@
    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
    "published": "Thu, 12 Nov 2026 17:00:52 +0000",
    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-   "published": "Thu, 12 Nov 2026 17:00:00 +0000",
-   "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it\u2019s easier for anyone to turn everyday moments into better photos."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang agrees to testify before Congress",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-   "published": "Thu, 12 Nov 2026 16:36:37 +0000",
-   "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
   },
   {
    "feed": "crunchbase_news",
