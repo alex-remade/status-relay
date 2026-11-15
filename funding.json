@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T17:27:46.825947+00:00",
+ "fetched_at": "2026-11-15T22:03:23.569774+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "published": "Sun, 15 Nov 2026 21:56:35 +0000",
+   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "published": "Sun, 15 Nov 2026 20:20:57 +0000",
+   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week\u2019s episode gave the cast a chance to show off all their impressions at once."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Where was Nvidia\u2019s security team?",
    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
    "published": "Sun, 15 Nov 2026 00:08:07 +0000",
@@ -271,20 +285,6 @@
    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
    "published": "Thu, 12 Nov 2026 19:11:00 +0000",
    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-   "published": "Thu, 12 Nov 2026 18:39:23 +0000",
-   "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
-   "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-   "published": "Thu, 12 Nov 2026 17:36:40 +0000",
-   "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
   },
   {
    "feed": "crunchbase_news",
