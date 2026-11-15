@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T23:21:27.036040+00:00",
+ "fetched_at": "2026-11-15T02:56:09.043138+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Where was Nvidia\u2019s security team?",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+   "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
    "published": "Sat, 14 Nov 2026 21:41:22 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
    "published": "Thu, 12 Nov 2026 17:36:40 +0000",
    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-   "published": "Thu, 12 Nov 2026 17:17:58 +0000",
-   "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
   },
   {
    "feed": "crunchbase_news",
