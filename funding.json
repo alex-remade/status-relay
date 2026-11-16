@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-16T01:57:55.230145+00:00",
+ "fetched_at": "2026-11-16T09:31:13.485181+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Helsing backer Plural raises $1.1B to fund Europe\u2019s next moonshots",
+   "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+   "published": "Mon, 16 Nov 2026 07:00:00 +0000",
+   "summary": "Operator-led VC firm Plural has raised \u20ac1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures\u2019 Kembara and EQT-managed Scaleup Europe Fund."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -140,11 +147,11 @@
    "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "published": "Thu, 29 Oct 2026 19:56:19 +0000",
-   "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+   "feed": "techcrunch_ai",
+   "title": "Apple launches new app to study how people use AI for health",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+   "summary": "Apple's new app for a study will answer everyday medical questions"
   },
   {
    "feed": "techcrunch_ai",
@@ -280,11 +287,11 @@
    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
-   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-   "published": "Thu, 12 Nov 2026 19:27:45 +0000",
-   "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+   "feed": "crunchbase_news",
+   "title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For \u2018GDP-Level Impact\u2019",
+   "link": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
+   "published": "Mon, 16 Nov 2026 07:00:39 +0000",
+   "summary": "London-based startup investor Plural, with a portfolio mix of energy, compute, defense, robotics, health and software, says it has closed on its largest fund to date \u2014 just over $1.1 billion, or 1 billion euros \u2014 to lead early-stage investments across Europe."
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/",
    "published": "Tue, 10 Nov 2026 12:00:16 +0000",
    "summary": "AI can help startups reduce patent preparation costs, but DIY applications may overlook critical issues. In this guest commentary, attorneys Michael Drapkin and Nathan Mutter of AI-Native law firm Landfall IP, argue that combining AI with legal expertise can produce more efficient, commercially valuable patent protection that withstands investor scrutiny and is harder for competitors to circumvent."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
-   "link": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
-   "published": "Mon, 09 Nov 2026 12:00:51 +0000",
-   "summary": "More money is pouring into Series A rounds, but it isn\u2019t opening the door to more startups. U.S. companies have raised $42 billion at that stage this year through October, up roughly 60% year over year, while deal counts remain on pace with the past few years, Crunchbase data shows."
   }
  ]
 }
