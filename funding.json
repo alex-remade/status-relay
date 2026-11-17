@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T11:14:50.114893+00:00",
+ "fetched_at": "2026-11-17T19:56:14.153226+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,104 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "published": "Tue, 17 Nov 2026 19:32:11 +0000",
+   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "published": "Tue, 17 Nov 2026 19:02:20 +0000",
+   "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "published": "Tue, 17 Nov 2026 18:48:23 +0000",
+   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+   "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+   "published": "Tue, 17 Nov 2026 18:04:16 +0000",
+   "summary": "The company uses agentic AI to make supply chains faster and more reliable."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "published": "Tue, 17 Nov 2026 17:32:25 +0000",
+   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it\u2019s a game",
+   "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+   "published": "Tue, 17 Nov 2026 17:20:41 +0000",
+   "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
+   "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "published": "Tue, 17 Nov 2026 16:44:15 +0000",
+   "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Daydream\u2019s new AI agent acts as your personal stylist \u2014 and can shop for you, too",
+   "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "published": "Tue, 17 Nov 2026 16:32:55 +0000",
+   "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+   "published": "Tue, 17 Nov 2026 15:00:00 +0000",
+   "summary": "Voyage Labs\u2019 flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+   "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google\u2019s DeepMind in 2021, has raised $5 billion in a Series C funding round."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
+   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+   "published": "Tue, 17 Nov 2026 14:26:46 +0000",
+   "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "published": "Tue, 17 Nov 2026 14:05:30 +0000",
+   "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
+   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "published": "Tue, 17 Nov 2026 14:00:00 +0000",
+   "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
    "published": "Mon, 16 Nov 2026 23:32:32 +0000",
@@ -189,102 +287,25 @@
    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Jordan Belfort\u2019s new AI voice startup, Tone, wants to sell like the \u2018Wolf of Wall Street\u2019",
-   "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-   "published": "Mon, 16 Nov 2026 17:10:00 +0000",
-   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+   "feed": "crunchbase_news",
+   "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+   "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
+   "published": "Tue, 17 Nov 2026 14:00:18 +0000",
+   "summary": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI will embed safety researchers to investigate AI subversion",
-   "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-   "published": "Mon, 16 Nov 2026 17:02:43 +0000",
-   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+   "feed": "crunchbase_news",
+   "title": "The Money Cleared The Bank. Now The Founder Is The Risk.",
+   "link": "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear/",
+   "published": "Tue, 17 Nov 2026 12:00:45 +0000",
+   "summary": "The first 90 days after a funding round can be overwhelming for founders, but executive coach Kelly Meerbott explains how they can protect their decision-making by pausing before major commitments, acknowledging stress, scheduling candid co-founder conversations, and seeking support from boards and trusted outside advisers."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-   "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-   "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Audible turns to AI to help users discover audiobooks",
-   "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-   "published": "Mon, 16 Nov 2026 15:52:19 +0000",
-   "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-   "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-   "published": "Mon, 16 Nov 2026 15:02:34 +0000",
-   "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-   "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-   "published": "Mon, 16 Nov 2026 14:48:13 +0000",
-   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-   "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-   "published": "Mon, 16 Nov 2026 12:30:00 +0000",
-   "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Apple launches new app to study how people use AI for health",
-   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "published": "Mon, 16 Nov 2026 01:30:00 +0000",
-   "summary": "Apple's new app for a study will answer everyday medical questions."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-   "published": "Sun, 15 Nov 2026 23:30:00 +0000",
-   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-   "published": "Sun, 15 Nov 2026 21:56:35 +0000",
-   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "\u2018SNL\u2019 gathers all the tech tycoons for a lesson in dating and spycraft",
-   "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-   "published": "Sun, 15 Nov 2026 20:20:57 +0000",
-   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week\u2019s episode gave the cast a chance to show off all their impressions at once."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Where was Nvidia\u2019s security team?",
-   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "published": "Sun, 15 Nov 2026 00:08:07 +0000",
-   "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "published": "Sat, 14 Nov 2026 21:41:22 +0000",
-   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "published": "Sat, 14 Nov 2026 17:30:00 +0000",
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+   "feed": "crunchbase_news",
+   "title": "PwC\u2019s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
+   "link": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
+   "published": "Tue, 17 Nov 2026 12:00:41 +0000",
+   "summary": "In this Q&#038;A, Mike Bellin, a partner and U.S. IPO services leader at PricewaterhouseCoopers, discussed the slowdown in IPO momentum, how public investors are evaluating AI companies, biotech\u2019s resurgence and why SPACs are attracting renewed interest. He also outlined what could set the stage for a stronger start to 2027."
   },
   {
    "feed": "crunchbase_news",
@@ -334,27 +355,6 @@
    "link": "https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/",
    "published": "Thu, 12 Nov 2026 12:00:33 +0000",
    "summary": "Recent startup investment has shifted away from meat substitutes and toward stuffing more protein into other packaged foods and drinks. It\u2019s a fad that\u2019s obvious on supermarket shelves, where startups and established brands alike relentlessly tout the added protein in their noodles, pancakes, cereals, energy bars, popcorn and so on. We take a look."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Exclusive: Nubank Alum Raises $14M For Colombia\u2019s Palomma To Tackle Rent Payments, Landlord Financing",
-   "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
-   "published": "Wed, 11 Nov 2026 13:00:04 +0000",
-   "summary": "Colombia-based startup, Palomma, has raised $10 million in Series A funding led by Mexican venture firm Cometa to expand its financial services business for landlords, tenants and property managers, Crunchbase News has exclusively learned."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-   "link": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
-   "published": "Tue, 10 Nov 2026 18:51:25 +0000",
-   "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details including a proposed share price range offering size."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining \u2014 Half Under 4 Years Old",
-   "link": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
-   "published": "Tue, 10 Nov 2026 12:00:34 +0000",
-   "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private unicorn companies."
   }
  ]
 }
