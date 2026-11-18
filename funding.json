@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-17T19:56:14.153226+00:00",
+ "fetched_at": "2026-11-18T02:22:54.047277+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Stripe backer Atomico calls for Europe to own its success stories",
+   "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+   "published": "Wed, 18 Nov 2026 00:01:00 +0000",
+   "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
@@ -140,11 +147,60 @@
    "summary": "The money behind the money is thrilled, mostly."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-   "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-   "published": "Fri, 30 Oct 2026 14:00:00 +0000",
-   "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free."
+   "feed": "techcrunch_ai",
+   "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+   "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "published": "Wed, 18 Nov 2026 00:16:50 +0000",
+   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "published": "Tue, 17 Nov 2026 23:37:48 +0000",
+   "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "published": "Tue, 17 Nov 2026 23:04:35 +0000",
+   "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen Huang as CEO",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "published": "Tue, 17 Nov 2026 22:42:27 +0000",
+   "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+   "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "published": "Tue, 17 Nov 2026 21:48:07 +0000",
+   "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
+   "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+   "published": "Tue, 17 Nov 2026 21:34:50 +0000",
+   "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
   },
   {
    "feed": "techcrunch_ai",
@@ -229,62 +285,6 @@
    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
    "published": "Tue, 17 Nov 2026 14:26:46 +0000",
    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
-   "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-   "published": "Tue, 17 Nov 2026 14:05:30 +0000",
-   "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
-   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-   "published": "Tue, 17 Nov 2026 14:00:00 +0000",
-   "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-   "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-   "published": "Mon, 16 Nov 2026 23:32:32 +0000",
-   "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "All the questions Nvidia should answer on Tuesday \u2014 but probably won\u2019t",
-   "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-   "published": "Mon, 16 Nov 2026 22:03:02 +0000",
-   "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "California state AG sues OpenAI over rogue agent incidents",
-   "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-   "published": "Mon, 16 Nov 2026 20:07:13 +0000",
-   "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
-   "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-   "published": "Mon, 16 Nov 2026 19:12:02 +0000",
-   "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be \u2018fine\u2019",
-   "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-   "published": "Mon, 16 Nov 2026 18:11:10 +0000",
-   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be \u201cfine\u201d without him at the helm."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "FBI says Artex AI open source hacking tool used to breach networks in \u2018under three hours\u2019",
-   "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "published": "Mon, 16 Nov 2026 17:36:43 +0000",
-   "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
   },
   {
    "feed": "crunchbase_news",
