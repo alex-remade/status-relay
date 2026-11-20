@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T07:50:11.095611+00:00",
+ "fetched_at": "2026-11-20T16:32:39.667542+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "published": "Fri, 20 Nov 2026 14:55:44 +0000",
+   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "published": "Fri, 20 Nov 2026 14:00:00 +0000",
+   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Apple may be developing its own AI agent that runs your Mac",
    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
    "published": "Fri, 20 Nov 2026 00:56:01 +0000",
@@ -273,18 +287,18 @@
    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic prices IPO at $83 a share, above projected range",
-   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "published": "Wed, 18 Nov 2026 22:11:15 +0000",
-   "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+   "feed": "crunchbase_news",
+   "title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
+   "link": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
+   "published": "Fri, 20 Nov 2026 12:00:25 +0000",
+   "summary": "What if solar farms could keep generating electricity after sunset with a little help from mirrors orbiting Earth? Or researchers could send an experiment into space for less than the price of a car? Our latest roundup also includes a company bringing AI to the old-school business of garbage hauling, another rethinking how factories are programmed, and a consumer brand betting that better breathing could become a big business."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-   "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-   "published": "Wed, 18 Nov 2026 21:57:40 +0000",
-   "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
+   "feed": "crunchbase_news",
+   "title": "What The Telecom Bust Taught Me About AI\u2019s Debt Boom",
+   "link": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
+   "published": "Fri, 20 Nov 2026 12:00:01 +0000",
+   "summary": "The AI buildout\u2019s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, borrowers\u2019 survival will depend on realistic demand forecasts and debt tied to dependable cash flows, with missed timelines potentially forcing restructurings and bankruptcies."
   },
   {
    "feed": "crunchbase_news",
@@ -341,20 +355,6 @@
    "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
    "published": "Tue, 17 Nov 2026 14:00:18 +0000",
    "summary": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "The Money Cleared The Bank. Now The Founder Is The Risk.",
-   "link": "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear/",
-   "published": "Tue, 17 Nov 2026 12:00:45 +0000",
-   "summary": "The first 90 days after a funding round can be overwhelming for founders, but executive coach Kelly Meerbott explains how they can protect their decision-making by pausing before major commitments, acknowledging stress, scheduling candid co-founder conversations, and seeking support from boards and trusted outside advisers."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "PwC\u2019s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
-   "link": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
-   "published": "Tue, 17 Nov 2026 12:00:41 +0000",
-   "summary": "In this Q&#038;A, Mike Bellin, a partner and U.S. IPO services leader at PricewaterhouseCoopers, discussed the slowdown in IPO momentum, how public investors are evaluating AI companies, biotech\u2019s resurgence and why SPACs are attracting renewed interest. He also outlined what could set the stage for a stronger start to 2027."
   }
  ]
 }
