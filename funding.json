@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T00:43:04.214054+00:00",
+ "fetched_at": "2026-11-20T07:50:11.095611+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -11,7 +11,7 @@
    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
    "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
    "published": "Fri, 20 Nov 2026 00:26:03 +0000",
-   "summary": "On the day Anthropic went public, Fireworks AI\u2019s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers\u2019 trust."
+   "summary": "On the day Anthropic went public, Fireworks AI\u2019s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers\u2019 trust."
   },
   {
    "feed": "techcrunch_venture",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Meta\u2019s new Muse Charm device may cost $300",
    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
    "published": "Thu, 19 Nov 2026 21:58:06 +0000",
@@ -271,20 +285,6 @@
    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
    "published": "Wed, 18 Nov 2026 21:57:40 +0000",
    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
-   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-   "published": "Wed, 18 Nov 2026 21:34:13 +0000",
-   "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
-   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-   "published": "Wed, 18 Nov 2026 21:31:21 +0000",
-   "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
   },
   {
    "feed": "crunchbase_news",
