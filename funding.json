@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-19T18:12:11.556513+00:00",
+ "fetched_at": "2026-11-20T00:43:04.214054+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+   "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+   "published": "Fri, 20 Nov 2026 00:26:03 +0000",
+   "summary": "On the day Anthropic went public, Fireworks AI\u2019s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers\u2019 trust."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "How Toyota is betting on a future beyond cars",
@@ -140,11 +147,32 @@
    "summary": "The one-year-old startup is now valued at $300 million."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
-   "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-   "published": "Mon, 02 Nov 2026 14:00:00 +0000",
-   "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
+   "feed": "techcrunch_ai",
+   "title": "Meta\u2019s new Muse Charm device may cost $300",
+   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "published": "Thu, 19 Nov 2026 21:58:06 +0000",
+   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "published": "Thu, 19 Nov 2026 21:42:31 +0000",
+   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "Thu, 19 Nov 2026 20:18:49 +0000",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Anthropic\u2019s IPO could deliver $156B to charity",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "published": "Thu, 19 Nov 2026 19:10:45 +0000",
+   "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
   },
   {
    "feed": "techcrunch_ai",
@@ -155,7 +183,7 @@
   },
   {
    "feed": "techcrunch_ai",
-   "title": "Meta\u2019s AI agent Muse is mixing up conversations and exposing private data, report says",
+   "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
    "published": "Thu, 19 Nov 2026 17:38:40 +0000",
    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
@@ -259,34 +287,6 @@
    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
-   "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-   "published": "Wed, 18 Nov 2026 20:07:01 +0000",
-   "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-   "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-   "published": "Wed, 18 Nov 2026 19:56:39 +0000",
-   "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google\u2019s AI feature in Search gets its own incognito mode",
-   "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-   "published": "Wed, 18 Nov 2026 18:04:05 +0000",
-   "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
-   "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-   "published": "Wed, 18 Nov 2026 17:32:10 +0000",
-   "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
-  },
-  {
    "feed": "crunchbase_news",
    "title": "The Blue Economy: The World\u2019s Quietest Economic Engine And Its Smartest Cities",
    "link": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
@@ -309,7 +309,7 @@
   },
   {
    "feed": "crunchbase_news",
-   "title": "Anthropic Shares Rise On Nasdaq After Record IPO",
+   "title": "Anthropic Closes Up 17% After Massive IPO",
    "link": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
    "published": "Wed, 18 Nov 2026 22:15:36 +0000",
    "summary": "The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its capital-raising goals."
