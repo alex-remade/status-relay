@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T16:32:39.667542+00:00",
+ "fetched_at": "2026-11-20T22:48:21.951932+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,27 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
+   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "published": "Fri, 20 Nov 2026 19:32:08 +0000",
+   "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Chips can survive the space environment \u2014 can their financing?",
+   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
    "published": "Fri, 20 Nov 2026 14:55:44 +0000",
@@ -266,25 +287,11 @@
    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
-   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-   "published": "Wed, 18 Nov 2026 23:25:17 +0000",
-   "summary": "\u201cI don\u2019t think [Huang is] disloyal to the United States,\" Musk said."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
-   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-   "published": "Wed, 18 Nov 2026 23:17:28 +0000",
-   "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-   "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-   "published": "Wed, 18 Nov 2026 22:58:11 +0000",
-   "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+   "feed": "crunchbase_news",
+   "title": "The Week\u2019s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
+   "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+   "published": "Fri, 20 Nov 2026 20:15:54 +0000",
+   "summary": "U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million."
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/",
    "published": "Wed, 18 Nov 2026 12:00:31 +0000",
    "summary": "Voice AI is drawing billions of dollars from investors as startups find more ways to put it to work. According to Crunchbase data, companies developing or offering the technology have raised at least $9.5 billion in venture funding so far in 2026."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
-   "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
-   "published": "Tue, 17 Nov 2026 14:00:18 +0000",
-   "summary": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation."
   }
  ]
 }
