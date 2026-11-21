@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T11:46:55.409370+00:00",
+ "fetched_at": "2026-11-21T18:18:02.593446+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "published": "Sat, 21 Nov 2026 16:00:00 +0000",
+   "summary": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
    "published": "Fri, 20 Nov 2026 19:53:41 +0000",
@@ -271,20 +285,6 @@
    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
    "published": "Thu, 19 Nov 2026 14:00:00 +0000",
    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-   "published": "Thu, 19 Nov 2026 00:42:56 +0000",
-   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
-   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-   "published": "Wed, 18 Nov 2026 23:45:00 +0000",
-   "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
   },
   {
    "feed": "crunchbase_news",
