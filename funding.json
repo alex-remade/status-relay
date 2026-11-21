@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T18:18:02.593446+00:00",
+ "fetched_at": "2026-11-21T23:29:15.720435+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "published": "Sat, 21 Nov 2026 21:37:10 +0000",
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "published": "Sat, 21 Nov 2026 21:07:42 +0000",
+   "summary": "We got two very different pictures of Nvidia \u2014 the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Here are the top AI agents that can live in your text messages",
    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "published": "Sat, 21 Nov 2026 17:00:00 +0000",
@@ -271,20 +285,6 @@
    "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
    "published": "Thu, 19 Nov 2026 16:19:41 +0000",
    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-   "published": "Thu, 19 Nov 2026 14:54:39 +0000",
-   "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Superhuman pushes its Go assistant everywhere",
-   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-   "published": "Thu, 19 Nov 2026 14:00:00 +0000",
-   "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail."
   },
   {
    "feed": "crunchbase_news",
