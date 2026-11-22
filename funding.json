@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T11:57:25.163675+00:00",
+ "fetched_at": "2026-11-22T19:30:02.089215+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Why data centers are at the center of the Big Tech backlash",
+   "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "published": "Sun, 22 Nov 2026 18:08:43 +0000",
+   "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
    "published": "Sat, 21 Nov 2026 21:37:10 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
    "published": "Thu, 19 Nov 2026 16:59:23 +0000",
    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-   "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-   "published": "Thu, 19 Nov 2026 16:19:41 +0000",
-   "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
   },
   {
    "feed": "crunchbase_news",
