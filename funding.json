@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-23T00:27:39.419787+00:00",
+ "fetched_at": "2026-11-23T08:10:04.907844+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
@@ -140,11 +147,11 @@
    "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-   "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-   "published": "Mon, 02 Nov 2026 23:13:53 +0000",
-   "summary": "The one-year-old startup is now valued at $300 million."
+   "feed": "techcrunch_ai",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
   },
   {
    "feed": "techcrunch_ai",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
    "published": "Thu, 19 Nov 2026 17:38:40 +0000",
    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
-   "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-   "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-   "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
   },
   {
    "feed": "crunchbase_news",
