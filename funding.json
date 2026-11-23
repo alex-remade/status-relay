@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T08:10:04.907844+00:00",
+ "fetched_at": "2026-11-23T20:22:42.548083+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,62 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "published": "Mon, 23 Nov 2026 19:14:46 +0000",
+   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "published": "Mon, 23 Nov 2026 18:12:22 +0000",
+   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "published": "Mon, 23 Nov 2026 17:14:23 +0000",
+   "summary": "Amazon is acquiring Decart\u2019s AI optimization technology and research team in a reported $7.5 billion deal."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Jensen Huang isn\u2019t out of the woods yet",
+   "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+   "published": "Mon, 23 Nov 2026 16:57:40 +0000",
+   "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
+   "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "published": "Mon, 23 Nov 2026 16:39:10 +0000",
+   "summary": "\"I spoke to them, let me put it that way \u2026 And I convinced them,\" the president told CNBC."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
+   "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "published": "Mon, 23 Nov 2026 15:04:01 +0000",
+   "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+   "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+   "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "published": "Mon, 23 Nov 2026 14:21:59 +0000",
+   "summary": "The stunning reversal was supported by senior officials in the U.S. government."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
    "published": "Mon, 23 Nov 2026 01:25:53 +0000",
@@ -231,60 +287,11 @@
    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Apple may be developing its own AI agent that runs your Mac",
-   "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-   "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-   "published": "Fri, 20 Nov 2026 00:43:50 +0000",
-   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta\u2019s new Muse Charm device may cost $300",
-   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-   "published": "Thu, 19 Nov 2026 21:58:06 +0000",
-   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-   "published": "Thu, 19 Nov 2026 21:42:31 +0000",
-   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "published": "Thu, 19 Nov 2026 20:18:49 +0000",
-   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Anthropic\u2019s IPO could deliver $156B to charity",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-   "published": "Thu, 19 Nov 2026 19:10:45 +0000",
-   "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-   "published": "Thu, 19 Nov 2026 18:09:11 +0000",
-   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
+   "feed": "crunchbase_news",
+   "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+   "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
+   "published": "Mon, 23 Nov 2026 12:00:19 +0000",
+   "summary": "The more than 1,900 startups on the The Crunchbase Unicorn Board have a combined valuation of roughly $9 trillion, based on their last reported valuations. But Crunchbase&#8217;s new Current Valuation Model, which estimates how private-company values have changed since their last funding rounds, puts that figure closer to $11 trillion. Most unicorns are estimated to [&#8230;]"
   },
   {
    "feed": "crunchbase_news",
@@ -348,13 +355,6 @@
    "link": "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/",
    "published": "Wed, 18 Nov 2026 12:00:54 +0000",
    "summary": "AI companies\u2019 hybrid subscription, usage and outcome-based pricing makes headline ARR figures an unreliable measure of predictable revenue, often obscuring differences in customer commitments and spending patterns. Guest author Kenza Zayani, an early-stage investor at RTP Global, warns that as these businesses seek growth capital, investors increasingly expect evidence of retention, expansion, revenue predictability and sustainable margins to assess the durability of growth."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Sector Snapshot: Investors Turn Up The Volume On Voice AI",
-   "link": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/",
-   "published": "Wed, 18 Nov 2026 12:00:31 +0000",
-   "summary": "Voice AI is drawing billions of dollars from investors as startups find more ways to put it to work. According to Crunchbase data, companies developing or offering the technology have raised at least $9.5 billion in venture funding so far in 2026."
   }
  ]
 }
