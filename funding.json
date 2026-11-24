@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T20:22:42.548083+00:00",
+ "fetched_at": "2026-11-24T04:57:22.500696+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,41 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "published": "Mon, 23 Nov 2026 22:05:50 +0000",
+   "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "published": "Mon, 23 Nov 2026 22:02:05 +0000",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "published": "Mon, 23 Nov 2026 21:47:41 +0000",
+   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "published": "Mon, 23 Nov 2026 21:25:42 +0000",
+   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
+   "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "published": "Mon, 23 Nov 2026 20:38:53 +0000",
+   "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
    "published": "Mon, 23 Nov 2026 19:14:46 +0000",
@@ -250,41 +285,6 @@
    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
    "published": "Sat, 21 Nov 2026 16:00:00 +0000",
    "summary": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
-   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "published": "Fri, 20 Nov 2026 19:53:41 +0000",
-   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
-   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-   "published": "Fri, 20 Nov 2026 19:32:08 +0000",
-   "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Chips can survive the space environment \u2014 can their financing?",
-   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-   "published": "Fri, 20 Nov 2026 17:40:01 +0000",
-   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
-   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-   "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Six AI-powered gadgets that could make your home office smarter",
-   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-   "published": "Fri, 20 Nov 2026 14:00:00 +0000",
-   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
   },
   {
    "feed": "crunchbase_news",
