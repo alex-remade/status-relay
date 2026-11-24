@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T04:57:22.500696+00:00",
+ "fetched_at": "2026-11-24T15:46:46.551666+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -288,6 +288,20 @@
   },
   {
    "feed": "crunchbase_news",
+   "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
+   "link": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
+   "published": "Tue, 24 Nov 2026 12:00:48 +0000",
+   "summary": "Employees and job-seekers alike are all using AI to create polished work and applications that appear perfect. In that environment, how can we promote and hire the right people?"
+  },
+  {
+   "feed": "crunchbase_news",
+   "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn\u2019t",
+   "link": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
+   "published": "Tue, 24 Nov 2026 12:00:21 +0000",
+   "summary": "Startup naming tends to be a cyclical endeavor. For a few years, founders might be enamoured of silly monikers, made-up words, and creative misspellings. Then the pendulum swings, and startups defer to simple names that describe what they actually do. So where are we now? Probably somewhere in the middle. Per a Crunchbase analysis of [&#8230;]"
+  },
+  {
+   "feed": "crunchbase_news",
    "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
    "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
    "published": "Mon, 23 Nov 2026 12:00:19 +0000",
@@ -341,20 +355,6 @@
    "link": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
    "published": "Wed, 18 Nov 2026 22:15:36 +0000",
    "summary": "The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its capital-raising goals."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "The Key Numbers I\u2019m Watching As Anthropic Makes Its IPO Debut",
-   "link": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
-   "published": "Wed, 18 Nov 2026 19:39:58 +0000",
-   "summary": "Just three years after launching with zero revenue, Anthropic brought in $17 billion and says more than 11,900 customers now spend at least $100,000 a year. But its IPO filing also reveals enormous computing commitments and big questions about balancing growth with risks."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "What To Measure When ARR Isn\u2019t Enough",
-   "link": "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/",
-   "published": "Wed, 18 Nov 2026 12:00:54 +0000",
-   "summary": "AI companies\u2019 hybrid subscription, usage and outcome-based pricing makes headline ARR figures an unreliable measure of predictable revenue, often obscuring differences in customer commitments and spending patterns. Guest author Kenza Zayani, an early-stage investor at RTP Global, warns that as these businesses seek growth capital, investors increasingly expect evidence of retention, expansion, revenue predictability and sustainable margins to assess the durability of growth."
   }
  ]
 }
