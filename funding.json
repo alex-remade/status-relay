@@ -1,11 +1,18 @@
 {
- "fetched_at": "2026-11-24T15:46:46.551666+00:00",
+ "fetched_at": "2026-11-25T00:10:39.188167+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
   "crunchbase_news"
  ],
  "items": [
+  {
+   "feed": "techcrunch_venture",
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "published": "Tue, 24 Nov 2026 18:30:42 +0000",
+   "summary": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations."
+  },
   {
    "feed": "techcrunch_venture",
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -140,11 +147,88 @@
    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
   },
   {
-   "feed": "techcrunch_venture",
-   "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe\u2019s startup scene",
-   "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-   "published": "Tue, 03 Nov 2026 08:01:00 +0000",
-   "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech."
+   "feed": "techcrunch_ai",
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "published": "Tue, 24 Nov 2026 22:27:52 +0000",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "published": "Tue, 24 Nov 2026 21:48:27 +0000",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "published": "Tue, 24 Nov 2026 21:32:38 +0000",
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "published": "Tue, 24 Nov 2026 21:19:52 +0000",
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "published": "Tue, 24 Nov 2026 18:30:42 +0000",
+   "summary": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "published": "Tue, 24 Nov 2026 18:02:59 +0000",
+   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "published": "Tue, 24 Nov 2026 17:00:00 +0000",
+   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "published": "Tue, 24 Nov 2026 16:46:00 +0000",
+   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+   "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+   "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "published": "Tue, 24 Nov 2026 16:02:37 +0000",
+   "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "published": "Tue, 24 Nov 2026 15:51:07 +0000",
+   "summary": "Amazon\u2019s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
   },
   {
    "feed": "techcrunch_ai",
@@ -201,90 +285,6 @@
    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
    "published": "Mon, 23 Nov 2026 17:14:23 +0000",
    "summary": "Amazon is acquiring Decart\u2019s AI optimization technology and research team in a reported $7.5 billion deal."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang isn\u2019t out of the woods yet",
-   "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-   "published": "Mon, 23 Nov 2026 16:57:40 +0000",
-   "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
-   "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-   "published": "Mon, 23 Nov 2026 16:39:10 +0000",
-   "summary": "\"I spoke to them, let me put it that way \u2026 And I convinced them,\" the president told CNBC."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
-   "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-   "published": "Mon, 23 Nov 2026 15:04:01 +0000",
-   "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-   "published": "Mon, 23 Nov 2026 14:43:03 +0000",
-   "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "published": "Mon, 23 Nov 2026 14:21:59 +0000",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-   "published": "Mon, 23 Nov 2026 01:25:53 +0000",
-   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
-   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-   "published": "Sun, 22 Nov 2026 21:14:07 +0000",
-   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Why data centers are at the center of the Big Tech backlash",
-   "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-   "published": "Sun, 22 Nov 2026 18:08:43 +0000",
-   "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
-   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-   "published": "Sat, 21 Nov 2026 21:37:10 +0000",
-   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "A tale of two Nvidias",
-   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-   "published": "Sat, 21 Nov 2026 21:07:42 +0000",
-   "summary": "We got two very different pictures of Nvidia \u2014 the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "published": "Sat, 21 Nov 2026 17:00:00 +0000",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-   "published": "Sat, 21 Nov 2026 16:00:00 +0000",
-   "summary": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
   },
   {
    "feed": "crunchbase_news",
