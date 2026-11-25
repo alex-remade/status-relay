@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T00:10:39.188167+00:00",
+ "fetched_at": "2026-11-25T08:53:24.223887+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,13 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
    "published": "Tue, 24 Nov 2026 22:27:52 +0000",
@@ -278,13 +285,6 @@
    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
    "published": "Mon, 23 Nov 2026 18:12:22 +0000",
    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-   "published": "Mon, 23 Nov 2026 17:14:23 +0000",
-   "summary": "Amazon is acquiring Decart\u2019s AI optimization technology and research team in a reported $7.5 billion deal."
   },
   {
    "feed": "crunchbase_news",
