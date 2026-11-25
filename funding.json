@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T08:53:24.223887+00:00",
+ "fetched_at": "2026-11-25T19:10:09.648573+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,41 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "published": "Wed, 25 Nov 2026 18:11:46 +0000",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "published": "Wed, 25 Nov 2026 17:35:58 +0000",
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "published": "Wed, 25 Nov 2026 15:41:43 +0000",
+   "summary": "\u2060Nvidia has made clear\u2060 it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. \u2060Anita Verma-Lallian\u2060 has been selling exactly that. [&#8230;]"
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "published": "Wed, 25 Nov 2026 14:10:18 +0000",
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "published": "Wed, 25 Nov 2026 13:00:00 +0000",
+   "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
    "published": "Wed, 25 Nov 2026 00:12:02 +0000",
@@ -252,39 +287,18 @@
    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-   "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-   "published": "Mon, 23 Nov 2026 21:47:41 +0000",
-   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+   "feed": "crunchbase_news",
+   "title": "The Art of The Terrible Startup Name",
+   "link": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+   "published": "Wed, 25 Nov 2026 12:00:49 +0000",
+   "summary": "What makes for a truly awful startup name?"
   },
   {
-   "feed": "techcrunch_ai",
-   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-   "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-   "published": "Mon, 23 Nov 2026 21:25:42 +0000",
-   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
-   "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-   "published": "Mon, 23 Nov 2026 20:38:53 +0000",
-   "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "published": "Mon, 23 Nov 2026 19:14:46 +0000",
-   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-   "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-   "published": "Mon, 23 Nov 2026 18:12:22 +0000",
-   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+   "feed": "crunchbase_news",
+   "title": "Your AI Startup\u2019s Exit Is Being Shaped By The Deals You Sign Today",
+   "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+   "published": "Wed, 25 Nov 2026 12:00:09 +0000",
+   "summary": "When everything moves that fast, the terms of your financings and of your contracts for compute, data and distribution get set early and in a hurry. Some of those terms will later slow a sale, add cost and erode value."
   },
   {
    "feed": "crunchbase_news",
@@ -341,20 +355,6 @@
    "link": "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/",
    "published": "Thu, 19 Nov 2026 12:00:23 +0000",
    "summary": "So far this year, venture backers have poured close to $4 billion into an assortment of global companies focused on recruiting, finding jobs and streamlining processes associated with HR and payroll management, Crunchbase data shows. Not surprisingly, the vast majority are also incorporating a heavy dose of AI."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Public Markets Are Frequently Wrong. The SaaSpocalypse Shows Us Why",
-   "link": "https://news.crunchbase.com/saas/public-market-value-regulations-ai-anton-oxx/",
-   "published": "Thu, 19 Nov 2026 12:00:01 +0000",
-   "summary": "The \u201cSaaSpocalypse\u201d selloff and uneven recovery exposed public markets\u2019 difficulty distinguishing software companies that benefit from AI from those it threatens, particularly as deeply embedded platforms retain competitive advantages. In this guest essay, Richard Anton, co-founder and general partner of Oxx, argues that this volatility distorts private transaction pricing, undermines confidence in public ownership and makes IPOs less appealing to founders."
-  },
-  {
-   "feed": "crunchbase_news",
-   "title": "Anthropic Closes Up 17% After Massive IPO",
-   "link": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
-   "published": "Wed, 18 Nov 2026 22:15:36 +0000",
-   "summary": "The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its capital-raising goals."
   }
  ]
 }
