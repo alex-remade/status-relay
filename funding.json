@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T12:17:38.993192+00:00",
+ "fetched_at": "2026-11-28T20:22:27.597021+00:00",
  "feeds": [
   "techcrunch_venture",
   "techcrunch_ai",
@@ -148,6 +148,20 @@
   },
   {
    "feed": "techcrunch_ai",
+   "title": "OpenAI\u2019s new countersuit accuses Apple of \u2018unlawfully pressuring vendors\u2019",
+   "link": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+   "published": "Sat, 28 Nov 2026 17:46:47 +0000",
+   "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own."
+  },
+  {
+   "feed": "techcrunch_ai",
+   "title": "Sakana AI\u2019s CEO says its homegrown models are about more than Japan\u2019s national security",
+   "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+   "published": "Sat, 28 Nov 2026 14:00:00 +0000",
+   "summary": "Sakana AI aims to strengthen Japan\u2019s industrial competitiveness with homegrown AI models."
+  },
+  {
+   "feed": "techcrunch_ai",
    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
    "published": "Thu, 26 Nov 2026 20:03:54 +0000",
@@ -271,20 +285,6 @@
    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
    "published": "Tue, 24 Nov 2026 18:30:42 +0000",
    "summary": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-   "published": "Tue, 24 Nov 2026 18:02:59 +0000",
-   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
-  },
-  {
-   "feed": "techcrunch_ai",
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "published": "Tue, 24 Nov 2026 17:00:00 +0000",
-   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
   },
   {
    "feed": "crunchbase_news",
